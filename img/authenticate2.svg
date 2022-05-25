@@ -1,0 +1,1153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="516" height="378" viewBox="0 0 516 378">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="路径_1731" data-name="路径 1731" d="M0,0H516V378H0Z" transform="translate(209.525 7.662)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.426" y1="0.517" x2="0.581" y2="1.532" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.527" y1="1.258" x2="0.642" y2="4.037" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.538" y1="1.45" x2="0.735" y2="4.596" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#636465"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.538" y1="1.45" x2="0.735" y2="4.596" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-6" x1="0.538" y1="1.45" x2="0.735" y2="4.596" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-7" x1="0.538" y1="1.45" x2="0.735" y2="4.595" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="authenticate2" transform="translate(-209.525 -7.662)" clip-path="url(#clip-path)">
+    <g id="组_1752" data-name="组 1752" transform="translate(-257.607 -528.475)">
+      <rect id="矩形_1109" data-name="矩形 1109" width="990.96" height="569.256" transform="translate(235.456 344.881)" fill="#2c93bf"/>
+      <g id="组_1549" data-name="组 1549" transform="translate(125.132 474.491)">
+        <g id="组_1547" data-name="组 1547">
+          <path id="路径_1732" data-name="路径 1732" d="M237.525,528.329V516.146h11.857v-8.953h11.552v-9.374h81.085v9.374h11.553v8.953h11.854v12.183H379.4V746.268H223.552V528.329Z" transform="translate(-59.306 -372.201)" fill="#257a9e" fill-rule="evenodd"/>
+          <path id="路径_1733" data-name="路径 1733" d="M395.932,433.993l-12.121,45.519H330.935v15.976h-14.2V788.956h158.4V495.488h-14.2V479.512H408.052Z" transform="translate(3.016 -414.889)" fill="#257a9e" fill-rule="evenodd"/>
+          <path id="路径_1734" data-name="路径 1734" d="M712.422,512.363V500.18h11.856v-8.951H735.83v-9.376h81.087v9.376h11.552v8.951h11.856v12.183H854.3v241.12H698.448V512.363Z" transform="translate(258.32 -382.879)" fill="#257a9e" fill-rule="evenodd"/>
+          <path id="路径_1735" data-name="路径 1735" d="M294.269,555.091V707.963H138.422V555.091Z" transform="translate(-116.243 -333.895)" fill="#257a9e" fill-rule="evenodd"/>
+          <path id="路径_1736" data-name="路径 1736" d="M178.215,493.779l-8.123,30.507H134.651V535h-9.519V746.943H231.3V535h-9.519v-10.71H186.339Z" transform="translate(-125.132 -374.903)" fill="#257a9e" fill-rule="evenodd"/>
+          <path id="路径_1737" data-name="路径 1737" d="M425.876,513.333V497.277H441.5v-11.8h15.224V473.125H563.591v12.356h15.227v11.8H594.44v16.055h18.416V762.784H407.46V513.333Z" transform="translate(63.698 -388.717)" fill="#257a9e" fill-rule="evenodd"/>
+          <path id="路径_1738" data-name="路径 1738" d="M680.459,458.428c23.646,0,44.152,9.466,54.306,23.312h12.546V742.33h-133.7V481.74h12.543C636.307,467.894,656.813,458.428,680.459,458.428Z" transform="translate(201.577 -398.547)" fill="#257a9e" fill-rule="evenodd"/>
+          <path id="路径_1739" data-name="路径 1739" d="M642.938,438.784h-50.28l-36.986-16.239-.6,16.239h-1.116V796.613h88.986Z" transform="translate(161.677 -422.546)" fill="#257a9e" fill-rule="evenodd"/>
+          <rect id="矩形_1110" data-name="矩形 1110" width="548.755" height="145.323" transform="translate(639.234 171.268)" fill="#257a9e"/>
+        </g>
+        <g id="组_1548" data-name="组 1548" transform="translate(5.432 121.45)">
+          <path id="路径_1740" data-name="路径 1740" d="M203.182,573.981V566.5h7.283V561h7.1v-5.758h49.812V561h7.1v5.5h7.282v7.484h8.585V707.864H194.6V573.981Z" transform="translate(-84.103 -455.248)" fill="#1a6180" fill-rule="evenodd"/>
+          <path id="路径_1741" data-name="路径 1741" d="M265.908,512.151l-.269,26.345h-8.114V736.682h90.49V538.5H339.9V527.706Z" transform="translate(-42.015 -484.066)" fill="#1a6180" fill-rule="evenodd"/>
+          <path id="路径_1742" data-name="路径 1742" d="M524.745,555.978V547.75h8.008V541.7h7.8v-6.333h54.759V541.7h7.8v6.045h8.006v8.228h9.436V718.813H515.307V555.978Z" transform="translate(130.398 -468.534)" fill="#1a6180" fill-rule="evenodd"/>
+          <path id="路径_1743" data-name="路径 1743" d="M242.355,584.833V688.07H137.107V584.833Z" transform="translate(-122.555 -435.453)" fill="#1a6180" fill-rule="evenodd"/>
+          <path id="路径_1744" data-name="路径 1744" d="M753.438,528.643l-5.489,20.6H724.018v7.233h-6.429V699.611h71.7V556.478h-6.429v-7.233H758.925Z" transform="translate(265.69 -473.035)" fill="#1a6180" fill-rule="evenodd"/>
+          <path id="路径_1745" data-name="路径 1745" d="M331.232,556.632V545.788h10.553v-7.966h10.281v-8.345h72.169v8.345h10.282v7.966h10.551v10.844H457.5V725.093H318.8V556.632Z" transform="translate(-1.035 -472.477)" fill="#1a6180" fill-rule="evenodd"/>
+          <path id="路径_1746" data-name="路径 1746" d="M503.16,519.553c15.969,0,29.817,6.392,36.674,15.744h8.473V711.28H458.013V535.3h8.473C473.343,525.945,487.192,519.553,503.16,519.553Z" transform="translate(92.078 -479.115)" fill="#1a6180" fill-rule="evenodd"/>
+          <path id="路径_1747" data-name="路径 1747" d="M477.821,506.287H443.865l-24.976-10.965-.41,10.965h-.754V747.938h60.1Z" transform="translate(65.132 -495.322)" fill="#1a6180" fill-rule="evenodd"/>
+          <rect id="矩形_1111" data-name="矩形 1111" width="370.588" height="98.142" transform="translate(431.267 115.66)" fill="#1a6180"/>
+          <path id="路径_1748" data-name="路径 1748" d="M214.473,564.654H165.832l-35.78-9.97-.584,9.97h-1.081V732.18h86.086Z" transform="translate(-128.387 -455.618)" fill="#1a6180" fill-rule="evenodd"/>
+          <path id="路径_1749" data-name="路径 1749" d="M631.452,525.122v-8.228h8.005v-6.045h7.8v-6.33h54.759v6.33h7.8v6.045h8.005v8.228h9.436V687.956H622.014V525.122Z" transform="translate(201.767 -489.171)" fill="#1a6180" fill-rule="evenodd"/>
+          <rect id="矩形_1112" data-name="矩形 1112" width="49.364" height="141.661" transform="translate(801.855 72.141)" fill="#1a6180"/>
+          <rect id="矩形_1113" data-name="矩形 1113" width="112.638" height="141.661" transform="translate(851.219 72.141)" fill="#1a6180"/>
+          <rect id="矩形_1114" data-name="矩形 1114" width="213.475" height="99.825" transform="translate(960.641 113.977)" fill="#1a6180"/>
+          <path id="路径_1750" data-name="路径 1750" d="M855.862,549.355h-42.21L782.605,538.39l-.507,10.965h-.938l1.072,119.36h74.7Z" transform="translate(308.209 -466.516)" fill="#1a6180" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="组_1550" data-name="组 1550" transform="translate(1073.823 550.062)">
+        <path id="路径_1751" data-name="路径 1751" d="M725.244,477.5c1.378-5.521,7.3-9.671,14.4-9.671s13.018,4.15,14.4,9.671a17.084,17.084,0,0,1,7.361-1.627c7.334,0,13.412,4.432,14.521,10.228,5.622,1.38,9.754,5.7,9.754,10.771h0c0,6.178-6.123,11.23-13.608,11.23H707.216c-7.485,0-13.608-5.052-13.608-11.23h0c0-5.075,4.132-9.391,9.756-10.771,1.1-5.8,7.186-10.228,14.521-10.228A17.07,17.07,0,0,1,725.244,477.5Z" transform="translate(-693.608 -467.83)" fill="#e0f5ff" fill-rule="evenodd"/>
+        <path id="路径_1752" data-name="路径 1752" d="M721.193,467.83c7.1,0,13.017,4.152,14.4,9.671a17.079,17.079,0,0,1,7.361-1.627c7.334,0,13.412,4.432,14.521,10.228,5.622,1.38,9.754,5.7,9.754,10.769v0c0,6.178-6.123,11.23-13.608,11.23H721.193Z" transform="translate(-675.158 -467.83)" fill="#cdecfc" fill-rule="evenodd"/>
+      </g>
+      <rect id="矩形_1115" data-name="矩形 1115" width="990.96" height="104.225" transform="translate(235.456 809.912)" fill="#5d8407"/>
+      <rect id="矩形_1116" data-name="矩形 1116" width="990.96" height="71.724" transform="translate(235.456 842.413)" fill="#8c8c8c"/>
+      <path id="路径_1753" data-name="路径 1753" d="M232.173,617.764H624.3c11.43,0,20.782,8.408,20.782,18.683v0c0,10.275-9.354,18.683-20.782,18.683H232.173c-11.43,0-20.784-8.408-20.784-18.683v0C211.389,626.172,220.741,617.764,232.173,617.764Z" transform="translate(57.691 182.513)" fill="#616161" fill-rule="evenodd"/>
+      <g id="组_1551" data-name="组 1551" transform="translate(329.873 806.088)">
+        <path id="路径_1754" data-name="路径 1754" d="M260.687,621.246H421.938a12.907,12.907,0,0,1,12.868,12.872h0a12.907,12.907,0,0,1-12.868,12.873H260.687a12.909,12.909,0,0,1-12.87-12.873h0A12.908,12.908,0,0,1,260.687,621.246Z" transform="translate(-247.817 -621.246)" fill="#5e8f21" fill-rule="evenodd"/>
+        <path id="路径_1755" data-name="路径 1755" d="M259.643,623.679H418.949a8.784,8.784,0,0,1,6.221,2.59l0,0a8.787,8.787,0,0,1,2.587,6.223h0a8.786,8.786,0,0,1-2.587,6.223l0,0a8.784,8.784,0,0,1-6.221,2.59H259.643a8.778,8.778,0,0,1-6.221-2.59l0,0a8.787,8.787,0,0,1-2.587-6.223h0a8.787,8.787,0,0,1,2.587-6.223l0,0a8.778,8.778,0,0,1,6.221-2.59Zm159.305,1.837H259.643a6.955,6.955,0,0,0-4.926,2.044v.005a6.954,6.954,0,0,0-2.049,4.925h0a6.955,6.955,0,0,0,2.049,4.926v.005a6.955,6.955,0,0,0,4.926,2.044H418.949a6.951,6.951,0,0,0,4.925-2.044v-.005a6.948,6.948,0,0,0,2.049-4.926h0a6.947,6.947,0,0,0-2.049-4.925v-.005A6.951,6.951,0,0,0,418.949,625.516Z" transform="translate(-245.8 -619.619)" fill="#e1ebd6" fill-rule="evenodd"/>
+      </g>
+      <path id="路径_1756" data-name="路径 1756" d="M370.917,628.686H792.029A22.588,22.588,0,0,1,814.348,651.4h0a22.589,22.589,0,0,1-22.319,22.716H370.917A22.588,22.588,0,0,1,348.6,651.4h0A22.587,22.587,0,0,1,370.917,628.686Z" transform="translate(149.463 189.818)" fill="#8c8c8c" fill-rule="evenodd"/>
+      <g id="组_1667" data-name="组 1667" transform="translate(517.654 582.095)">
+        <g id="组_1584" data-name="组 1584" transform="translate(0 61.832)">
+          <rect id="矩形_1117" data-name="矩形 1117" width="44.286" height="159.94" transform="translate(2.244 17.763)" fill="#91573f"/>
+          <g id="组_1558" data-name="组 1558" transform="translate(3.267 21.891)">
+            <g id="组_1554" data-name="组 1554">
+              <g id="组_1552" data-name="组 1552" transform="translate(0.002 7.16)">
+                <path id="路径_1757" data-name="路径 1757" d="M366.891,549.988H362.3v6.225h4.593a1.431,1.431,0,0,0,1.425-1.427v-3.373A1.43,1.43,0,0,0,366.891,549.988Z" transform="translate(-362.298 -535.796)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1758" data-name="路径 1758" d="M366.891,558.42H362.3v6.225h4.593a1.431,1.431,0,0,0,1.425-1.427v-3.371A1.431,1.431,0,0,0,366.891,558.42Z" transform="translate(-362.298 -530.157)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1759" data-name="路径 1759" d="M366.891,567.015H362.3v6.223h4.593a1.431,1.431,0,0,0,1.425-1.427v-3.369A1.431,1.431,0,0,0,366.891,567.015Z" transform="translate(-362.298 -524.408)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1760" data-name="路径 1760" d="M366.891,575.448H362.3v6.221h4.593a1.43,1.43,0,0,0,1.425-1.425v-3.373A1.428,1.428,0,0,0,366.891,575.448Z" transform="translate(-362.298 -518.768)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1761" data-name="路径 1761" d="M366.891,583.96H362.3v6.223h4.593a1.428,1.428,0,0,0,1.425-1.424v-3.373A1.431,1.431,0,0,0,366.891,583.96Z" transform="translate(-362.298 -513.075)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1762" data-name="路径 1762" d="M366.891,592.393H362.3v6.223h4.593a1.431,1.431,0,0,0,1.425-1.427v-3.373A1.431,1.431,0,0,0,366.891,592.393Z" transform="translate(-362.298 -507.434)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1763" data-name="路径 1763" d="M366.982,541.484H362.3v6.223h4.684a1.432,1.432,0,0,0,1.427-1.427v-3.371A1.43,1.43,0,0,0,366.982,541.484Z" transform="translate(-362.298 -541.484)" fill="#73442f" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1553" data-name="组 1553">
+                <path id="矩形_1118" data-name="矩形 1118" d="M.854,0H12.5a.855.855,0,0,1,.855.855V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.37V.854A.854.854,0,0,1,.854,0Z" transform="translate(0.092 14.407)" fill="#73442f"/>
+                <path id="矩形_1119" data-name="矩形 1119" d="M.855,0H12.5a.855.855,0,0,1,.855.855V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.37V.855A.855.855,0,0,1,.855,0Z" transform="translate(0.092 28.297)" fill="#73442f"/>
+                <path id="矩形_1120" data-name="矩形 1120" d="M.855,0H12.5a.854.854,0,0,1,.854.854V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.37V.855A.855.855,0,0,1,.855,0Z" transform="translate(0 42.821)" fill="#73442f"/>
+                <path id="矩形_1121" data-name="矩形 1121" d="M.855,0H12.5a.854.854,0,0,1,.854.854V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.37V.855A.855.855,0,0,1,.855,0Z" transform="translate(0 56.711)" fill="#73442f"/>
+                <path id="矩形_1122" data-name="矩形 1122" d="M.855,0H12.5a.854.854,0,0,1,.854.854V5.37a.854.854,0,0,1-.854.854H.854A.854.854,0,0,1,0,5.37V.855A.855.855,0,0,1,.855,0Z" transform="translate(0 71.1)" fill="#73442f"/>
+                <path id="矩形_1123" data-name="矩形 1123" d="M.855,0H12.5a.854.854,0,0,1,.854.854V5.371a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.372V.855A.855.855,0,0,1,.855,0Z" transform="translate(0 84.99)" fill="#73442f"/>
+                <path id="矩形_1124" data-name="矩形 1124" d="M.855,0H12.5a.855.855,0,0,1,.855.855V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.37V.855A.855.855,0,0,1,.855,0Z" transform="translate(0.092)" fill="#73442f"/>
+              </g>
+            </g>
+            <g id="组_1557" data-name="组 1557" transform="translate(0 92.225)">
+              <g id="组_1555" data-name="组 1555" transform="translate(0.002)">
+                <path id="路径_1764" data-name="路径 1764" d="M366.889,632.654H362.3v-6.225h4.591a1.43,1.43,0,0,1,1.427,1.425v3.373A1.43,1.43,0,0,1,366.889,632.654Z" transform="translate(-362.298 -569.735)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1765" data-name="路径 1765" d="M366.889,624.06H362.3v-6.225h4.591a1.43,1.43,0,0,1,1.427,1.427v3.371A1.43,1.43,0,0,1,366.889,624.06Z" transform="translate(-362.298 -575.483)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1766" data-name="路径 1766" d="M366.889,615.624H362.3V609.4h4.591a1.429,1.429,0,0,1,1.427,1.425V614.2A1.428,1.428,0,0,1,366.889,615.624Z" transform="translate(-362.298 -581.123)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1767" data-name="路径 1767" d="M366.889,607.113H362.3V600.89h4.591a1.428,1.428,0,0,1,1.427,1.425v3.373A1.429,1.429,0,0,1,366.889,607.113Z" transform="translate(-362.298 -586.817)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1768" data-name="路径 1768" d="M366.889,598.68H362.3v-6.223h4.591a1.431,1.431,0,0,1,1.427,1.427v3.371A1.429,1.429,0,0,1,366.889,598.68Z" transform="translate(-362.298 -592.457)" fill="#73442f" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1556" data-name="组 1556" transform="translate(0 7.126)">
+                <rect id="矩形_1125" data-name="矩形 1125" width="13.357" height="6.224" rx="0.855" transform="translate(0 42.171)" fill="#73442f"/>
+                <rect id="矩形_1126" data-name="矩形 1126" width="13.357" height="6.224" rx="0.855" transform="translate(0 28.28)" fill="#73442f"/>
+                <rect id="矩形_1127" data-name="矩形 1127" width="13.357" height="6.226" rx="0.855" transform="translate(0 13.89)" fill="#73442f"/>
+                <rect id="矩形_1128" data-name="矩形 1128" width="13.357" height="6.226" rx="0.855" fill="#73442f"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_1560" data-name="组 1560" transform="translate(10.223 102.819)">
+            <rect id="矩形_1129" data-name="矩形 1129" width="27.942" height="5.271" transform="translate(0 45.008)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1559" data-name="组 1559" transform="translate(2.637)">
+              <rect id="矩形_1130" data-name="矩形 1130" width="21.084" height="40.766" transform="translate(0.793 0.968)" fill="#455668"/>
+              <path id="路径_1769" data-name="路径 1769" d="M390.714,585.687H368.045v42.7h22.669v-42.7ZM389,587.262v39.551H369.759V587.262Z" transform="translate(-368.045 -585.687)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1131" data-name="矩形 1131" width="1.45" height="41.129" transform="translate(10.61 0.786)" fill="#e8e8e8"/>
+              <rect id="矩形_1132" data-name="矩形 1132" width="20.824" height="1.334" transform="translate(0.923 20.683)" fill="#e8e8e8"/>
+              <rect id="矩形_1133" data-name="矩形 1133" width="20.825" height="0.727" transform="translate(0.857 10.735)" fill="#e8e8e8"/>
+              <rect id="矩形_1134" data-name="矩形 1134" width="20.824" height="0.727" transform="translate(0.791 30.996)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1135" data-name="矩形 1135" width="27.942" height="4.876" transform="translate(0 41.318)" fill="#e8e8e8"/>
+          </g>
+          <g id="组_1562" data-name="组 1562" transform="translate(0.793 153.721)">
+            <rect id="矩形_1136" data-name="矩形 1136" width="78.03" height="23.981" fill="#b8b8b8"/>
+            <g id="组_1561" data-name="组 1561" transform="translate(1.491 0.803)">
+              <path id="路径_1770" data-name="路径 1770" d="M366.79,621.323h-5.082v6.749h5.082a1.551,1.551,0,0,0,1.547-1.545v-3.658A1.551,1.551,0,0,0,366.79,621.323Z" transform="translate(-361.708 -613.558)" fill="#848484" fill-rule="evenodd"/>
+              <path id="矩形_1137" data-name="矩形 1137" d="M.927,0H13.56a.927.927,0,0,1,.927.927v4.9a.928.928,0,0,1-.928.928H.927A.927.927,0,0,1,0,5.825V.927A.927.927,0,0,1,.927,0Z" transform="translate(0.098 15.624)" fill="#848484"/>
+              <path id="矩形_1138" data-name="矩形 1138" d="M.928,0h12.63a.928.928,0,0,1,.928.928v4.9a.927.927,0,0,1-.927.927H.927A.927.927,0,0,1,0,5.825V.928A.928.928,0,0,1,.928,0Z" transform="translate(0.098)" fill="#848484"/>
+              <rect id="矩形_1139" data-name="矩形 1139" width="14.486" height="6.749" rx="0.927" transform="translate(7.676 7.975)" fill="#848484"/>
+            </g>
+          </g>
+          <g id="组_1564" data-name="组 1564" transform="translate(10.223 28.602)">
+            <rect id="矩形_1140" data-name="矩形 1140" width="27.942" height="5.271" transform="translate(0 45.007)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1563" data-name="组 1563" transform="translate(2.637)">
+              <rect id="矩形_1141" data-name="矩形 1141" width="21.084" height="40.766" transform="translate(0.793 0.967)" fill="#455668"/>
+              <path id="路径_1771" data-name="路径 1771" d="M390.714,541.215H368.045v42.7h22.669v-42.7ZM389,542.789v39.553H369.759V542.789Z" transform="translate(-368.045 -541.215)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1142" data-name="矩形 1142" width="1.45" height="41.127" transform="translate(10.61 0.788)" fill="#e8e8e8"/>
+              <rect id="矩形_1143" data-name="矩形 1143" width="20.824" height="1.334" transform="translate(0.923 20.684)" fill="#e8e8e8"/>
+              <rect id="矩形_1144" data-name="矩形 1144" width="20.825" height="0.729" transform="translate(0.857 10.735)" fill="#e8e8e8"/>
+              <rect id="矩形_1145" data-name="矩形 1145" width="20.824" height="0.727" transform="translate(0.791 30.996)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1146" data-name="矩形 1146" width="27.942" height="4.876" transform="translate(0 41.317)" fill="#e8e8e8"/>
+          </g>
+          <rect id="矩形_1147" data-name="矩形 1147" width="43.62" height="10.355" transform="translate(2.244 95.773)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <rect id="矩形_1148" data-name="矩形 1148" width="78.095" height="15.494" transform="translate(0 82.329)" fill="#b8b8b8"/>
+          <g id="组_1565" data-name="组 1565" transform="translate(1.315 83.534)">
+            <path id="路径_1772" data-name="路径 1772" d="M365.676,574.131h-4.549v6.046h4.549a1.389,1.389,0,0,0,1.385-1.387v-3.274A1.389,1.389,0,0,0,365.676,574.131Z" transform="translate(-361.127 -574.131)" fill="#9e9e9e" fill-rule="evenodd"/>
+            <rect id="矩形_1149" data-name="矩形 1149" width="12.973" height="6.047" rx="0.83" transform="translate(0.087 7.038)" fill="#9e9e9e"/>
+            <path id="矩形_1150" data-name="矩形 1150" d="M.83,0H12.142a.83.83,0,0,1,.83.83V5.216a.829.829,0,0,1-.829.829H.83A.83.83,0,0,1,0,5.215V.83A.83.83,0,0,1,.83,0Z" transform="translate(6.873 0.188)" fill="#9e9e9e"/>
+          </g>
+          <rect id="矩形_1151" data-name="矩形 1151" width="44.088" height="8.23" transform="translate(2.244 17.763)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="路径_1773" data-name="路径 1773" d="M361.684,543.8H406.3v-18.37H393.468V530.8H374.52v-5.378H361.684Z" transform="translate(-359.44 -523.173)" fill="#b8b8b8" fill-rule="evenodd"/>
+          <path id="路径_1774" data-name="路径 1774" d="M390.809,700.763h-5.786V623.814h-1.373V607.472h1.373V525.593h5.786Z" transform="translate(-344.749 -523.061)" fill="#707070" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <rect id="矩形_1152" data-name="矩形 1152" width="75.265" height="159.94" transform="translate(46.06 17.763)" fill="#91573f"/>
+          <g id="组_1572" data-name="组 1572" transform="translate(47.552 19.651)">
+            <g id="组_1568" data-name="组 1568">
+              <g id="组_1566" data-name="组 1566" transform="translate(0.001 7.271)">
+                <path id="路径_1775" data-name="路径 1775" d="M393.5,548.844h-4.664v6.322H393.5a1.451,1.451,0,0,0,1.449-1.447v-3.426A1.453,1.453,0,0,0,393.5,548.844Z" transform="translate(-388.834 -534.432)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1776" data-name="路径 1776" d="M393.5,557.408h-4.664v6.322H393.5a1.453,1.453,0,0,0,1.449-1.45v-3.423A1.453,1.453,0,0,0,393.5,557.408Z" transform="translate(-388.834 -528.704)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1777" data-name="路径 1777" d="M393.5,566.136h-4.664v6.322H393.5a1.452,1.452,0,0,0,1.449-1.448v-3.423A1.453,1.453,0,0,0,393.5,566.136Z" transform="translate(-388.834 -522.867)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1778" data-name="路径 1778" d="M393.5,574.7h-4.664v6.322H393.5a1.451,1.451,0,0,0,1.449-1.448v-3.424A1.453,1.453,0,0,0,393.5,574.7Z" transform="translate(-388.834 -517.139)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1779" data-name="路径 1779" d="M393.5,583.346h-4.664v6.321H393.5a1.453,1.453,0,0,0,1.449-1.449v-3.424A1.452,1.452,0,0,0,393.5,583.346Z" transform="translate(-388.834 -511.356)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1780" data-name="路径 1780" d="M393.5,591.91h-4.664v6.322H393.5a1.453,1.453,0,0,0,1.449-1.45v-3.423A1.452,1.452,0,0,0,393.5,591.91Z" transform="translate(-388.834 -505.628)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1781" data-name="路径 1781" d="M393.592,540.208h-4.758v6.321h4.758a1.453,1.453,0,0,0,1.449-1.449v-3.424A1.454,1.454,0,0,0,393.592,540.208Z" transform="translate(-388.834 -540.208)" fill="#73442f" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1567" data-name="组 1567">
+                <path id="矩形_1153" data-name="矩形 1153" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.455a.869.869,0,0,1-.869.869H.869A.869.869,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.093 14.629)" fill="#73442f"/>
+                <path id="矩形_1154" data-name="矩形 1154" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.455a.869.869,0,0,1-.869.869H.868A.868.868,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.093 28.736)" fill="#73442f"/>
+                <path id="矩形_1155" data-name="矩形 1155" d="M.867,0H12.7a.868.868,0,0,1,.868.868V5.452a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 43.488)" fill="#73442f"/>
+                <path id="矩形_1156" data-name="矩形 1156" d="M.867,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 57.595)" fill="#73442f"/>
+                <path id="矩形_1157" data-name="矩形 1157" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 72.207)" fill="#73442f"/>
+                <path id="矩形_1158" data-name="矩形 1158" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 86.314)" fill="#73442f"/>
+                <path id="矩形_1159" data-name="矩形 1159" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.868A.868.868,0,0,1,0,5.453V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.093)" fill="#73442f"/>
+              </g>
+            </g>
+            <g id="组_1571" data-name="组 1571" transform="translate(0 93.663)">
+              <g id="组_1569" data-name="组 1569" transform="translate(0.001)">
+                <path id="路径_1782" data-name="路径 1782" d="M393.5,632.8h-4.664v-6.321H393.5a1.453,1.453,0,0,1,1.449,1.45v3.425A1.451,1.451,0,0,1,393.5,632.8Z" transform="translate(-388.834 -568.901)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1783" data-name="路径 1783" d="M393.5,624.07h-4.664v-6.322H393.5a1.454,1.454,0,0,1,1.449,1.449v3.426A1.452,1.452,0,0,1,393.5,624.07Z" transform="translate(-388.834 -574.739)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1784" data-name="路径 1784" d="M393.5,615.5h-4.664v-6.32H393.5a1.452,1.452,0,0,1,1.449,1.447v3.426A1.45,1.45,0,0,1,393.5,615.5Z" transform="translate(-388.834 -580.466)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1785" data-name="路径 1785" d="M393.5,606.861h-4.664v-6.322H393.5a1.452,1.452,0,0,1,1.449,1.449v3.424A1.453,1.453,0,0,1,393.5,606.861Z" transform="translate(-388.834 -586.249)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1786" data-name="路径 1786" d="M393.5,598.3h-4.664v-6.32H393.5a1.45,1.45,0,0,1,1.449,1.447v3.424A1.453,1.453,0,0,1,393.5,598.3Z" transform="translate(-388.834 -591.976)" fill="#73442f" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1570" data-name="组 1570" transform="translate(0 7.237)">
+                <path id="矩形_1160" data-name="矩形 1160" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.455a.869.869,0,0,1-.869.869H.868A.868.868,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 42.825)" fill="#73442f"/>
+                <path id="矩形_1161" data-name="矩形 1161" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.455a.869.869,0,0,1-.869.869H.868A.868.868,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 28.719)" fill="#73442f"/>
+                <path id="矩形_1162" data-name="矩形 1162" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.452a.869.869,0,0,1-.869.869H.868A.868.868,0,0,1,0,5.453V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 14.106)" fill="#73442f"/>
+                <rect id="矩形_1163" data-name="矩形 1163" width="13.564" height="6.321" rx="0.868" fill="#73442f"/>
+              </g>
+            </g>
+          </g>
+          <rect id="矩形_1164" data-name="矩形 1164" width="78.211" height="16.342" transform="translate(43.23 79.43)" fill="#b8b8b8"/>
+          <g id="组_1574" data-name="组 1574" transform="translate(86.624 100.709)">
+            <rect id="矩形_1165" data-name="矩形 1165" width="27.942" height="5.271" transform="translate(0 45.009)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1573" data-name="组 1573" transform="translate(2.635)">
+              <rect id="矩形_1166" data-name="矩形 1166" width="21.084" height="40.766" transform="translate(0.793 0.969)" fill="#455668"/>
+              <path id="路径_1787" data-name="路径 1787" d="M436.494,584.423H413.825v42.7h22.669v-42.7ZM434.782,586V625.55H415.539V586Z" transform="translate(-413.825 -584.423)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1167" data-name="矩形 1167" width="1.448" height="41.129" transform="translate(10.611 0.787)" fill="#e8e8e8"/>
+              <rect id="矩形_1168" data-name="矩形 1168" width="20.824" height="1.334" transform="translate(0.924 20.684)" fill="#e8e8e8"/>
+              <rect id="矩形_1169" data-name="矩形 1169" width="20.824" height="0.727" transform="translate(0.858 10.736)" fill="#e8e8e8"/>
+              <rect id="矩形_1170" data-name="矩形 1170" width="20.824" height="0.727" transform="translate(0.792 30.997)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1171" data-name="矩形 1171" width="27.942" height="4.876" transform="translate(0 41.319)" fill="#e8e8e8"/>
+          </g>
+          <g id="组_1576" data-name="组 1576" transform="translate(54.245 100.709)">
+            <rect id="矩形_1172" data-name="矩形 1172" width="27.942" height="5.271" transform="translate(0 45.009)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1575" data-name="组 1575" transform="translate(2.635)">
+              <rect id="矩形_1173" data-name="矩形 1173" width="21.084" height="40.766" transform="translate(0.793 0.969)" fill="#455668"/>
+              <path id="路径_1788" data-name="路径 1788" d="M417.092,584.423H394.423v42.7h22.669v-42.7ZM415.38,586V625.55H396.137V586Z" transform="translate(-394.423 -584.423)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1174" data-name="矩形 1174" width="1.451" height="41.129" transform="translate(10.61 0.787)" fill="#e8e8e8"/>
+              <rect id="矩形_1175" data-name="矩形 1175" width="20.825" height="1.334" transform="translate(0.923 20.684)" fill="#e8e8e8"/>
+              <rect id="矩形_1176" data-name="矩形 1176" width="20.824" height="0.727" transform="translate(0.858 10.736)" fill="#e8e8e8"/>
+              <rect id="矩形_1177" data-name="矩形 1177" width="20.825" height="0.727" transform="translate(0.791 30.997)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1178" data-name="矩形 1178" width="27.942" height="4.876" transform="translate(0 41.319)" fill="#e8e8e8"/>
+          </g>
+          <g id="组_1578" data-name="组 1578" transform="translate(86.624 25.173)">
+            <rect id="矩形_1179" data-name="矩形 1179" width="27.942" height="5.271" transform="translate(0 45.01)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1577" data-name="组 1577" transform="translate(2.635)">
+              <rect id="矩形_1180" data-name="矩形 1180" width="21.084" height="40.764" transform="translate(0.793 0.97)" fill="#455668"/>
+              <path id="路径_1789" data-name="路径 1789" d="M436.494,539.16H413.825v42.7h22.669v-42.7Zm-1.712,1.577v39.551H415.539V540.737Z" transform="translate(-413.825 -539.16)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1181" data-name="矩形 1181" width="1.448" height="41.127" transform="translate(10.611 0.789)" fill="#e8e8e8"/>
+              <rect id="矩形_1182" data-name="矩形 1182" width="20.824" height="1.334" transform="translate(0.924 20.685)" fill="#e8e8e8"/>
+              <rect id="矩形_1183" data-name="矩形 1183" width="20.824" height="0.727" transform="translate(0.858 10.738)" fill="#e8e8e8"/>
+              <rect id="矩形_1184" data-name="矩形 1184" width="20.824" height="0.727" transform="translate(0.792 30.999)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1185" data-name="矩形 1185" width="27.942" height="4.878" transform="translate(0 41.319)" fill="#e8e8e8"/>
+          </g>
+          <g id="组_1580" data-name="组 1580" transform="translate(54.245 25.173)">
+            <rect id="矩形_1186" data-name="矩形 1186" width="27.942" height="5.271" transform="translate(0 45.01)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1579" data-name="组 1579" transform="translate(2.635)">
+              <rect id="矩形_1187" data-name="矩形 1187" width="21.084" height="40.764" transform="translate(0.793 0.97)" fill="#455668"/>
+              <path id="路径_1790" data-name="路径 1790" d="M417.092,539.16H394.423v42.7h22.669v-42.7Zm-1.712,1.577v39.551H396.137V540.737Z" transform="translate(-394.423 -539.16)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1188" data-name="矩形 1188" width="1.451" height="41.127" transform="translate(10.61 0.789)" fill="#e8e8e8"/>
+              <rect id="矩形_1189" data-name="矩形 1189" width="20.825" height="1.334" transform="translate(0.923 20.685)" fill="#e8e8e8"/>
+              <rect id="矩形_1190" data-name="矩形 1190" width="20.824" height="0.727" transform="translate(0.858 10.738)" fill="#e8e8e8"/>
+              <rect id="矩形_1191" data-name="矩形 1191" width="20.825" height="0.727" transform="translate(0.791 30.999)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1192" data-name="矩形 1192" width="27.942" height="4.878" transform="translate(0 41.319)" fill="#e8e8e8"/>
+          </g>
+          <rect id="矩形_1193" data-name="矩形 1193" width="75.265" height="9.844" transform="translate(46.06 17.763)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <rect id="矩形_1194" data-name="矩形 1194" width="75.202" height="23.981" transform="translate(46.06 153.721)" fill="#b8b8b8"/>
+          <g id="组_1581" data-name="组 1581" transform="translate(45.402)">
+            <path id="路径_1791" data-name="路径 1791" d="M406.553,542.444h44.62V524.076H438.336v5.376H419.389v-5.376H406.553Z" transform="translate(-374.832 -524.076)" fill="#b8b8b8" fill-rule="evenodd"/>
+            <path id="路径_1792" data-name="路径 1792" d="M387.545,542.444h44.619V524.076H419.328v5.376H400.381v-5.376H387.545Z" transform="translate(-387.545 -524.076)" fill="#b8b8b8" fill-rule="evenodd"/>
+          </g>
+          <path id="路径_1793" data-name="路径 1793" d="M430.108,700.777H435v-175.2l-4.893,3.031Z" transform="translate(-313.676 -523.074)" fill="#707070" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="组_1582" data-name="组 1582" transform="translate(47.551 154.524)">
+            <path id="路径_1794" data-name="路径 1794" d="M393.915,621.323h-5.082v6.749h5.082a1.551,1.551,0,0,0,1.545-1.545v-3.658A1.55,1.55,0,0,0,393.915,621.323Z" transform="translate(-388.833 -613.558)" fill="#848484" fill-rule="evenodd"/>
+            <path id="矩形_1195" data-name="矩形 1195" d="M.927,0H13.559a.927.927,0,0,1,.927.927v4.9a.928.928,0,0,1-.928.928H.927A.927.927,0,0,1,0,5.825V.927A.927.927,0,0,1,.927,0Z" transform="translate(0.097 15.624)" fill="#848484"/>
+            <path id="矩形_1196" data-name="矩形 1196" d="M.928,0H13.559a.927.927,0,0,1,.927.927v4.9a.927.927,0,0,1-.927.927H.927A.927.927,0,0,1,0,5.825V.928A.928.928,0,0,1,.928,0Z" transform="translate(0.097)" fill="#848484"/>
+            <rect id="矩形_1197" data-name="矩形 1197" width="14.485" height="6.749" rx="0.927" transform="translate(7.677 7.975)" fill="#848484"/>
+          </g>
+          <rect id="矩形_1198" data-name="矩形 1198" width="75.32" height="9.729" transform="translate(46.005 95.773)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="组_1583" data-name="组 1583" transform="translate(44.544 80.78)">
+            <path id="路径_1795" data-name="路径 1795" d="M391.774,572.481h-4.743v6.3h4.743a1.448,1.448,0,0,0,1.444-1.444v-3.413A1.449,1.449,0,0,0,391.774,572.481Z" transform="translate(-387.031 -572.481)" fill="#9e9e9e" fill-rule="evenodd"/>
+            <path id="矩形_1199" data-name="矩形 1199" d="M.866,0H12.657a.865.865,0,0,1,.865.865V5.438a.865.865,0,0,1-.865.865H.865A.865.865,0,0,1,0,5.438V.866A.866.866,0,0,1,.866,0Z" transform="translate(0.091 7.337)" fill="#9e9e9e"/>
+            <path id="矩形_1200" data-name="矩形 1200" d="M.866,0H12.657a.866.866,0,0,1,.866.866V5.438a.865.865,0,0,1-.865.865H.865A.865.865,0,0,1,0,5.438V.866A.866.866,0,0,1,.866,0Z" transform="translate(7.166 0.196)" fill="#9e9e9e"/>
+          </g>
+        </g>
+        <rect id="矩形_1201" data-name="矩形 1201" width="183.699" height="159.94" transform="translate(121.539 79.595)" fill="#91573f"/>
+        <g id="组_1587" data-name="组 1587" transform="translate(140.689 87.005)">
+          <g id="组_1586" data-name="组 1586" transform="translate(0.624)">
+            <path id="路径_1796" data-name="路径 1796" d="M466.576,539.743H445.492V580.6h31.365V539.743Z" transform="translate(-444.699 -538.77)" fill="#455668" fill-rule="evenodd"/>
+            <path id="路径_1797" data-name="路径 1797" d="M477.966,539.16H445.017v42.8h32.949v-42.8Zm-22.339,1.582v39.633h-8.9V540.742Zm1.449,39.633V540.742h8.831v39.633Zm10.282,0V540.742h8.895v39.633Z" transform="translate(-445.017 -539.16)" fill="#e8e8e8" fill-rule="evenodd"/>
+            <g id="组_1585" data-name="组 1585" transform="translate(0.791 10.882)">
+              <rect id="矩形_1202" data-name="矩形 1202" width="20.825" height="1.336" transform="translate(0.132 9.97)" fill="#e8e8e8"/>
+              <rect id="矩形_1203" data-name="矩形 1203" width="20.825" height="0.729" transform="translate(0.066)" fill="#e8e8e8"/>
+              <rect id="矩形_1204" data-name="矩形 1204" width="20.824" height="0.729" transform="translate(0 20.304)" fill="#e8e8e8"/>
+              <rect id="矩形_1205" data-name="矩形 1205" width="20.824" height="1.336" transform="translate(10.412 9.97)" fill="#e8e8e8"/>
+              <rect id="矩形_1206" data-name="矩形 1206" width="20.824" height="0.729" transform="translate(10.346)" fill="#e8e8e8"/>
+              <rect id="矩形_1207" data-name="矩形 1207" width="20.824" height="0.729" transform="translate(10.281 20.304)" fill="#e8e8e8"/>
+            </g>
+          </g>
+          <rect id="矩形_1208" data-name="矩形 1208" width="34.198" height="5.207" transform="translate(0 41.42)" fill="#e8e8e8"/>
+          <rect id="矩形_1209" data-name="矩形 1209" width="34.198" height="4.019" transform="translate(0 46.627)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+        <g id="组_1590" data-name="组 1590" transform="translate(251.779 87.005)">
+          <g id="组_1589" data-name="组 1589" transform="translate(0.624)">
+            <path id="路径_1798" data-name="路径 1798" d="M533.143,539.743H512.059V580.6h31.365V539.743Z" transform="translate(-511.266 -538.77)" fill="#455668" fill-rule="evenodd"/>
+            <path id="路径_1799" data-name="路径 1799" d="M544.535,539.16H511.584v42.8h32.951v-42.8Zm-22.341,1.582v39.633h-8.9V540.742Zm1.45,39.633V540.742h8.83v39.633Zm10.28,0V540.742h8.9v39.633Z" transform="translate(-511.584 -539.16)" fill="#e8e8e8" fill-rule="evenodd"/>
+            <g id="组_1588" data-name="组 1588" transform="translate(0.791 10.882)">
+              <rect id="矩形_1210" data-name="矩形 1210" width="20.825" height="1.336" transform="translate(0.132 9.97)" fill="#e8e8e8"/>
+              <rect id="矩形_1211" data-name="矩形 1211" width="20.825" height="0.729" transform="translate(0.066)" fill="#e8e8e8"/>
+              <rect id="矩形_1212" data-name="矩形 1212" width="20.825" height="0.729" transform="translate(0 20.304)" fill="#e8e8e8"/>
+              <rect id="矩形_1213" data-name="矩形 1213" width="20.825" height="1.336" transform="translate(10.412 9.97)" fill="#e8e8e8"/>
+              <rect id="矩形_1214" data-name="矩形 1214" width="20.825" height="0.729" transform="translate(10.346)" fill="#e8e8e8"/>
+              <rect id="矩形_1215" data-name="矩形 1215" width="20.825" height="0.729" transform="translate(10.281 20.304)" fill="#e8e8e8"/>
+            </g>
+          </g>
+          <rect id="矩形_1216" data-name="矩形 1216" width="34.198" height="5.207" transform="translate(0 41.42)" fill="#e8e8e8"/>
+          <rect id="矩形_1217" data-name="矩形 1217" width="34.198" height="4.019" transform="translate(0 46.627)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+        <g id="组_1593" data-name="组 1593" transform="translate(140.689 162.541)">
+          <g id="组_1592" data-name="组 1592" transform="translate(0.624)">
+            <path id="路径_1800" data-name="路径 1800" d="M466.576,585H445.492v40.853h31.365V585Z" transform="translate(-444.699 -584.034)" fill="#455668" fill-rule="evenodd"/>
+            <path id="路径_1801" data-name="路径 1801" d="M477.966,584.423H445.017v42.8h32.949v-42.8ZM455.627,586v39.633h-8.9V586Zm1.449,39.633V586h8.831v39.633Zm10.282,0V586h8.895v39.633Z" transform="translate(-445.017 -584.423)" fill="#e8e8e8" fill-rule="evenodd"/>
+            <g id="组_1591" data-name="组 1591" transform="translate(0.791 10.881)">
+              <rect id="矩形_1218" data-name="矩形 1218" width="20.825" height="1.336" transform="translate(0.132 9.97)" fill="#e8e8e8"/>
+              <rect id="矩形_1219" data-name="矩形 1219" width="20.825" height="0.729" transform="translate(0.066)" fill="#e8e8e8"/>
+              <rect id="矩形_1220" data-name="矩形 1220" width="20.824" height="0.729" transform="translate(0 20.304)" fill="#e8e8e8"/>
+              <rect id="矩形_1221" data-name="矩形 1221" width="20.824" height="1.336" transform="translate(10.412 9.97)" fill="#e8e8e8"/>
+              <rect id="矩形_1222" data-name="矩形 1222" width="20.824" height="0.729" transform="translate(10.346)" fill="#e8e8e8"/>
+              <rect id="矩形_1223" data-name="矩形 1223" width="20.824" height="0.729" transform="translate(10.281 20.304)" fill="#e8e8e8"/>
+            </g>
+          </g>
+          <rect id="矩形_1224" data-name="矩形 1224" width="34.198" height="5.207" transform="translate(0 41.418)" fill="#e8e8e8"/>
+          <rect id="矩形_1225" data-name="矩形 1225" width="34.198" height="4.019" transform="translate(0 46.625)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+        <g id="组_1596" data-name="组 1596" transform="translate(251.779 162.541)">
+          <g id="组_1595" data-name="组 1595" transform="translate(0.624)">
+            <path id="路径_1802" data-name="路径 1802" d="M533.143,585H512.059v40.853h31.365V585Z" transform="translate(-511.266 -584.034)" fill="#455668" fill-rule="evenodd"/>
+            <path id="路径_1803" data-name="路径 1803" d="M544.535,584.423H511.584v42.8h32.951v-42.8ZM522.194,586v39.633h-8.9V586Zm1.45,39.633V586h8.83v39.633Zm10.28,0V586h8.9v39.633Z" transform="translate(-511.584 -584.423)" fill="#e8e8e8" fill-rule="evenodd"/>
+            <g id="组_1594" data-name="组 1594" transform="translate(0.791 10.881)">
+              <rect id="矩形_1226" data-name="矩形 1226" width="20.825" height="1.336" transform="translate(0.132 9.97)" fill="#e8e8e8"/>
+              <rect id="矩形_1227" data-name="矩形 1227" width="20.825" height="0.729" transform="translate(0.066)" fill="#e8e8e8"/>
+              <rect id="矩形_1228" data-name="矩形 1228" width="20.825" height="0.729" transform="translate(0 20.304)" fill="#e8e8e8"/>
+              <rect id="矩形_1229" data-name="矩形 1229" width="20.825" height="1.336" transform="translate(10.412 9.97)" fill="#e8e8e8"/>
+              <rect id="矩形_1230" data-name="矩形 1230" width="20.825" height="0.729" transform="translate(10.346)" fill="#e8e8e8"/>
+              <rect id="矩形_1231" data-name="矩形 1231" width="20.825" height="0.729" transform="translate(10.281 20.304)" fill="#e8e8e8"/>
+            </g>
+          </g>
+          <rect id="矩形_1232" data-name="矩形 1232" width="34.198" height="5.207" transform="translate(0 41.418)" fill="#e8e8e8"/>
+          <rect id="矩形_1233" data-name="矩形 1233" width="34.198" height="4.019" transform="translate(0 46.625)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+        <rect id="矩形_1234" data-name="矩形 1234" width="153.418" height="23.981" transform="translate(136.947 215.553)" fill="#b8b8b8"/>
+        <rect id="矩形_1235" data-name="矩形 1235" width="153.418" height="16.342" transform="translate(136.947 141.262)" fill="#b8b8b8"/>
+        <rect id="矩形_1236" data-name="矩形 1236" width="153.418" height="9.729" transform="translate(136.947 157.605)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1598" data-name="组 1598" transform="translate(199.288 87.005)">
+          <rect id="矩形_1237" data-name="矩形 1237" width="27.941" height="5.271" transform="translate(0 45.01)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="组_1597" data-name="组 1597" transform="translate(2.635)">
+            <rect id="矩形_1238" data-name="矩形 1238" width="21.084" height="40.764" transform="translate(0.793 0.97)" fill="#455668"/>
+            <path id="路径_1804" data-name="路径 1804" d="M481.336,539.16h22.669v42.7H481.336v-42.7Zm1.714,1.577v39.551h19.243V540.737Z" transform="translate(-481.336 -539.16)" fill="#e8e8e8" fill-rule="evenodd"/>
+            <rect id="矩形_1239" data-name="矩形 1239" width="1.45" height="41.127" transform="translate(10.611 0.789)" fill="#e8e8e8"/>
+            <rect id="矩形_1240" data-name="矩形 1240" width="20.825" height="1.334" transform="translate(0.923 20.685)" fill="#e8e8e8"/>
+            <rect id="矩形_1241" data-name="矩形 1241" width="20.825" height="0.727" transform="translate(0.989 10.738)" fill="#e8e8e8"/>
+            <rect id="矩形_1242" data-name="矩形 1242" width="20.825" height="0.727" transform="translate(1.055 30.999)" fill="#e8e8e8"/>
+          </g>
+          <rect id="矩形_1243" data-name="矩形 1243" width="27.941" height="4.878" transform="translate(0 41.319)" fill="#e8e8e8"/>
+        </g>
+        <g id="组_1599" data-name="组 1599" transform="translate(139.26 216.356)">
+          <path id="路径_1805" data-name="路径 1805" d="M448.869,621.323h-5.082v6.749h5.082a1.551,1.551,0,0,0,1.545-1.545v-3.658A1.55,1.55,0,0,0,448.869,621.323Z" transform="translate(-443.787 -613.558)" fill="#848484" fill-rule="evenodd"/>
+          <path id="矩形_1244" data-name="矩形 1244" d="M.927,0H13.56a.926.926,0,0,1,.926.926v4.9a.928.928,0,0,1-.928.928H.928A.928.928,0,0,1,0,5.824V.927A.927.927,0,0,1,.927,0Z" transform="translate(0.098 15.624)" fill="#848484"/>
+          <path id="矩形_1245" data-name="矩形 1245" d="M.928,0H13.56a.926.926,0,0,1,.926.926v4.9a.927.927,0,0,1-.927.927H.927A.927.927,0,0,1,0,5.825V.928A.928.928,0,0,1,.928,0Z" transform="translate(0.098)" fill="#848484"/>
+          <rect id="矩形_1246" data-name="矩形 1246" width="14.486" height="6.749" rx="0.927" transform="translate(7.676 7.975)" fill="#848484"/>
+        </g>
+        <g id="组_1600" data-name="组 1600" transform="translate(264.87 216.356)">
+          <path id="路径_1806" data-name="路径 1806" d="M529.909,621.323h5.08v6.749h-5.08a1.551,1.551,0,0,1-1.545-1.545v-3.658A1.55,1.55,0,0,1,529.909,621.323Z" transform="translate(-512.829 -613.558)" fill="#848484" fill-rule="evenodd"/>
+          <path id="矩形_1247" data-name="矩形 1247" d="M.927,0H13.558a.927.927,0,0,1,.927.927v4.9a.928.928,0,0,1-.928.928H.927A.927.927,0,0,1,0,5.825V.927A.927.927,0,0,1,.927,0Z" transform="translate(7.579 15.624)" fill="#848484"/>
+          <path id="矩形_1248" data-name="矩形 1248" d="M.928,0H13.558a.927.927,0,0,1,.927.927v4.9a.927.927,0,0,1-.927.927H.927A.927.927,0,0,1,0,5.825V.928A.928.928,0,0,1,.928,0Z" transform="translate(7.579)" fill="#848484"/>
+          <rect id="矩形_1249" data-name="矩形 1249" width="14.485" height="6.749" rx="0.927" transform="translate(0 7.975)" fill="#848484"/>
+        </g>
+        <rect id="矩形_1250" data-name="矩形 1250" width="5.827" height="168.705" transform="translate(137.711 70.735)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <rect id="矩形_1251" data-name="矩形 1251" width="5.65" height="168.705" transform="translate(283.246 70.83)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1601" data-name="组 1601" transform="translate(193.752 188.595)">
+          <rect id="矩形_1252" data-name="矩形 1252" width="39.012" height="51.401" fill="#e0e0e0"/>
+          <rect id="矩形_1253" data-name="矩形 1253" width="32.972" height="25.964" transform="translate(3.046 3.42)" fill="#455668"/>
+          <rect id="矩形_1254" data-name="矩形 1254" width="3.409" height="27.018" transform="translate(17.828 2.893)" fill="#e0e0e0"/>
+          <rect id="矩形_1255" data-name="矩形 1255" width="35.134" height="1.384" transform="translate(2.369 9.548)" fill="#e0e0e0"/>
+          <rect id="矩形_1256" data-name="矩形 1256" width="1.579" height="27.018" transform="translate(27.475 2.893)" fill="#e0e0e0"/>
+          <rect id="矩形_1257" data-name="矩形 1257" width="1.58" height="27.018" transform="translate(10.01 2.893)" fill="#e0e0e0"/>
+          <path id="路径_1807" data-name="路径 1807" d="M477.429,600.7h36.436V649.4H477.119V600.7Zm35.811.621h-35.5v47.463h35.5Z" transform="translate(-475.985 -599.593)" fill="#b8b8b8" fill-rule="evenodd"/>
+          <rect id="矩形_1258" data-name="矩形 1258" width="0.617" height="47.975" transform="translate(19.224 1.544)" fill="#b8b8b8"/>
+          <rect id="矩形_1259" data-name="矩形 1259" width="35.972" height="0.618" transform="translate(1.521 31.484)" fill="#b8b8b8"/>
+          <path id="路径_1808" data-name="路径 1808" d="M478.361,619.887H493.5V634.81H478.049V619.887Zm14.517.621H478.673v13.678h14.205Z" transform="translate(-475.363 -586.757)" fill="#b8b8b8" fill-rule="evenodd"/>
+          <path id="路径_1809" data-name="路径 1809" d="M489.259,619.887H504.4V634.81H488.949V619.887Zm14.516.621h-14.2v13.678h14.2Z" transform="translate(-468.072 -586.757)" fill="#b8b8b8" fill-rule="evenodd"/>
+          <rect id="矩形_1260" data-name="矩形 1260" width="8.577" height="7.808" transform="translate(6.125 36.687)" fill="#b8b8b8"/>
+          <rect id="矩形_1261" data-name="矩形 1261" width="8.576" height="7.808" transform="translate(24.313 36.687)" fill="#b8b8b8"/>
+        </g>
+        <rect id="矩形_1262" data-name="矩形 1262" width="16.342" height="168.705" transform="translate(288.896 70.83)" fill="#d1d1d1"/>
+        <g id="组_1608" data-name="组 1608" transform="translate(290.36 80.693)">
+          <g id="组_1604" data-name="组 1604">
+            <g id="组_1602" data-name="组 1602" transform="translate(7.449 7.27)">
+              <path id="路径_1810" data-name="路径 1810" d="M540.3,548.371h4.666v6.32H540.3a1.452,1.452,0,0,1-1.447-1.447V549.82A1.453,1.453,0,0,1,540.3,548.371Z" transform="translate(-538.755 -533.957)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1811" data-name="路径 1811" d="M540.3,556.934h4.666v6.321H540.3a1.453,1.453,0,0,1-1.447-1.447v-3.426A1.454,1.454,0,0,1,540.3,556.934Z" transform="translate(-538.755 -528.23)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1812" data-name="路径 1812" d="M540.3,565.662h4.666v6.322H540.3a1.452,1.452,0,0,1-1.447-1.447v-3.424A1.454,1.454,0,0,1,540.3,565.662Z" transform="translate(-538.755 -522.393)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1813" data-name="路径 1813" d="M540.3,574.226h4.666v6.322H540.3a1.452,1.452,0,0,1-1.447-1.448v-3.423A1.454,1.454,0,0,1,540.3,574.226Z" transform="translate(-538.755 -516.665)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1814" data-name="路径 1814" d="M540.3,582.873h4.666v6.32H540.3a1.453,1.453,0,0,1-1.447-1.449V584.32A1.451,1.451,0,0,1,540.3,582.873Z" transform="translate(-538.755 -510.881)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1815" data-name="路径 1815" d="M540.3,591.436h4.666v6.322H540.3a1.453,1.453,0,0,1-1.447-1.448v-3.424A1.452,1.452,0,0,1,540.3,591.436Z" transform="translate(-538.755 -505.154)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1816" data-name="路径 1816" d="M540.243,539.734H545v6.321h-4.758a1.453,1.453,0,0,1-1.45-1.449v-3.423A1.454,1.454,0,0,1,540.243,539.734Z" transform="translate(-538.793 -539.734)" fill="#b8b8b8" fill-rule="evenodd"/>
+            </g>
+            <g id="组_1603" data-name="组 1603">
+              <path id="矩形_1263" data-name="矩形 1263" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.456a.867.867,0,0,1-.867.867H.869A.869.869,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 14.629)" fill="#b8b8b8"/>
+              <path id="矩形_1264" data-name="矩形 1264" d="M.867,0H12.7a.867.867,0,0,1,.867.867V5.452a.869.869,0,0,1-.869.869H.869A.869.869,0,0,1,0,5.452V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 28.738)" fill="#b8b8b8"/>
+              <path id="矩形_1265" data-name="矩形 1265" d="M.867,0H12.7a.869.869,0,0,1,.869.869V5.452a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0.095 43.488)" fill="#b8b8b8"/>
+              <path id="矩形_1266" data-name="矩形 1266" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.095 57.594)" fill="#b8b8b8"/>
+              <path id="矩形_1267" data-name="矩形 1267" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.095 72.207)" fill="#b8b8b8"/>
+              <path id="矩形_1268" data-name="矩形 1268" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.095 86.314)" fill="#b8b8b8"/>
+              <path id="矩形_1269" data-name="矩形 1269" d="M.869,0H12.7a.867.867,0,0,1,.867.867V5.454a.867.867,0,0,1-.867.867H.869A.869.869,0,0,1,0,5.452V.869A.869.869,0,0,1,.869,0Z" fill="#b8b8b8"/>
+            </g>
+          </g>
+          <g id="组_1607" data-name="组 1607" transform="translate(0.095 93.663)">
+            <g id="组_1605" data-name="组 1605" transform="translate(7.45)">
+              <path id="路径_1817" data-name="路径 1817" d="M540.3,632.323h4.663V626H540.3a1.455,1.455,0,0,0-1.45,1.45v3.424A1.453,1.453,0,0,0,540.3,632.323Z" transform="translate(-538.85 -568.427)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1818" data-name="路径 1818" d="M540.3,623.595h4.663v-6.32H540.3a1.454,1.454,0,0,0-1.45,1.449v3.424A1.454,1.454,0,0,0,540.3,623.595Z" transform="translate(-538.85 -574.264)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1819" data-name="路径 1819" d="M540.3,615.033h4.663v-6.322H540.3a1.454,1.454,0,0,0-1.45,1.447v3.426A1.453,1.453,0,0,0,540.3,615.033Z" transform="translate(-538.85 -579.992)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1820" data-name="路径 1820" d="M540.3,606.386h4.663v-6.32H540.3a1.452,1.452,0,0,0-1.45,1.447v3.424A1.454,1.454,0,0,0,540.3,606.386Z" transform="translate(-538.85 -585.774)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1821" data-name="路径 1821" d="M540.3,597.823h4.663V591.5H540.3a1.453,1.453,0,0,0-1.45,1.447v3.424A1.455,1.455,0,0,0,540.3,597.823Z" transform="translate(-538.85 -591.502)" fill="#b8b8b8" fill-rule="evenodd"/>
+            </g>
+            <g id="组_1606" data-name="组 1606" transform="translate(0 7.237)">
+              <path id="矩形_1270" data-name="矩形 1270" d="M.867,0H12.7a.869.869,0,0,1,.869.869V5.455a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.456V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 42.825)" fill="#b8b8b8"/>
+              <path id="矩形_1271" data-name="矩形 1271" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.455a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.456V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 28.719)" fill="#b8b8b8"/>
+              <path id="矩形_1272" data-name="矩形 1272" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.452a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 14.106)" fill="#b8b8b8"/>
+              <path id="矩形_1273" data-name="矩形 1273" d="M.867,0H12.7a.869.869,0,0,1,.869.869V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" fill="#b8b8b8"/>
+            </g>
+          </g>
+        </g>
+        <rect id="矩形_1274" data-name="矩形 1274" width="16.343" height="168.705" transform="translate(121.367 70.735)" fill="#d1d1d1"/>
+        <g id="组_1615" data-name="组 1615" transform="translate(122.588 80.598)">
+          <g id="组_1611" data-name="组 1611">
+            <g id="组_1609" data-name="组 1609" transform="translate(0.002 7.27)">
+              <path id="路径_1822" data-name="路径 1822" d="M438.461,548.314H433.8v6.321h4.663a1.452,1.452,0,0,0,1.449-1.449v-3.424A1.453,1.453,0,0,0,438.461,548.314Z" transform="translate(-433.798 -533.9)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1823" data-name="路径 1823" d="M438.461,556.878H433.8v6.32h4.663a1.452,1.452,0,0,0,1.449-1.447v-3.426A1.452,1.452,0,0,0,438.461,556.878Z" transform="translate(-433.798 -528.172)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1824" data-name="路径 1824" d="M438.461,565.606H433.8v6.32h4.663a1.451,1.451,0,0,0,1.449-1.447v-3.425A1.453,1.453,0,0,0,438.461,565.606Z" transform="translate(-433.798 -522.335)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1825" data-name="路径 1825" d="M438.461,574.169H433.8v6.321h4.663a1.451,1.451,0,0,0,1.449-1.447v-3.424A1.454,1.454,0,0,0,438.461,574.169Z" transform="translate(-433.798 -516.608)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1826" data-name="路径 1826" d="M438.461,582.816H433.8v6.322h4.663a1.454,1.454,0,0,0,1.449-1.45v-3.424A1.451,1.451,0,0,0,438.461,582.816Z" transform="translate(-433.798 -510.824)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1827" data-name="路径 1827" d="M438.461,591.378H433.8V597.7h4.663a1.451,1.451,0,0,0,1.449-1.447v-3.424A1.453,1.453,0,0,0,438.461,591.378Z" transform="translate(-433.798 -505.098)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1828" data-name="路径 1828" d="M438.556,539.677H433.8V546h4.758A1.452,1.452,0,0,0,440,544.552v-3.424A1.454,1.454,0,0,0,438.556,539.677Z" transform="translate(-433.798 -539.677)" fill="#b8b8b8" fill-rule="evenodd"/>
+            </g>
+            <g id="组_1610" data-name="组 1610">
+              <path id="矩形_1275" data-name="矩形 1275" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.455a.869.869,0,0,1-.869.869H.868A.868.868,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.093 14.629)" fill="#b8b8b8"/>
+              <path id="矩形_1276" data-name="矩形 1276" d="M.868,0H12.7a.868.868,0,0,1,.868.868V5.453a.869.869,0,0,1-.869.869H.868A.868.868,0,0,1,0,5.453V.868A.868.868,0,0,1,.868,0Z" transform="translate(0.093 28.737)" fill="#b8b8b8"/>
+              <path id="矩形_1277" data-name="矩形 1277" d="M.867,0H12.7a.868.868,0,0,1,.868.868V5.453a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 43.488)" fill="#b8b8b8"/>
+              <path id="矩形_1278" data-name="矩形 1278" d="M.867,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 57.594)" fill="#b8b8b8"/>
+              <path id="矩形_1279" data-name="矩形 1279" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 72.207)" fill="#b8b8b8"/>
+              <path id="矩形_1280" data-name="矩形 1280" d="M.867,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 86.314)" fill="#b8b8b8"/>
+              <path id="矩形_1281" data-name="矩形 1281" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.868A.868.868,0,0,1,0,5.453V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.093)" fill="#b8b8b8"/>
+            </g>
+          </g>
+          <g id="组_1614" data-name="组 1614" transform="translate(0 93.662)">
+            <g id="组_1612" data-name="组 1612" transform="translate(0.002)">
+              <path id="路径_1829" data-name="路径 1829" d="M438.461,632.268H433.8v-6.322h4.663a1.453,1.453,0,0,1,1.449,1.449v3.424A1.454,1.454,0,0,1,438.461,632.268Z" transform="translate(-433.798 -568.37)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1830" data-name="路径 1830" d="M438.461,623.54H433.8v-6.322h4.663a1.452,1.452,0,0,1,1.449,1.447v3.426A1.453,1.453,0,0,1,438.461,623.54Z" transform="translate(-433.798 -574.207)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1831" data-name="路径 1831" d="M438.461,614.976H433.8v-6.322h4.663a1.452,1.452,0,0,1,1.449,1.447v3.426A1.453,1.453,0,0,1,438.461,614.976Z" transform="translate(-433.798 -579.935)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1832" data-name="路径 1832" d="M438.461,606.331H433.8v-6.322h4.663a1.451,1.451,0,0,1,1.449,1.447v3.424A1.454,1.454,0,0,1,438.461,606.331Z" transform="translate(-433.798 -585.717)" fill="#b8b8b8" fill-rule="evenodd"/>
+              <path id="路径_1833" data-name="路径 1833" d="M438.461,597.766H433.8v-6.321h4.663a1.451,1.451,0,0,1,1.449,1.447v3.424A1.453,1.453,0,0,1,438.461,597.766Z" transform="translate(-433.798 -591.445)" fill="#b8b8b8" fill-rule="evenodd"/>
+            </g>
+            <g id="组_1613" data-name="组 1613" transform="translate(0 7.237)">
+              <path id="矩形_1282" data-name="矩形 1282" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.455a.869.869,0,0,1-.869.869H.869A.869.869,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 42.825)" fill="#b8b8b8"/>
+              <path id="矩形_1283" data-name="矩形 1283" d="M.867,0H12.7a.868.868,0,0,1,.868.868V5.453a.869.869,0,0,1-.869.869H.869A.869.869,0,0,1,0,5.453V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 28.719)" fill="#b8b8b8"/>
+              <path id="矩形_1284" data-name="矩形 1284" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.869A.869.869,0,0,1,0,5.452V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 14.106)" fill="#b8b8b8"/>
+              <path id="矩形_1285" data-name="矩形 1285" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.454a.867.867,0,0,1-.867.867H.869A.869.869,0,0,1,0,5.453V.869A.869.869,0,0,1,.869,0Z" fill="#b8b8b8"/>
+            </g>
+          </g>
+        </g>
+        <rect id="矩形_1286" data-name="矩形 1286" width="184.228" height="15.288" transform="translate(121.145 64.307)" fill="#e8e8e8"/>
+        <path id="路径_1834" data-name="路径 1834" d="M433.169,564.6H616.606V551.951l-91.719-64.927-91.718,64.927Z" transform="translate(-311.628 -487.025)" fill="#e8e8e8" fill-rule="evenodd"/>
+        <g id="组_1648" data-name="组 1648" transform="translate(302.475 61.832)">
+          <rect id="矩形_1287" data-name="矩形 1287" width="44.287" height="159.94" transform="translate(77.559 17.763)" fill="#91573f"/>
+          <g id="组_1622" data-name="组 1622" transform="translate(107.375 21.891)">
+            <g id="组_1618" data-name="组 1618">
+              <g id="组_1616" data-name="组 1616" transform="translate(7.334 7.16)">
+                <path id="路径_1835" data-name="路径 1835" d="M611.808,549.988H616.4v6.225h-4.591a1.432,1.432,0,0,1-1.427-1.427v-3.373A1.43,1.43,0,0,1,611.808,549.988Z" transform="translate(-610.288 -535.796)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1836" data-name="路径 1836" d="M611.808,558.42H616.4v6.225h-4.591a1.432,1.432,0,0,1-1.427-1.427v-3.371A1.432,1.432,0,0,1,611.808,558.42Z" transform="translate(-610.288 -530.157)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1837" data-name="路径 1837" d="M611.808,567.015H616.4v6.223h-4.591a1.432,1.432,0,0,1-1.427-1.427v-3.369A1.432,1.432,0,0,1,611.808,567.015Z" transform="translate(-610.288 -524.408)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1838" data-name="路径 1838" d="M611.808,575.448H616.4v6.221h-4.591a1.43,1.43,0,0,1-1.427-1.425v-3.373A1.429,1.429,0,0,1,611.808,575.448Z" transform="translate(-610.288 -518.768)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1839" data-name="路径 1839" d="M611.808,583.96H616.4v6.223h-4.591a1.429,1.429,0,0,1-1.427-1.424v-3.373A1.432,1.432,0,0,1,611.808,583.96Z" transform="translate(-610.288 -513.075)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1840" data-name="路径 1840" d="M611.808,592.393H616.4v6.223h-4.591a1.432,1.432,0,0,1-1.427-1.427v-3.373A1.431,1.431,0,0,1,611.808,592.393Z" transform="translate(-610.288 -507.434)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1841" data-name="路径 1841" d="M611.752,541.484h4.684v6.223h-4.684a1.432,1.432,0,0,1-1.427-1.427v-3.371A1.43,1.43,0,0,1,611.752,541.484Z" transform="translate(-610.325 -541.484)" fill="#73442f" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1617" data-name="组 1617">
+                <path id="矩形_1288" data-name="矩形 1288" d="M.854,0H12.5a.854.854,0,0,1,.854.854V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.371V.854A.854.854,0,0,1,.854,0Z" transform="translate(0 14.407)" fill="#73442f"/>
+                <path id="矩形_1289" data-name="矩形 1289" d="M.855,0H12.5a.855.855,0,0,1,.855.855V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.371V.855A.855.855,0,0,1,.855,0Z" transform="translate(0 28.297)" fill="#73442f"/>
+                <path id="矩形_1290" data-name="矩形 1290" d="M.855,0H12.5a.854.854,0,0,1,.854.854V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.37V.855A.855.855,0,0,1,.855,0Z" transform="translate(0.093 42.821)" fill="#73442f"/>
+                <path id="矩形_1291" data-name="矩形 1291" d="M.855,0H12.5a.854.854,0,0,1,.854.854V5.369a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.371V.855A.855.855,0,0,1,.855,0Z" transform="translate(0.093 56.711)" fill="#73442f"/>
+                <path id="矩形_1292" data-name="矩形 1292" d="M.855,0H12.5a.855.855,0,0,1,.855.855V5.37a.854.854,0,0,1-.854.854H.854A.854.854,0,0,1,0,5.37V.855A.855.855,0,0,1,.855,0Z" transform="translate(0.093 71.1)" fill="#73442f"/>
+                <path id="矩形_1293" data-name="矩形 1293" d="M.855,0H12.5a.854.854,0,0,1,.854.854V5.371a.855.855,0,0,1-.855.855H.854A.854.854,0,0,1,0,5.373V.855A.855.855,0,0,1,.855,0Z" transform="translate(0.093 84.99)" fill="#73442f"/>
+                <path id="矩形_1294" data-name="矩形 1294" d="M.855,0H12.5a.854.854,0,0,1,.854.854V5.37a.854.854,0,0,1-.854.854H.854A.854.854,0,0,1,0,5.371V.855A.855.855,0,0,1,.855,0Z" fill="#73442f"/>
+              </g>
+            </g>
+            <g id="组_1621" data-name="组 1621" transform="translate(0.09 92.225)">
+              <g id="组_1619" data-name="组 1619" transform="translate(7.337)">
+                <path id="路径_1842" data-name="路径 1842" d="M611.808,632.654H616.4v-6.225h-4.591a1.431,1.431,0,0,0-1.427,1.425v3.373A1.432,1.432,0,0,0,611.808,632.654Z" transform="translate(-610.381 -569.735)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1843" data-name="路径 1843" d="M611.808,624.06H616.4v-6.225h-4.591a1.432,1.432,0,0,0-1.427,1.427v3.371A1.432,1.432,0,0,0,611.808,624.06Z" transform="translate(-610.381 -575.483)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1844" data-name="路径 1844" d="M611.808,615.624H616.4V609.4h-4.591a1.43,1.43,0,0,0-1.427,1.425V614.2A1.429,1.429,0,0,0,611.808,615.624Z" transform="translate(-610.381 -581.123)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1845" data-name="路径 1845" d="M611.808,607.113H616.4V600.89h-4.591a1.429,1.429,0,0,0-1.427,1.425v3.373A1.43,1.43,0,0,0,611.808,607.113Z" transform="translate(-610.381 -586.817)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1846" data-name="路径 1846" d="M611.808,598.68H616.4v-6.223h-4.591a1.432,1.432,0,0,0-1.427,1.427v3.371A1.43,1.43,0,0,0,611.808,598.68Z" transform="translate(-610.381 -592.457)" fill="#73442f" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1620" data-name="组 1620" transform="translate(0 7.126)">
+                <rect id="矩形_1295" data-name="矩形 1295" width="13.357" height="6.224" rx="0.855" transform="translate(0 42.171)" fill="#73442f"/>
+                <rect id="矩形_1296" data-name="矩形 1296" width="13.357" height="6.224" rx="0.855" transform="translate(0 28.28)" fill="#73442f"/>
+                <rect id="矩形_1297" data-name="矩形 1297" width="13.357" height="6.226" rx="0.855" transform="translate(0 13.89)" fill="#73442f"/>
+                <rect id="矩形_1298" data-name="矩形 1298" width="13.357" height="6.226" rx="0.855" fill="#73442f"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_1624" data-name="组 1624" transform="translate(85.924 102.819)">
+            <rect id="矩形_1299" data-name="矩形 1299" width="27.941" height="5.271" transform="translate(0 45.008)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1623" data-name="组 1623" transform="translate(2.636)">
+              <rect id="矩形_1300" data-name="矩形 1300" width="21.084" height="40.766" transform="translate(0.793 0.968)" fill="#455668"/>
+              <path id="路径_1847" data-name="路径 1847" d="M594.656,585.687h22.669v42.7H594.656v-42.7Zm1.716,1.575v39.551h19.242V587.262Z" transform="translate(-594.656 -585.687)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1301" data-name="矩形 1301" width="1.45" height="41.129" transform="translate(10.61 0.786)" fill="#e8e8e8"/>
+              <rect id="矩形_1302" data-name="矩形 1302" width="20.825" height="1.334" transform="translate(0.922 20.683)" fill="#e8e8e8"/>
+              <rect id="矩形_1303" data-name="矩形 1303" width="20.825" height="0.727" transform="translate(0.988 10.735)" fill="#e8e8e8"/>
+              <rect id="矩形_1304" data-name="矩形 1304" width="20.823" height="0.727" transform="translate(1.056 30.996)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1305" data-name="矩形 1305" width="27.941" height="4.876" transform="translate(0 41.318)" fill="#e8e8e8"/>
+          </g>
+          <g id="组_1626" data-name="组 1626" transform="translate(45.265 153.721)">
+            <rect id="矩形_1306" data-name="矩形 1306" width="78.03" height="23.981" fill="#b8b8b8"/>
+            <g id="组_1625" data-name="组 1625" transform="translate(54.379 0.803)">
+              <path id="路径_1848" data-name="路径 1848" d="M612.152,621.323h5.082v6.749h-5.082a1.551,1.551,0,0,1-1.547-1.545v-3.658A1.551,1.551,0,0,1,612.152,621.323Z" transform="translate(-595.073 -613.558)" fill="#848484" fill-rule="evenodd"/>
+              <path id="矩形_1307" data-name="矩形 1307" d="M.927,0H13.559a.928.928,0,0,1,.928.928v4.9a.928.928,0,0,1-.928.928H.927A.927.927,0,0,1,0,5.825V.927A.927.927,0,0,1,.927,0Z" transform="translate(7.577 15.624)" fill="#848484"/>
+              <path id="矩形_1308" data-name="矩形 1308" d="M.928,0H13.559a.928.928,0,0,1,.928.928v4.9a.927.927,0,0,1-.927.927H.927A.927.927,0,0,1,0,5.825V.928A.928.928,0,0,1,.928,0Z" transform="translate(7.577)" fill="#848484"/>
+              <rect id="矩形_1309" data-name="矩形 1309" width="14.485" height="6.749" rx="0.927" transform="translate(0 7.975)" fill="#848484"/>
+            </g>
+          </g>
+          <g id="组_1628" data-name="组 1628" transform="translate(85.924 28.602)">
+            <rect id="矩形_1310" data-name="矩形 1310" width="27.941" height="5.271" transform="translate(0 45.007)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1627" data-name="组 1627" transform="translate(2.636)">
+              <rect id="矩形_1311" data-name="矩形 1311" width="21.084" height="40.766" transform="translate(0.793 0.967)" fill="#455668"/>
+              <path id="路径_1849" data-name="路径 1849" d="M594.656,541.215h22.669v42.7H594.656v-42.7Zm1.716,1.574v39.553h19.242V542.789Z" transform="translate(-594.656 -541.215)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1312" data-name="矩形 1312" width="1.45" height="41.127" transform="translate(10.61 0.788)" fill="#e8e8e8"/>
+              <rect id="矩形_1313" data-name="矩形 1313" width="20.825" height="1.334" transform="translate(0.922 20.684)" fill="#e8e8e8"/>
+              <rect id="矩形_1314" data-name="矩形 1314" width="20.825" height="0.729" transform="translate(0.988 10.735)" fill="#e8e8e8"/>
+              <rect id="矩形_1315" data-name="矩形 1315" width="20.823" height="0.727" transform="translate(1.056 30.996)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1316" data-name="矩形 1316" width="27.941" height="4.876" transform="translate(0 41.317)" fill="#e8e8e8"/>
+          </g>
+          <rect id="矩形_1317" data-name="矩形 1317" width="43.622" height="10.355" transform="translate(78.224 95.773)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <rect id="矩形_1318" data-name="矩形 1318" width="78.094" height="15.494" transform="translate(45.994 82.329)" fill="#b8b8b8"/>
+          <g id="组_1629" data-name="组 1629" transform="translate(102.93 83.534)">
+            <path id="路径_1850" data-name="路径 1850" d="M612.989,574.131h4.548v6.046h-4.548a1.39,1.39,0,0,1-1.387-1.387v-3.274A1.391,1.391,0,0,1,612.989,574.131Z" transform="translate(-597.692 -574.131)" fill="#9e9e9e" fill-rule="evenodd"/>
+            <rect id="矩形_1319" data-name="矩形 1319" width="12.972" height="6.047" rx="0.83" transform="translate(6.786 7.038)" fill="#9e9e9e"/>
+            <path id="矩形_1320" data-name="矩形 1320" d="M.829,0H12.141a.83.83,0,0,1,.83.83V5.216a.829.829,0,0,1-.829.829H.829A.829.829,0,0,1,0,5.216V.829A.829.829,0,0,1,.829,0Z" transform="translate(0 0.188)" fill="#9e9e9e"/>
+          </g>
+          <rect id="矩形_1321" data-name="矩形 1321" width="44.089" height="8.23" transform="translate(77.756 17.763)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="路径_1851" data-name="路径 1851" d="M632.484,543.8h-44.62v-18.37H600.7V530.8h18.947v-5.378h12.838Z" transform="translate(-510.639 -523.173)" fill="#b8b8b8" fill-rule="evenodd"/>
+          <path id="路径_1852" data-name="路径 1852" d="M588.346,700.763h7.767V623.814h1.845V607.472h-1.845V525.593h-7.767Z" transform="translate(-510.316 -523.061)" fill="#707070" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <rect id="矩形_1322" data-name="矩形 1322" width="75.267" height="159.94" transform="translate(2.763 17.763)" fill="#91573f"/>
+          <g id="组_1636" data-name="组 1636" transform="translate(62.88 19.651)">
+            <g id="组_1632" data-name="组 1632">
+              <g id="组_1630" data-name="组 1630" transform="translate(7.45 7.271)">
+                <path id="路径_1853" data-name="路径 1853" d="M585.236,548.844H589.9v6.322h-4.664a1.451,1.451,0,0,1-1.447-1.447v-3.426A1.452,1.452,0,0,1,585.236,548.844Z" transform="translate(-583.694 -534.432)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1854" data-name="路径 1854" d="M585.236,557.408H589.9v6.322h-4.664a1.453,1.453,0,0,1-1.447-1.45v-3.423A1.452,1.452,0,0,1,585.236,557.408Z" transform="translate(-583.694 -528.704)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1855" data-name="路径 1855" d="M585.236,566.136H589.9v6.322h-4.664a1.451,1.451,0,0,1-1.447-1.448v-3.423A1.453,1.453,0,0,1,585.236,566.136Z" transform="translate(-583.694 -522.867)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1856" data-name="路径 1856" d="M585.236,574.7H589.9v6.322h-4.664a1.451,1.451,0,0,1-1.447-1.448v-3.424A1.452,1.452,0,0,1,585.236,574.7Z" transform="translate(-583.694 -517.139)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1857" data-name="路径 1857" d="M585.236,583.346H589.9v6.321h-4.664a1.452,1.452,0,0,1-1.447-1.449v-3.424A1.451,1.451,0,0,1,585.236,583.346Z" transform="translate(-583.694 -511.356)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1858" data-name="路径 1858" d="M585.236,591.91H589.9v6.322h-4.664a1.453,1.453,0,0,1-1.447-1.45v-3.423A1.451,1.451,0,0,1,585.236,591.91Z" transform="translate(-583.694 -505.628)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1859" data-name="路径 1859" d="M585.181,540.208h4.758v6.321h-4.758a1.453,1.453,0,0,1-1.449-1.449v-3.424A1.454,1.454,0,0,1,585.181,540.208Z" transform="translate(-583.732 -540.208)" fill="#73442f" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1631" data-name="组 1631">
+                <path id="矩形_1323" data-name="矩形 1323" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.455a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.456V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 14.629)" fill="#73442f"/>
+                <path id="矩形_1324" data-name="矩形 1324" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.455a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.456V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 28.736)" fill="#73442f"/>
+                <path id="矩形_1325" data-name="矩形 1325" d="M.867,0H12.7a.867.867,0,0,1,.867.867V5.452a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0.095 43.488)" fill="#73442f"/>
+                <rect id="矩形_1326" data-name="矩形 1326" width="13.563" height="6.321" rx="0.867" transform="translate(0.095 57.595)" fill="#73442f"/>
+                <path id="矩形_1327" data-name="矩形 1327" d="M.869,0H12.694a.869.869,0,0,1,.869.869V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.095 72.207)" fill="#73442f"/>
+                <path id="矩形_1328" data-name="矩形 1328" d="M.869,0H12.7a.867.867,0,0,1,.867.867V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.095 86.314)" fill="#73442f"/>
+                <path id="矩形_1329" data-name="矩形 1329" d="M.867,0H12.7a.869.869,0,0,1,.869.869V5.454a.867.867,0,0,1-.867.867H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" fill="#73442f"/>
+              </g>
+            </g>
+            <g id="组_1635" data-name="组 1635" transform="translate(0.093 93.663)">
+              <g id="组_1633" data-name="组 1633" transform="translate(7.452)">
+                <path id="路径_1860" data-name="路径 1860" d="M585.236,632.8H589.9v-6.321h-4.664a1.453,1.453,0,0,0-1.447,1.45v3.425A1.451,1.451,0,0,0,585.236,632.8Z" transform="translate(-583.789 -568.901)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1861" data-name="路径 1861" d="M585.236,624.07H589.9v-6.322h-4.664a1.453,1.453,0,0,0-1.447,1.449v3.426A1.452,1.452,0,0,0,585.236,624.07Z" transform="translate(-583.789 -574.739)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1862" data-name="路径 1862" d="M585.236,615.5H589.9v-6.32h-4.664a1.452,1.452,0,0,0-1.447,1.447v3.426A1.45,1.45,0,0,0,585.236,615.5Z" transform="translate(-583.789 -580.466)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1863" data-name="路径 1863" d="M585.236,606.861H589.9v-6.322h-4.664a1.451,1.451,0,0,0-1.447,1.449v3.424A1.452,1.452,0,0,0,585.236,606.861Z" transform="translate(-583.789 -586.249)" fill="#73442f" fill-rule="evenodd"/>
+                <path id="路径_1864" data-name="路径 1864" d="M585.236,598.3H589.9v-6.32h-4.664a1.45,1.45,0,0,0-1.447,1.447v3.424A1.452,1.452,0,0,0,585.236,598.3Z" transform="translate(-583.789 -591.976)" fill="#73442f" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1634" data-name="组 1634" transform="translate(0 7.237)">
+                <path id="矩形_1330" data-name="矩形 1330" d="M.869,0H12.7a.867.867,0,0,1,.867.867V5.455a.869.869,0,0,1-.869.869H.869A.869.869,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 42.825)" fill="#73442f"/>
+                <path id="矩形_1331" data-name="矩形 1331" d="M.869,0H12.7a.867.867,0,0,1,.867.867V5.455a.869.869,0,0,1-.869.869H.869A.869.869,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 28.719)" fill="#73442f"/>
+                <path id="矩形_1332" data-name="矩形 1332" d="M.869,0H12.7a.867.867,0,0,1,.867.867V5.452a.869.869,0,0,1-.869.869H.869A.869.869,0,0,1,0,5.452V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 14.106)" fill="#73442f"/>
+                <path id="矩形_1333" data-name="矩形 1333" d="M.869,0H12.7a.867.867,0,0,1,.867.867V5.454a.867.867,0,0,1-.867.867H.869A.869.869,0,0,1,0,5.453V.869A.869.869,0,0,1,.869,0Z" fill="#73442f"/>
+              </g>
+            </g>
+          </g>
+          <rect id="矩形_1334" data-name="矩形 1334" width="78.096" height="16.342" transform="translate(2.763 79.43)" fill="#b8b8b8"/>
+          <g id="组_1638" data-name="组 1638" transform="translate(9.525 100.709)">
+            <rect id="矩形_1335" data-name="矩形 1335" width="27.941" height="5.271" transform="translate(0 45.009)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1637" data-name="组 1637" transform="translate(2.636)">
+              <rect id="矩形_1336" data-name="矩形 1336" width="21.084" height="40.766" transform="translate(0.793 0.969)" fill="#455668"/>
+              <path id="路径_1865" data-name="路径 1865" d="M548.876,584.423h22.669v42.7H548.876v-42.7ZM550.588,586V625.55h19.243V586Z" transform="translate(-548.876 -584.423)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1337" data-name="矩形 1337" width="1.45" height="41.129" transform="translate(10.61 0.787)" fill="#e8e8e8"/>
+              <rect id="矩形_1338" data-name="矩形 1338" width="20.825" height="1.334" transform="translate(0.922 20.684)" fill="#e8e8e8"/>
+              <rect id="矩形_1339" data-name="矩形 1339" width="20.825" height="0.727" transform="translate(0.988 10.736)" fill="#e8e8e8"/>
+              <rect id="矩形_1340" data-name="矩形 1340" width="20.825" height="0.727" transform="translate(1.054 30.997)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1341" data-name="矩形 1341" width="27.941" height="4.876" transform="translate(0 41.319)" fill="#e8e8e8"/>
+          </g>
+          <g id="组_1640" data-name="组 1640" transform="translate(41.903 100.709)">
+            <rect id="矩形_1342" data-name="矩形 1342" width="27.943" height="5.271" transform="translate(0 45.009)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1639" data-name="组 1639" transform="translate(2.635)">
+              <rect id="矩形_1343" data-name="矩形 1343" width="21.084" height="40.766" transform="translate(0.793 0.969)" fill="#455668"/>
+              <path id="路径_1866" data-name="路径 1866" d="M568.277,584.423h22.671v42.7H568.277v-42.7ZM569.993,586V625.55h19.242V586Z" transform="translate(-568.277 -584.423)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1344" data-name="矩形 1344" width="1.45" height="41.129" transform="translate(10.611 0.787)" fill="#e8e8e8"/>
+              <rect id="矩形_1345" data-name="矩形 1345" width="20.823" height="1.334" transform="translate(0.925 20.684)" fill="#e8e8e8"/>
+              <rect id="矩形_1346" data-name="矩形 1346" width="20.825" height="0.727" transform="translate(0.989 10.736)" fill="#e8e8e8"/>
+              <rect id="矩形_1347" data-name="矩形 1347" width="20.823" height="0.727" transform="translate(1.057 30.997)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1348" data-name="矩形 1348" width="27.943" height="4.876" transform="translate(0 41.319)" fill="#e8e8e8"/>
+          </g>
+          <g id="组_1642" data-name="组 1642" transform="translate(9.525 25.173)">
+            <rect id="矩形_1349" data-name="矩形 1349" width="27.941" height="5.271" transform="translate(0 45.01)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1641" data-name="组 1641" transform="translate(2.636)">
+              <rect id="矩形_1350" data-name="矩形 1350" width="21.084" height="40.764" transform="translate(0.793 0.97)" fill="#455668"/>
+              <path id="路径_1867" data-name="路径 1867" d="M548.876,539.16h22.669v42.7H548.876v-42.7Zm1.712,1.577v39.551h19.243V540.737Z" transform="translate(-548.876 -539.16)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1351" data-name="矩形 1351" width="1.45" height="41.127" transform="translate(10.61 0.789)" fill="#e8e8e8"/>
+              <rect id="矩形_1352" data-name="矩形 1352" width="20.825" height="1.334" transform="translate(0.922 20.685)" fill="#e8e8e8"/>
+              <rect id="矩形_1353" data-name="矩形 1353" width="20.825" height="0.727" transform="translate(0.988 10.738)" fill="#e8e8e8"/>
+              <rect id="矩形_1354" data-name="矩形 1354" width="20.825" height="0.727" transform="translate(1.054 30.999)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1355" data-name="矩形 1355" width="27.941" height="4.878" transform="translate(0 41.319)" fill="#e8e8e8"/>
+          </g>
+          <g id="组_1644" data-name="组 1644" transform="translate(41.903 25.173)">
+            <rect id="矩形_1356" data-name="矩形 1356" width="27.943" height="5.271" transform="translate(0 45.01)" fill="#636363" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="组_1643" data-name="组 1643" transform="translate(2.635)">
+              <rect id="矩形_1357" data-name="矩形 1357" width="21.084" height="40.764" transform="translate(0.793 0.97)" fill="#455668"/>
+              <path id="路径_1868" data-name="路径 1868" d="M568.277,539.16h22.671v42.7H568.277v-42.7Zm1.716,1.577v39.551h19.242V540.737Z" transform="translate(-568.277 -539.16)" fill="#e8e8e8" fill-rule="evenodd"/>
+              <rect id="矩形_1358" data-name="矩形 1358" width="1.45" height="41.127" transform="translate(10.611 0.789)" fill="#e8e8e8"/>
+              <rect id="矩形_1359" data-name="矩形 1359" width="20.823" height="1.334" transform="translate(0.925 20.685)" fill="#e8e8e8"/>
+              <rect id="矩形_1360" data-name="矩形 1360" width="20.825" height="0.727" transform="translate(0.989 10.738)" fill="#e8e8e8"/>
+              <rect id="矩形_1361" data-name="矩形 1361" width="20.823" height="0.727" transform="translate(1.057 30.999)" fill="#e8e8e8"/>
+            </g>
+            <rect id="矩形_1362" data-name="矩形 1362" width="27.943" height="4.878" transform="translate(0 41.319)" fill="#e8e8e8"/>
+          </g>
+          <rect id="矩形_1363" data-name="矩形 1363" width="75.267" height="9.844" transform="translate(2.763 17.763)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <rect id="矩形_1364" data-name="矩形 1364" width="78.03" height="23.981" transform="translate(0 153.721)" fill="#b8b8b8"/>
+          <g id="组_1645" data-name="组 1645" transform="translate(2.347)">
+            <path id="路径_1869" data-name="路径 1869" d="M587.614,542.444H543V524.076h12.836v5.376h18.947v-5.376h12.836Z" transform="translate(-542.996 -524.076)" fill="#b8b8b8" fill-rule="evenodd"/>
+            <path id="路径_1870" data-name="路径 1870" d="M606.622,542.444H562V524.076h12.836v5.376h18.947v-5.376h12.836Z" transform="translate(-530.282 -524.076)" fill="#b8b8b8" fill-rule="evenodd"/>
+          </g>
+          <path id="路径_1871" data-name="路径 1871" d="M551.553,700.777h-8.308v-175.2l8.308,3.031Z" transform="translate(-540.482 -523.074)" fill="#707070" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="组_1646" data-name="组 1646" transform="translate(54.376 154.524)">
+            <path id="路径_1872" data-name="路径 1872" d="M585.029,621.323h5.08v6.749h-5.08a1.553,1.553,0,0,1-1.549-1.545v-3.658A1.553,1.553,0,0,1,585.029,621.323Z" transform="translate(-567.947 -613.558)" fill="#848484" fill-rule="evenodd"/>
+            <path id="矩形_1365" data-name="矩形 1365" d="M.927,0H13.558a.927.927,0,0,1,.927.927v4.9a.928.928,0,0,1-.928.928H.927A.927.927,0,0,1,0,5.825V.927A.927.927,0,0,1,.927,0Z" transform="translate(7.579 15.624)" fill="#848484"/>
+            <path id="矩形_1366" data-name="矩形 1366" d="M.928,0H13.558a.927.927,0,0,1,.927.927v4.9a.927.927,0,0,1-.927.927H.927A.927.927,0,0,1,0,5.825V.928A.928.928,0,0,1,.928,0Z" transform="translate(7.579)" fill="#848484"/>
+            <rect id="矩形_1367" data-name="矩形 1367" width="14.485" height="6.749" rx="0.927" transform="translate(0 7.975)" fill="#848484"/>
+          </g>
+          <rect id="矩形_1368" data-name="矩形 1368" width="75.323" height="9.729" transform="translate(2.763 95.773)" fill="#707070" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="组_1647" data-name="组 1647" transform="translate(58.857 80.78)">
+            <path id="路径_1873" data-name="路径 1873" d="M586.99,572.481h4.743v6.3H586.99a1.449,1.449,0,0,1-1.443-1.444v-3.413A1.45,1.45,0,0,1,586.99,572.481Z" transform="translate(-571.045 -572.481)" fill="#9e9e9e" fill-rule="evenodd"/>
+            <path id="矩形_1369" data-name="矩形 1369" d="M.866,0h11.79a.865.865,0,0,1,.865.865V5.438a.865.865,0,0,1-.865.865H.865A.865.865,0,0,1,0,5.438V.866A.866.866,0,0,1,.866,0Z" transform="translate(7.075 7.337)" fill="#9e9e9e"/>
+            <rect id="矩形_1370" data-name="矩形 1370" width="13.522" height="6.303" rx="0.865" transform="translate(0 0.196)" fill="#9e9e9e"/>
+          </g>
+        </g>
+        <rect id="矩形_1371" data-name="矩形 1371" width="184.228" height="8.895" transform="translate(121.145 79.595)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="路径_1874" data-name="路径 1874" d="M464.511,583.414l80.754-.338L595.9,631.922v30.4H546.311Z" transform="translate(-290.666 -422.782)" fill="#858585" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1659" data-name="组 1659" transform="translate(175.105 79.461)">
+          <g id="组_1653" data-name="组 1653">
+            <rect id="矩形_1372" data-name="矩形 1372" width="16.344" height="62.999" transform="translate(3.862)" fill="#d1d1d1"/>
+            <g id="组_1651" data-name="组 1651" transform="translate(5.083 1.137)">
+              <g id="组_1649" data-name="组 1649" transform="translate(0.002 7.27)">
+                <path id="路径_1875" data-name="路径 1875" d="M472.977,548.314h-4.664v6.321h4.664a1.452,1.452,0,0,0,1.449-1.449v-3.426A1.452,1.452,0,0,0,472.977,548.314Z" transform="translate(-468.313 -533.9)" fill="#b8b8b8" fill-rule="evenodd"/>
+                <path id="路径_1876" data-name="路径 1876" d="M472.977,556.878h-4.664v6.32h4.664a1.453,1.453,0,0,0,1.449-1.448v-3.424A1.452,1.452,0,0,0,472.977,556.878Z" transform="translate(-468.313 -528.172)" fill="#b8b8b8" fill-rule="evenodd"/>
+                <path id="路径_1877" data-name="路径 1877" d="M472.977,565.606h-4.664v6.32h4.664a1.452,1.452,0,0,0,1.449-1.447v-3.425A1.453,1.453,0,0,0,472.977,565.606Z" transform="translate(-468.313 -522.335)" fill="#b8b8b8" fill-rule="evenodd"/>
+                <path id="路径_1878" data-name="路径 1878" d="M473.071,539.677h-4.758V546h4.758a1.452,1.452,0,0,0,1.449-1.447v-3.424A1.454,1.454,0,0,0,473.071,539.677Z" transform="translate(-468.313 -539.677)" fill="#b8b8b8" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1650" data-name="组 1650">
+                <path id="矩形_1373" data-name="矩形 1373" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.455a.869.869,0,0,1-.869.869H.868A.868.868,0,0,1,0,5.455V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.094 14.629)" fill="#b8b8b8"/>
+                <path id="矩形_1374" data-name="矩形 1374" d="M.867,0H12.7a.868.868,0,0,1,.868.868V5.453a.869.869,0,0,1-.869.869H.868A.868.868,0,0,1,0,5.453V.867A.867.867,0,0,1,.867,0Z" transform="translate(0.094 28.737)" fill="#b8b8b8"/>
+                <path id="矩形_1375" data-name="矩形 1375" d="M.867,0H12.7a.869.869,0,0,1,.869.869V5.453a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 43.488)" fill="#b8b8b8"/>
+                <path id="矩形_1376" data-name="矩形 1376" d="M.869,0H12.7a.868.868,0,0,1,.868.868V5.454a.867.867,0,0,1-.867.867H.868A.868.868,0,0,1,0,5.453V.869A.869.869,0,0,1,.869,0Z" transform="translate(0.094)" fill="#b8b8b8"/>
+              </g>
+            </g>
+            <g id="组_1652" data-name="组 1652">
+              <rect id="矩形_1377" data-name="矩形 1377" width="16.28" height="9.856" transform="translate(3.895 0.896)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+              <rect id="矩形_1378" data-name="矩形 1378" width="24.069" height="6.57" fill="#e0e0e0"/>
+            </g>
+          </g>
+          <g id="组_1658" data-name="组 1658" transform="translate(52.237)">
+            <rect id="矩形_1379" data-name="矩形 1379" width="16.344" height="62.999" transform="translate(3.863)" fill="#d1d1d1"/>
+            <g id="组_1656" data-name="组 1656" transform="translate(5.329 1.137)">
+              <g id="组_1654" data-name="组 1654" transform="translate(7.45 7.27)">
+                <path id="路径_1879" data-name="路径 1879" d="M505.73,548.314h4.663v6.321H505.73a1.453,1.453,0,0,1-1.45-1.449v-3.426A1.454,1.454,0,0,1,505.73,548.314Z" transform="translate(-504.188 -533.9)" fill="#b8b8b8" fill-rule="evenodd"/>
+                <path id="路径_1880" data-name="路径 1880" d="M505.73,556.878h4.663v6.32H505.73a1.454,1.454,0,0,1-1.45-1.448v-3.424A1.454,1.454,0,0,1,505.73,556.878Z" transform="translate(-504.188 -528.172)" fill="#b8b8b8" fill-rule="evenodd"/>
+                <path id="路径_1881" data-name="路径 1881" d="M505.73,565.606h4.663v6.32H505.73a1.454,1.454,0,0,1-1.45-1.447v-3.425A1.454,1.454,0,0,1,505.73,565.606Z" transform="translate(-504.188 -522.335)" fill="#b8b8b8" fill-rule="evenodd"/>
+                <path id="路径_1882" data-name="路径 1882" d="M505.672,539.677h4.758V546h-4.758a1.452,1.452,0,0,1-1.447-1.447v-3.424A1.454,1.454,0,0,1,505.672,539.677Z" transform="translate(-504.225 -539.677)" fill="#b8b8b8" fill-rule="evenodd"/>
+              </g>
+              <g id="组_1655" data-name="组 1655">
+                <path id="矩形_1380" data-name="矩形 1380" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.455a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.456V.869A.869.869,0,0,1,.869,0Z" transform="translate(0 14.629)" fill="#b8b8b8"/>
+                <path id="矩形_1381" data-name="矩形 1381" d="M.867,0H12.7a.869.869,0,0,1,.869.869V5.453a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.454V.867A.867.867,0,0,1,.867,0Z" transform="translate(0 28.737)" fill="#b8b8b8"/>
+                <path id="矩形_1382" data-name="矩形 1382" d="M.867,0H12.7a.869.869,0,0,1,.869.869V5.453a.869.869,0,0,1-.869.869H.869A.869.869,0,0,1,0,5.453V.867A.867.867,0,0,1,.867,0Z" transform="translate(0.093 43.488)" fill="#b8b8b8"/>
+                <path id="矩形_1383" data-name="矩形 1383" d="M.869,0H12.7a.869.869,0,0,1,.869.869V5.452a.869.869,0,0,1-.869.869H.867A.867.867,0,0,1,0,5.454V.869A.869.869,0,0,1,.869,0Z" fill="#b8b8b8"/>
+              </g>
+            </g>
+            <g id="组_1657" data-name="组 1657">
+              <rect id="矩形_1384" data-name="矩形 1384" width="16.279" height="9.856" transform="translate(3.896 0.896)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+              <rect id="矩形_1385" data-name="矩形 1385" width="24.07" height="6.57" fill="#e0e0e0"/>
+            </g>
+          </g>
+        </g>
+        <rect id="矩形_1386" data-name="矩形 1386" width="80.924" height="16.344" transform="translate(172.796 144.279)" fill="#d1d1d1"/>
+        <rect id="矩形_1387" data-name="矩形 1387" width="80.924" height="3.953" transform="translate(172.796 149.183)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <rect id="矩形_1388" data-name="矩形 1388" width="90.415" height="11.862" transform="translate(168.051 136.794)" fill="#e0e0e0"/>
+        <g id="组_1664" data-name="组 1664" transform="translate(175.903 160.522)">
+          <g id="组_1661" data-name="组 1661">
+            <g id="组_1660" data-name="组 1660">
+              <rect id="矩形_1389" data-name="矩形 1389" width="12.913" height="78.127" transform="translate(3.089 0.791)" fill="#d1d1d1"/>
+              <rect id="矩形_1390" data-name="矩形 1390" width="12.913" height="8.699" transform="translate(3.089 0.791)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+              <rect id="矩形_1391" data-name="矩形 1391" width="19.091" height="5.798" fill="#e0e0e0"/>
+              <rect id="矩形_1392" data-name="矩形 1392" width="12.913" height="2.372" transform="translate(3.089 67.577)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            </g>
+            <rect id="矩形_1393" data-name="矩形 1393" width="16.124" height="9.496" transform="translate(1.484 69.422)" fill="#e0e0e0"/>
+          </g>
+          <g id="组_1663" data-name="组 1663" transform="translate(55.619)">
+            <g id="组_1662" data-name="组 1662">
+              <rect id="矩形_1394" data-name="矩形 1394" width="12.914" height="78.127" transform="translate(3.088 0.791)" fill="#d1d1d1"/>
+              <rect id="矩形_1395" data-name="矩形 1395" width="12.914" height="8.699" transform="translate(3.088 0.791)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+              <rect id="矩形_1396" data-name="矩形 1396" width="19.091" height="5.798" fill="#e0e0e0"/>
+              <rect id="矩形_1397" data-name="矩形 1397" width="12.914" height="2.372" transform="translate(3.088 67.577)" fill="#858585" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+            </g>
+            <rect id="矩形_1398" data-name="矩形 1398" width="16.124" height="9.496" transform="translate(1.485 69.422)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <rect id="矩形_1399" data-name="矩形 1399" width="82.242" height="5.139" transform="translate(172.137 239.434)" fill="#d1d1d1"/>
+        <path id="路径_1883" data-name="路径 1883" d="M513.851,497.01,578.033,545H449.668Z" transform="translate(-300.593 -480.346)" fill="#91573f" fill-rule="evenodd"/>
+        <path id="路径_1884" data-name="路径 1884" d="M513.852,497.01,578.033,545H566.478L513.852,505.65,461.226,545H449.668Z" transform="translate(-300.593 -480.346)" fill="#858585" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1666" data-name="组 1666" transform="translate(186.641 36.271)">
+          <g id="组_1665" data-name="组 1665" transform="translate(9.182 8.786)">
+            <path id="矩形_1400" data-name="矩形 1400" d="M1.056,0h14.4a1.056,1.056,0,0,1,1.056,1.056V6.637a1.057,1.057,0,0,1-1.057,1.057H1.056A1.056,1.056,0,0,1,0,6.638V1.056A1.056,1.056,0,0,1,1.056,0Z" transform="translate(18.362)" fill="#683e2d"/>
+            <rect id="矩形_1401" data-name="矩形 1401" width="16.509" height="7.694" rx="1.056" fill="#683e2d"/>
+          </g>
+          <rect id="矩形_1402" data-name="矩形 1402" width="16.509" height="7.693" rx="1.056" transform="translate(36.726 17.596)" fill="#683e2d"/>
+          <rect id="矩形_1403" data-name="矩形 1403" width="16.51" height="7.693" rx="1.056" transform="translate(18.362 17.596)" fill="#683e2d"/>
+          <path id="矩形_1404" data-name="矩形 1404" d="M1.056,0h14.4a1.057,1.057,0,0,1,1.057,1.057V6.636a1.056,1.056,0,0,1-1.056,1.056H1.057A1.057,1.057,0,0,1,0,6.636V1.056A1.056,1.056,0,0,1,1.056,0Z" transform="translate(0 17.596)" fill="#683e2d"/>
+          <path id="矩形_1405" data-name="矩形 1405" d="M1.057,0h14.4A1.056,1.056,0,0,1,16.51,1.056V6.638a1.056,1.056,0,0,1-1.056,1.056H1.056A1.056,1.056,0,0,1,0,6.638V1.057A1.057,1.057,0,0,1,1.057,0Z" transform="translate(18.362)" fill="#683e2d"/>
+        </g>
+      </g>
+      <g id="组_1668" data-name="组 1668" transform="translate(694.981 835.734)">
+        <rect id="矩形_1406" data-name="矩形 1406" width="71.91" height="3.538" fill="#e0e0e0"/>
+        <rect id="矩形_1407" data-name="矩形 1407" width="71.91" height="3.538" transform="translate(0 8.057)" fill="#e0e0e0"/>
+        <rect id="矩形_1408" data-name="矩形 1408" width="71.91" height="3.539" transform="translate(0 16.114)" fill="#e0e0e0"/>
+      </g>
+      <g id="组_1675" data-name="组 1675" transform="translate(458.398 849.873)">
+        <g id="组_1671" data-name="组 1671" transform="translate(330.131)">
+          <g id="组_1669" data-name="组 1669" transform="translate(23.882)">
+            <rect id="矩形_1409" data-name="矩形 1409" width="23.883" height="8.685" fill="#e0e0e0"/>
+            <rect id="矩形_1410" data-name="矩形 1410" width="23.883" height="8.685" transform="translate(47.765)" fill="#e0e0e0"/>
+            <rect id="矩形_1411" data-name="矩形 1411" width="23.883" height="8.685" transform="translate(95.53)" fill="#e8e8e8"/>
+            <rect id="矩形_1412" data-name="矩形 1412" width="23.883" height="8.685" transform="translate(143.297)" fill="#e0e0e0"/>
+          </g>
+          <g id="组_1670" data-name="组 1670">
+            <rect id="矩形_1413" data-name="矩形 1413" width="23.882" height="8.685" fill="#646464"/>
+            <rect id="矩形_1414" data-name="矩形 1414" width="23.882" height="8.685" transform="translate(47.765)" fill="#646464"/>
+            <rect id="矩形_1415" data-name="矩形 1415" width="23.882" height="8.685" transform="translate(95.53)" fill="#545454"/>
+            <rect id="矩形_1416" data-name="矩形 1416" width="23.884" height="8.685" transform="translate(143.295)" fill="#646464"/>
+            <rect id="矩形_1417" data-name="矩形 1417" width="23.882" height="8.685" transform="translate(191.061)" fill="#646464"/>
+          </g>
+        </g>
+        <g id="组_1674" data-name="组 1674">
+          <g id="组_1672" data-name="组 1672" transform="translate(23.884)">
+            <rect id="矩形_1418" data-name="矩形 1418" width="23.882" height="8.685" fill="#e0e0e0"/>
+            <rect id="矩形_1419" data-name="矩形 1419" width="23.882" height="8.685" transform="translate(47.765)" fill="#e0e0e0"/>
+            <rect id="矩形_1420" data-name="矩形 1420" width="23.883" height="8.685" transform="translate(95.53)" fill="#e0e0e0"/>
+            <rect id="矩形_1421" data-name="矩形 1421" width="23.883" height="8.685" transform="translate(143.296)" fill="#e0e0e0"/>
+          </g>
+          <g id="组_1673" data-name="组 1673">
+            <rect id="矩形_1422" data-name="矩形 1422" width="23.884" height="8.685" fill="#646464"/>
+            <rect id="矩形_1423" data-name="矩形 1423" width="23.883" height="8.685" transform="translate(47.766)" fill="#646464"/>
+            <rect id="矩形_1424" data-name="矩形 1424" width="23.883" height="8.685" transform="translate(95.531)" fill="#646464"/>
+            <rect id="矩形_1425" data-name="矩形 1425" width="23.883" height="8.685" transform="translate(143.297)" fill="#646464"/>
+            <rect id="矩形_1426" data-name="矩形 1426" width="23.882" height="8.685" transform="translate(191.063)" fill="#646464"/>
+          </g>
+        </g>
+      </g>
+      <g id="组_1679" data-name="组 1679" transform="translate(779.884 821.817)">
+        <path id="路径_1885" data-name="路径 1885" d="M539.25,632.4l13.431,13.851H535.023Z" transform="translate(-505.735 -629.516)" fill="#6e6e6e" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="路径_1886" data-name="路径 1886" d="M550.131,632.4l13.431,13.851H545.9Z" transform="translate(-498.458 -629.516)" fill-rule="evenodd" opacity="0.5" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1676" data-name="组 1676" transform="translate(37.428 0.088)">
+          <path id="路径_1887" data-name="路径 1887" d="M548.15,630.724c-4.554,0-8.249,3.952-8.249,8.823H556.4C556.4,634.676,552.7,630.724,548.15,630.724Z" transform="translate(-539.901 -630.724)" fill="#5e9120" fill-rule="evenodd"/>
+          <path id="路径_1888" data-name="路径 1888" d="M546.941,630.724c-2.89,0-5.232,3.952-5.232,8.823h10.464C552.173,634.676,549.83,630.724,546.941,630.724Z" transform="translate(-538.692 -630.724)" fill="#71ad28" fill-rule="evenodd"/>
+          <path id="路径_1889" data-name="路径 1889" d="M545.419,630.724c-.791,0-1.434,3.952-1.434,8.823h2.867C546.852,634.676,546.21,630.724,545.419,630.724Z" transform="translate(-537.169 -630.724)" fill="#83c236" fill-rule="evenodd"/>
+        </g>
+        <path id="路径_1890" data-name="路径 1890" d="M528.6,632.4l13.431,13.851H524.37Z" transform="translate(-512.86 -629.516)" fill="#6e6e6e" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1677" data-name="组 1677" transform="translate(19.338 0.18)">
+          <path id="路径_1891" data-name="路径 1891" d="M537.31,630.779a8.548,8.548,0,0,0-8.249,8.82h16.495C545.556,634.727,541.864,630.779,537.31,630.779Z" transform="translate(-529.061 -630.779)" fill="#5e9120" fill-rule="evenodd"/>
+          <path id="路径_1892" data-name="路径 1892" d="M536.1,630.779c-2.892,0-5.235,3.948-5.235,8.82h10.467C541.334,634.727,538.991,630.779,536.1,630.779Z" transform="translate(-527.853 -630.779)" fill="#71ad28" fill-rule="evenodd"/>
+          <path id="路径_1893" data-name="路径 1893" d="M534.579,630.779c-.793,0-1.434,3.948-1.434,8.82h2.864C536.009,634.727,535.368,630.779,534.579,630.779Z" transform="translate(-526.329 -630.779)" fill="#83c236" fill-rule="evenodd"/>
+        </g>
+        <g id="组_1678" data-name="组 1678" transform="translate(1.427)">
+          <path id="路径_1894" data-name="路径 1894" d="M526.575,630.671c-4.556,0-8.247,3.95-8.247,8.821h16.495C534.823,634.621,531.131,630.671,526.575,630.671Z" transform="translate(-518.328 -630.671)" fill="#5e9120" fill-rule="evenodd"/>
+          <path id="路径_1895" data-name="路径 1895" d="M525.368,630.671c-2.889,0-5.234,3.95-5.234,8.821H530.6C530.6,634.621,528.258,630.671,525.368,630.671Z" transform="translate(-517.12 -630.671)" fill="#71ad28" fill-rule="evenodd"/>
+          <path id="路径_1896" data-name="路径 1896" d="M523.844,630.671c-.791,0-1.432,3.95-1.432,8.821h2.864C525.276,634.621,524.636,630.671,523.844,630.671Z" transform="translate(-515.596 -630.671)" fill="#83c236" fill-rule="evenodd"/>
+        </g>
+        <rect id="矩形_1427" data-name="矩形 1427" width="55.083" height="8.279" transform="translate(0 8.453)" fill="#e0e0e0"/>
+      </g>
+      <g id="组_1681" data-name="组 1681" transform="translate(841.125 823.435)">
+        <g id="组_1680" data-name="组 1680" transform="translate(0.576)">
+          <rect id="矩形_1428" data-name="矩形 1428" width="48.568" height="36.204" transform="translate(3.45 5.605)" fill="#fff" opacity="0.5"/>
+          <rect id="矩形_1429" data-name="矩形 1429" width="1.59" height="41.118" transform="translate(26.842 5.605)" fill="#2e2c27"/>
+          <rect id="矩形_1430" data-name="矩形 1430" width="1.59" height="41.118" transform="translate(2.509 5.605)" fill="#2e2c27"/>
+          <rect id="矩形_1431" data-name="矩形 1431" width="1.59" height="41.118" transform="translate(51.175 5.605)" fill="#2e2c27"/>
+          <rect id="矩形_1432" data-name="矩形 1432" width="48.07" height="1.59" transform="translate(3.602 41.063)" fill="#2e2c27"/>
+          <rect id="矩形_1433" data-name="矩形 1433" width="48.07" height="1.59" transform="translate(3.602 24.268)" fill="#2e2c27"/>
+          <path id="路径_1897" data-name="路径 1897" d="M558.27,631.641h47.762c2.395,1.847,3.646,4.731,3.756,9.335H554.515C554.625,636.372,555.875,633.488,558.27,631.641Z" transform="translate(-554.515 -631.641)" fill="#575349" fill-rule="evenodd"/>
+        </g>
+        <path id="路径_1898" data-name="路径 1898" d="M554.175,653.919l47.565-1.606,8.839-1.878,15.354,15.356H565.957Z" transform="translate(-554.167 -619.071)" fill-rule="evenodd" opacity="0.5" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <rect id="矩形_1434" data-name="矩形 1434" width="50.197" height="3.609" transform="translate(3.113 32.989)" fill="#5e4224"/>
+        <rect id="矩形_1435" data-name="矩形 1435" width="56.423" height="3.525" transform="translate(0 31.357)" fill="#d2a677"/>
+      </g>
+      <g id="组_1685" data-name="组 1685" transform="translate(299.083 775.247)">
+        <rect id="矩形_1436" data-name="矩形 1436" width="1.498" height="32.827" transform="translate(34.428)" fill="#b8b8b8"/>
+        <rect id="矩形_1437" data-name="矩形 1437" width="1.497" height="32.827" transform="translate(17.214)" fill="#b8b8b8"/>
+        <g id="组_1682" data-name="组 1682" transform="translate(17.339 3.226)">
+          <rect id="矩形_1438" data-name="矩形 1438" width="17.834" height="1.066" transform="translate(0 25.307)" fill="#b8b8b8"/>
+          <rect id="矩形_1439" data-name="矩形 1439" width="17.834" height="1.066" transform="translate(0 18.729)" fill="#b8b8b8"/>
+          <rect id="矩形_1440" data-name="矩形 1440" width="17.834" height="1.066" transform="translate(0 12.334)" fill="#b8b8b8"/>
+          <rect id="矩形_1441" data-name="矩形 1441" width="17.834" height="1.066" transform="translate(0 5.938)" fill="#b8b8b8"/>
+          <rect id="矩形_1442" data-name="矩形 1442" width="17.834" height="1.067" fill="#b8b8b8"/>
+        </g>
+        <g id="组_1683" data-name="组 1683" transform="translate(0 6.928)">
+          <rect id="矩形_1443" data-name="矩形 1443" width="1.497" height="25.898" transform="translate(17.214)" fill="#b8b8b8"/>
+          <rect id="矩形_1444" data-name="矩形 1444" width="1.497" height="25.898" fill="#b8b8b8"/>
+        </g>
+        <g id="组_1684" data-name="组 1684" transform="translate(0.125 9.165)">
+          <rect id="矩形_1445" data-name="矩形 1445" width="17.834" height="1.066" transform="translate(0 19.369)" fill="#b8b8b8"/>
+          <rect id="矩形_1446" data-name="矩形 1446" width="17.834" height="1.066" transform="translate(0 12.791)" fill="#b8b8b8"/>
+          <rect id="矩形_1447" data-name="矩形 1447" width="17.834" height="1.066" transform="translate(0 6.395)" fill="#b8b8b8"/>
+          <rect id="矩形_1448" data-name="矩形 1448" width="17.834" height="1.066" fill="#b8b8b8"/>
+        </g>
+      </g>
+      <g id="组_1688" data-name="组 1688" transform="translate(566.788 807.192)">
+        <path id="路径_1899" data-name="路径 1899" d="M389.787,636.017l39.357-.6-.125-8.207,3.336-4.781,20.23,20.232h-56.15Z" transform="translate(-389.778 -621.557)" fill-rule="evenodd" opacity="0.5" fill="url(#linear-gradient-3)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1687" data-name="组 1687">
+          <rect id="矩形_1449" data-name="矩形 1449" width="32.695" height="3.673" transform="translate(5.508 12.824)" fill="#5e4224"/>
+          <g id="组_1686" data-name="组 1686" transform="translate(2.102 11.699)">
+            <rect id="矩形_1450" data-name="矩形 1450" width="3.673" height="9.447" fill="#87623a"/>
+            <rect id="矩形_1451" data-name="矩形 1451" width="3.672" height="9.447" transform="translate(35.834)" fill="#87623a"/>
+          </g>
+          <rect id="矩形_1452" data-name="矩形 1452" width="3.567" height="11.699" transform="translate(2.666)" fill="#87623a"/>
+          <rect id="矩形_1453" data-name="矩形 1453" width="3.567" height="11.699" transform="translate(37.478)" fill="#87623a"/>
+          <rect id="矩形_1454" data-name="矩形 1454" width="43.711" height="3.583" transform="translate(0 11.166)" fill="#d2a677"/>
+          <rect id="矩形_1455" data-name="矩形 1455" width="41.402" height="3.733" transform="translate(1.154 0.682)" fill="#d2a677"/>
+          <rect id="矩形_1456" data-name="矩形 1456" width="41.402" height="3.731" transform="translate(1.154 6.192)" fill="#d2a677"/>
+          <path id="路径_1900" data-name="路径 1900" d="M392.683,626.385a.585.585,0,1,1-.586.584A.585.585,0,0,1,392.683,626.385Z" transform="translate(-388.233 -618.913)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1901" data-name="路径 1901" d="M413.543,626.385a.585.585,0,1,1-.586.584A.585.585,0,0,1,413.543,626.385Z" transform="translate(-374.281 -618.913)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1902" data-name="路径 1902" d="M392.683,623.085a.584.584,0,1,1-.586.583A.583.583,0,0,1,392.683,623.085Z" transform="translate(-388.233 -621.12)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1903" data-name="路径 1903" d="M413.543,623.085a.584.584,0,1,1-.586.583A.583.583,0,0,1,413.543,623.085Z" transform="translate(-374.281 -621.12)" fill="#5e4224" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="组_1692" data-name="组 1692" transform="translate(627.57 821.817)">
+        <path id="路径_1904" data-name="路径 1904" d="M447.979,632.4l13.431,13.851H443.752Z" transform="translate(-414.466 -629.516)" fill="#6e6e6e" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="路径_1905" data-name="路径 1905" d="M458.86,632.4l13.431,13.851H454.633Z" transform="translate(-407.189 -629.516)" fill-rule="evenodd" opacity="0.5" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1689" data-name="组 1689" transform="translate(37.428 0.088)">
+          <path id="路径_1906" data-name="路径 1906" d="M456.878,630.724c-4.554,0-8.247,3.952-8.247,8.823h16.495C465.126,634.676,461.433,630.724,456.878,630.724Z" transform="translate(-448.631 -630.724)" fill="#5e9120" fill-rule="evenodd"/>
+          <path id="路径_1907" data-name="路径 1907" d="M455.67,630.724c-2.889,0-5.232,3.952-5.232,8.823H460.9C460.9,634.676,458.56,630.724,455.67,630.724Z" transform="translate(-447.422 -630.724)" fill="#71ad28" fill-rule="evenodd"/>
+          <path id="路径_1908" data-name="路径 1908" d="M454.147,630.724c-.791,0-1.432,3.952-1.432,8.823h2.864C455.579,634.676,454.938,630.724,454.147,630.724Z" transform="translate(-445.899 -630.724)" fill="#83c236" fill-rule="evenodd"/>
+        </g>
+        <path id="路径_1909" data-name="路径 1909" d="M437.327,632.4l13.431,13.851H433.1Z" transform="translate(-421.59 -629.516)" fill="#6e6e6e" fill-rule="evenodd" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1690" data-name="组 1690" transform="translate(19.338 0.18)">
+          <path id="路径_1910" data-name="路径 1910" d="M446.038,630.779c-4.556,0-8.247,3.948-8.247,8.82h16.495C454.286,634.727,450.593,630.779,446.038,630.779Z" transform="translate(-437.791 -630.779)" fill="#5e9120" fill-rule="evenodd"/>
+          <path id="路径_1911" data-name="路径 1911" d="M444.83,630.779c-2.89,0-5.233,3.948-5.233,8.82h10.465C450.062,634.727,447.719,630.779,444.83,630.779Z" transform="translate(-436.583 -630.779)" fill="#71ad28" fill-rule="evenodd"/>
+          <path id="路径_1912" data-name="路径 1912" d="M443.308,630.779c-.793,0-1.434,3.948-1.434,8.82h2.865C444.739,634.727,444.1,630.779,443.308,630.779Z" transform="translate(-435.06 -630.779)" fill="#83c236" fill-rule="evenodd"/>
+        </g>
+        <g id="组_1691" data-name="组 1691" transform="translate(1.426)">
+          <path id="路径_1913" data-name="路径 1913" d="M435.305,630.671c-4.554,0-8.247,3.95-8.247,8.821h16.495C443.553,634.621,439.86,630.671,435.305,630.671Z" transform="translate(-427.058 -630.671)" fill="#5e9120" fill-rule="evenodd"/>
+          <path id="路径_1914" data-name="路径 1914" d="M434.1,630.671c-2.89,0-5.233,3.95-5.233,8.821h10.465C439.329,634.621,436.986,630.671,434.1,630.671Z" transform="translate(-425.85 -630.671)" fill="#71ad28" fill-rule="evenodd"/>
+          <path id="路径_1915" data-name="路径 1915" d="M432.575,630.671c-.793,0-1.434,3.95-1.434,8.821h2.865C434.006,634.621,433.366,630.671,432.575,630.671Z" transform="translate(-424.327 -630.671)" fill="#83c236" fill-rule="evenodd"/>
+        </g>
+        <rect id="矩形_1457" data-name="矩形 1457" width="55.083" height="8.279" transform="translate(0 8.453)" fill="#e0e0e0"/>
+      </g>
+      <g id="组_1693" data-name="组 1693" transform="translate(466.376 757.675)">
+        <rect id="矩形_1458" data-name="矩形 1458" width="3.792" height="23.742" transform="translate(15.842)" fill="#875039"/>
+        <rect id="矩形_1459" data-name="矩形 1459" width="2.232" height="60.191" transform="translate(17.402)" fill="#bdbdbd"/>
+        <rect id="矩形_1460" data-name="矩形 1460" width="9.824" height="1.377" transform="translate(8.173 20.998)" fill="#bdbdbd"/>
+        <path id="路径_1916" data-name="路径 1916" d="M330.107,605.868c0,5.087,2.538,9.209,5.667,9.209s5.669-4.122,5.669-9.209h-1c0,4.608-2.091,8.346-4.669,8.346s-4.666-3.738-4.666-8.346Z" transform="translate(-329.282 -583.118)" fill="#875039" fill-rule="evenodd"/>
+        <rect id="矩形_1461" data-name="矩形 1461" width="18.551" height="4.27" transform="translate(9.242 58.445)" fill="#616161"/>
+        <path id="路径_1917" data-name="路径 1917" d="M331.507,605.868c0,4.931,1.492,8.927,3.331,8.927,1.188,0,2.148-4,2.148-8.927h1.185c0,4.931-1.49,8.927-3.333,8.927-1.185,0-2.146-4-2.146-8.927Z" transform="translate(-328.346 -583.118)" fill="#875039" fill-rule="evenodd"/>
+        <path id="路径_1918" data-name="路径 1918" d="M333.211,605.868c0,5.062.219,9.165.487,9.165s.491-4.1.491-9.165Z" transform="translate(-327.206 -583.118)" fill="#875039" fill-rule="evenodd"/>
+        <rect id="矩形_1462" data-name="矩形 1462" width="12.986" height="2.66" transform="translate(0 20.355)" fill="#616161"/>
+        <rect id="矩形_1463" data-name="矩形 1463" width="10.257" height="0.84" transform="translate(1.365 24.955)" fill="#875039"/>
+        <rect id="矩形_1464" data-name="矩形 1464" width="7.872" height="0.84" transform="translate(2.557 28.079)" fill="#875039"/>
+      </g>
+      <g id="组_1697" data-name="组 1697" transform="translate(282.473 801.6)">
+        <rect id="矩形_1465" data-name="矩形 1465" width="1.273" height="27.928" fill="#d1d1d1"/>
+        <rect id="矩形_1466" data-name="矩形 1466" width="1.273" height="27.928" transform="translate(14.645)" fill="#d1d1d1"/>
+        <g id="组_1694" data-name="组 1694" transform="translate(0.64 2.745)">
+          <rect id="矩形_1467" data-name="矩形 1467" width="15.172" height="0.906" transform="translate(0 21.531)" fill="#d1d1d1"/>
+          <rect id="矩形_1468" data-name="矩形 1468" width="15.172" height="0.906" transform="translate(0 15.935)" fill="#d1d1d1"/>
+          <rect id="矩形_1469" data-name="矩形 1469" width="15.172" height="0.906" transform="translate(0 10.495)" fill="#d1d1d1"/>
+          <rect id="矩形_1470" data-name="矩形 1470" width="15.172" height="0.908" transform="translate(0 5.053)" fill="#d1d1d1"/>
+          <rect id="矩形_1471" data-name="矩形 1471" width="15.172" height="0.908" fill="#d1d1d1"/>
+        </g>
+        <g id="组_1695" data-name="组 1695" transform="translate(14.645 5.895)">
+          <rect id="矩形_1472" data-name="矩形 1472" width="1.273" height="22.033" fill="#d1d1d1"/>
+          <rect id="矩形_1473" data-name="矩形 1473" width="1.273" height="22.033" transform="translate(14.645)" fill="#d1d1d1"/>
+        </g>
+        <g id="组_1696" data-name="组 1696" transform="translate(15.285 7.797)">
+          <rect id="矩形_1474" data-name="矩形 1474" width="15.172" height="0.906" transform="translate(0 16.478)" fill="#d1d1d1"/>
+          <rect id="矩形_1475" data-name="矩形 1475" width="15.172" height="0.906" transform="translate(0 10.882)" fill="#d1d1d1"/>
+          <rect id="矩形_1476" data-name="矩形 1476" width="15.172" height="0.906" transform="translate(0 5.442)" fill="#d1d1d1"/>
+          <rect id="矩形_1477" data-name="矩形 1477" width="15.172" height="0.908" fill="#d1d1d1"/>
+        </g>
+      </g>
+      <rect id="矩形_1478" data-name="矩形 1478" width="990.96" height="35.353" transform="translate(235.456 878.784)" fill="#616161"/>
+      <g id="组_1700" data-name="组 1700" transform="translate(244.471 895.157)">
+        <g id="组_1698" data-name="组 1698">
+          <path id="路径_1919" data-name="路径 1919" d="M198.624,674.618h11.453c2.643,0,2.642,2.607,0,2.607H198.624C195.983,677.225,195.981,674.618,198.624,674.618Z" transform="translate(-196.642 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1920" data-name="路径 1920" d="M215.02,674.618h11.452c2.643,0,2.643,2.607,0,2.607H215.02C212.375,677.225,212.375,674.618,215.02,674.618Z" transform="translate(-185.678 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1921" data-name="路径 1921" d="M231.414,674.618h11.452c2.643,0,2.643,2.607,0,2.607H231.414C228.769,677.225,228.769,674.618,231.414,674.618Z" transform="translate(-174.713 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1922" data-name="路径 1922" d="M247.808,674.618h11.452c2.643,0,2.643,2.607,0,2.607H247.808C245.164,677.225,245.164,674.618,247.808,674.618Z" transform="translate(-163.747 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1923" data-name="路径 1923" d="M264.2,674.618h11.453c2.643,0,2.643,2.607,0,2.607H264.2C261.558,677.225,261.558,674.618,264.2,674.618Z" transform="translate(-152.783 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1924" data-name="路径 1924" d="M280.6,674.618h11.453c2.643,0,2.643,2.607,0,2.607H280.6C277.952,677.225,277.952,674.618,280.6,674.618Z" transform="translate(-141.818 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1925" data-name="路径 1925" d="M296.989,674.618h11.453c2.643,0,2.643,2.607,0,2.607H296.989C294.347,677.225,294.347,674.618,296.989,674.618Z" transform="translate(-130.852 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1926" data-name="路径 1926" d="M313.385,674.618h11.452c2.643,0,2.643,2.607,0,2.607H313.385C310.741,677.225,310.741,674.618,313.385,674.618Z" transform="translate(-119.887 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1927" data-name="路径 1927" d="M329.779,674.618H341.23c2.643,0,2.643,2.607,0,2.607H329.779C327.135,677.225,327.135,674.618,329.779,674.618Z" transform="translate(-108.923 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1928" data-name="路径 1928" d="M346.172,674.618h11.453c2.643,0,2.642,2.607,0,2.607H346.172C343.53,677.225,343.53,674.618,346.172,674.618Z" transform="translate(-97.957 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1929" data-name="路径 1929" d="M362.566,674.618h11.453c2.643,0,2.642,2.607,0,2.607H362.566C359.924,677.225,359.924,674.618,362.566,674.618Z" transform="translate(-86.992 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1930" data-name="路径 1930" d="M378.962,674.618h11.452c2.643,0,2.643,2.607,0,2.607H378.962C376.318,677.225,376.317,674.618,378.962,674.618Z" transform="translate(-76.028 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1931" data-name="路径 1931" d="M395.355,674.618h11.453c2.642,0,2.642,2.607,0,2.607H395.355C392.714,677.225,392.712,674.618,395.355,674.618Z" transform="translate(-65.062 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1932" data-name="路径 1932" d="M411.749,674.618H423.2c2.642,0,2.642,2.607,0,2.607H411.749C409.107,677.225,409.107,674.618,411.749,674.618Z" transform="translate(-54.097 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1933" data-name="路径 1933" d="M428.143,674.618H439.6c2.643,0,2.643,2.607,0,2.607H428.143C425.5,677.225,425.5,674.618,428.143,674.618Z" transform="translate(-43.133 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1934" data-name="路径 1934" d="M444.539,674.618H455.99c2.643,0,2.643,2.607,0,2.607H444.539C441.9,677.225,441.9,674.618,444.539,674.618Z" transform="translate(-32.167 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1935" data-name="路径 1935" d="M460.933,674.618h11.452c2.643,0,2.643,2.607,0,2.607H460.933C458.289,677.225,458.289,674.618,460.933,674.618Z" transform="translate(-21.202 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1936" data-name="路径 1936" d="M477.327,674.618H488.78c2.643,0,2.642,2.607,0,2.607H477.327C474.683,677.225,474.683,674.618,477.327,674.618Z" transform="translate(-10.238 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1937" data-name="路径 1937" d="M493.722,674.618h11.452c2.643,0,2.642,2.607,0,2.607H493.722C491.077,677.225,491.077,674.618,493.722,674.618Z" transform="translate(0.727 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1938" data-name="路径 1938" d="M510.114,674.618h11.453c2.643,0,2.643,2.607,0,2.607H510.114C507.472,677.225,507.472,674.618,510.114,674.618Z" transform="translate(11.693 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1939" data-name="路径 1939" d="M526.51,674.618h11.452c2.645,0,2.645,2.607,0,2.607H526.51C523.866,677.225,523.866,674.618,526.51,674.618Z" transform="translate(22.658 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1940" data-name="路径 1940" d="M542.9,674.618h11.455c2.642,0,2.642,2.607,0,2.607H542.9C540.26,677.225,540.26,674.618,542.9,674.618Z" transform="translate(33.622 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1941" data-name="路径 1941" d="M559.3,674.618h11.453c2.643,0,2.643,2.607,0,2.607H559.3C556.656,677.225,556.654,674.618,559.3,674.618Z" transform="translate(44.588 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1942" data-name="路径 1942" d="M575.691,674.618h11.453c2.645,0,2.642,2.607,0,2.607H575.691C573.049,677.225,573.049,674.618,575.691,674.618Z" transform="translate(55.553 -674.618)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="组_1699" data-name="组 1699" transform="translate(656.563)">
+          <path id="路径_1943" data-name="路径 1943" d="M592.052,674.618H603.5c2.642,0,2.642,2.607,0,2.607H592.052C589.408,677.225,589.408,674.618,592.052,674.618Z" transform="translate(-590.069 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1944" data-name="路径 1944" d="M608.445,674.618H619.9c2.643,0,2.643,2.607,0,2.607H608.445C605.8,677.225,605.8,674.618,608.445,674.618Z" transform="translate(-579.105 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1945" data-name="路径 1945" d="M624.838,674.618h11.455c2.643,0,2.64,2.607,0,2.607H624.838C622.2,677.225,622.2,674.618,624.838,674.618Z" transform="translate(-568.139 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1946" data-name="路径 1946" d="M641.234,674.618h11.452c2.643,0,2.643,2.607,0,2.607H641.234C638.592,677.225,638.588,674.618,641.234,674.618Z" transform="translate(-557.174 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1947" data-name="路径 1947" d="M657.628,674.618h11.453c2.642,0,2.642,2.607,0,2.607H657.628C654.984,677.225,654.984,674.618,657.628,674.618Z" transform="translate(-546.21 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1948" data-name="路径 1948" d="M674.021,674.618h11.455c2.64,0,2.64,2.607,0,2.607H674.021C671.379,677.225,671.379,674.618,674.021,674.618Z" transform="translate(-535.244 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1949" data-name="路径 1949" d="M690.417,674.618h11.452c2.643,0,2.643,2.607,0,2.607H690.417C687.775,677.225,687.771,674.618,690.417,674.618Z" transform="translate(-524.279 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1950" data-name="路径 1950" d="M706.811,674.618h11.453c2.642,0,2.642,2.607,0,2.607H706.811C704.167,677.225,704.167,674.618,706.811,674.618Z" transform="translate(-513.314 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1951" data-name="路径 1951" d="M723.2,674.618h11.452c2.644,0,2.644,2.607,0,2.607H723.2C720.562,677.225,720.562,674.618,723.2,674.618Z" transform="translate(-502.349 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1952" data-name="路径 1952" d="M739.6,674.618h11.452c2.643,0,2.642,2.607,0,2.607H739.6C736.955,677.225,736.955,674.618,739.6,674.618Z" transform="translate(-491.385 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1953" data-name="路径 1953" d="M755.992,674.618h11.455c2.642,0,2.642,2.607,0,2.607H755.992C753.351,677.225,753.349,674.618,755.992,674.618Z" transform="translate(-480.42 -674.618)" fill="#fff" fill-rule="evenodd"/>
+          <path id="路径_1954" data-name="路径 1954" d="M772.387,674.618h11.452c2.643,0,2.643,2.607,0,2.607H772.387C769.745,677.225,769.744,674.618,772.387,674.618Z" transform="translate(-469.454 -674.618)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="组_1701" data-name="组 1701" transform="translate(1126.108 697.215)">
+        <path id="路径_1955" data-name="路径 1955" d="M737.068,584.766h0a2.08,2.08,0,0,1,2.074,2.074V655.3a2.078,2.078,0,0,1-2.074,2.073h0a2.078,2.078,0,0,1-2.073-2.073V586.84A2.079,2.079,0,0,1,737.068,584.766Z" transform="translate(-718.211 -536.772)" fill="#786200" fill-rule="evenodd"/>
+        <path id="路径_1956" data-name="路径 1956" d="M743.794,648.122h0c39.126-12.984,6.22-96.23,0-91.956-6.22-4.274-39.127,78.973,0,91.956Z" transform="translate(-724.938 -556.007)" fill="#507b1c" fill-rule="evenodd"/>
+        <path id="路径_1957" data-name="路径 1957" d="M741.209,648.122h0c25.743-12.984,4.092-96.23,0-91.956-4.094-4.274-25.744,78.973,0,91.956Z" transform="translate(-722.353 -556.007)" fill="#71ad28" fill-rule="evenodd"/>
+        <path id="路径_1958" data-name="路径 1958" d="M737.469,648.122h0c6.378-12.984,1.013-96.23,0-91.956-1.015-4.274-6.38,78.973,0,91.956Z" transform="translate(-718.613 -556.007)" fill="#83c236" fill-rule="evenodd"/>
+      </g>
+      <g id="组_1702" data-name="组 1702" transform="translate(1013.988 691.831)">
+        <path id="路径_1959" data-name="路径 1959" d="M671.061,584.332h0a2.284,2.284,0,0,1,2.275,2.278v75.1a2.282,2.282,0,0,1-2.275,2.276h0a2.282,2.282,0,0,1-2.276-2.276v-75.1A2.284,2.284,0,0,1,671.061,584.332Z" transform="translate(-650.375 -531.678)" fill="#786200" fill-rule="evenodd"/>
+        <path id="路径_1960" data-name="路径 1960" d="M678.44,653.837h0c42.924-14.243,6.822-105.569,0-100.883-6.824-4.686-42.924,86.639,0,100.883Z" transform="translate(-657.753 -552.781)" fill="#507b1c" fill-rule="evenodd"/>
+        <path id="路径_1961" data-name="路径 1961" d="M675.6,653.837h0c28.243-14.243,4.488-105.569,0-100.883-4.491-4.686-28.245,86.639,0,100.883Z" transform="translate(-654.918 -552.781)" fill="#71ad28" fill-rule="evenodd"/>
+        <path id="路径_1962" data-name="路径 1962" d="M671.5,653.837h0c7-14.243,1.112-105.569,0-100.883-1.115-4.686-7,86.639,0,100.883Z" transform="translate(-650.815 -552.781)" fill="#83c236" fill-rule="evenodd"/>
+      </g>
+      <g id="组_1703" data-name="组 1703" transform="translate(1169.897 754.117)">
+        <path id="路径_1963" data-name="路径 1963" d="M765.044,608.264h0a2.378,2.378,0,0,1,2.371,2.373v41.1a2.377,2.377,0,0,1-2.371,2.37h0a2.38,2.38,0,0,1-2.373-2.37v-41.1A2.38,2.38,0,0,1,765.044,608.264Z" transform="translate(-743.49 -577.958)" fill="#783e00" fill-rule="evenodd"/>
+        <path id="路径_1964" data-name="路径 1964" d="M772.732,648.271h0c44.723-8.2,7.109-60.764,0-58.067-7.111-2.7-44.725,49.868,0,58.067Z" transform="translate(-751.177 -590.104)" fill="#507b1c" fill-rule="evenodd"/>
+        <path id="路径_1965" data-name="路径 1965" d="M769.715,648.271h0c29.108-8.2,4.626-60.764,0-58.067-4.628-2.7-29.109,49.868,0,58.067Z" transform="translate(-748.161 -590.104)" fill="#71ad28" fill-rule="evenodd"/>
+        <path id="路径_1966" data-name="路径 1966" d="M765.608,648.271h0c7.844-8.2,1.247-60.764,0-58.067-1.248-2.7-7.845,49.868,0,58.067Z" transform="translate(-744.054 -590.104)" fill="#83c236" fill-rule="evenodd"/>
+      </g>
+      <g id="组_1704" data-name="组 1704" transform="translate(956.935 741.383)">
+        <path id="路径_1967" data-name="路径 1967" d="M639.411,603.225h0a2.719,2.719,0,0,1,2.71,2.71V652.9a2.717,2.717,0,0,1-2.71,2.71h0a2.718,2.718,0,0,1-2.71-2.71V605.935A2.719,2.719,0,0,1,639.411,603.225Z" transform="translate(-614.781 -568.594)" fill="#783e00" fill-rule="evenodd"/>
+        <path id="路径_1968" data-name="路径 1968" d="M648.2,648.941h0c51.11-9.367,8.125-69.435,0-66.353-8.124-3.082-51.108,56.986,0,66.353Z" transform="translate(-623.566 -582.473)" fill="#507b1c" fill-rule="evenodd"/>
+        <path id="路径_1969" data-name="路径 1969" d="M644.75,648.941h0c33.263-9.367,5.289-69.435,0-66.353-5.287-3.082-33.263,56.986,0,66.353Z" transform="translate(-620.119 -582.473)" fill="#71ad28" fill-rule="evenodd"/>
+        <path id="路径_1970" data-name="路径 1970" d="M640.057,648.941h0c8.965-9.367,1.425-69.435,0-66.353-1.425-3.082-8.965,56.986,0,66.353Z" transform="translate(-615.426 -582.473)" fill="#83c236" fill-rule="evenodd"/>
+      </g>
+      <g id="组_1707" data-name="组 1707" transform="translate(1068.804 807.303)">
+        <path id="路径_1971" data-name="路径 1971" d="M690.605,634.291l34.356-.521-.109-7.165,2.911-4.171,17.66,17.66H696.407Z" transform="translate(-690.597 -621.667)" fill-rule="evenodd" opacity="0.5" fill="url(#linear-gradient-5)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1706" data-name="组 1706">
+          <rect id="矩形_1479" data-name="矩形 1479" width="28.538" height="3.206" transform="translate(4.81 11.195)" fill="#5e4224"/>
+          <g id="组_1705" data-name="组 1705" transform="translate(1.837 10.213)">
+            <rect id="矩形_1480" data-name="矩形 1480" width="3.206" height="8.246" fill="#87623a"/>
+            <rect id="矩形_1481" data-name="矩形 1481" width="3.204" height="8.246" transform="translate(31.28)" fill="#87623a"/>
+          </g>
+          <rect id="矩形_1482" data-name="矩形 1482" width="3.115" height="10.213" transform="translate(2.327)" fill="#87623a"/>
+          <rect id="矩形_1483" data-name="矩形 1483" width="3.115" height="10.213" transform="translate(32.716)" fill="#87623a"/>
+          <rect id="矩形_1484" data-name="矩形 1484" width="38.157" height="3.128" transform="translate(0 9.747)" fill="#d2a677"/>
+          <rect id="矩形_1485" data-name="矩形 1485" width="36.14" height="3.257" transform="translate(1.009 0.597)" fill="#d2a677"/>
+          <rect id="矩形_1486" data-name="矩形 1486" width="36.14" height="3.258" transform="translate(1.009 5.405)" fill="#d2a677"/>
+          <path id="路径_1972" data-name="路径 1972" d="M693.133,625.883a.511.511,0,1,1-.511.511A.51.51,0,0,1,693.133,625.883Z" transform="translate(-689.248 -619.36)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1973" data-name="路径 1973" d="M711.343,625.883a.511.511,0,1,1-.511.511A.51.51,0,0,1,711.343,625.883Z" transform="translate(-677.068 -619.36)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1974" data-name="路径 1974" d="M693.133,623a.51.51,0,1,1-.511.511A.51.51,0,0,1,693.133,623Z" transform="translate(-689.248 -621.287)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1975" data-name="路径 1975" d="M711.343,623a.51.51,0,1,1-.511.511A.51.51,0,0,1,711.343,623Z" transform="translate(-677.068 -621.287)" fill="#5e4224" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="组_1710" data-name="组 1710" transform="translate(997.399 817.345)">
+        <path id="路径_1976" data-name="路径 1976" d="M647.818,640.309l34.354-.521-.107-7.165,2.909-4.174,17.66,17.662H653.62Z" transform="translate(-647.81 -627.685)" fill-rule="evenodd" opacity="0.5" fill="url(#linear-gradient-6)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1709" data-name="组 1709">
+          <rect id="矩形_1487" data-name="矩形 1487" width="28.54" height="3.206" transform="translate(4.808 11.195)" fill="#5e4224"/>
+          <g id="组_1708" data-name="组 1708" transform="translate(1.835 10.213)">
+            <rect id="矩形_1488" data-name="矩形 1488" width="3.206" height="8.246" fill="#87623a"/>
+            <rect id="矩形_1489" data-name="矩形 1489" width="3.206" height="8.246" transform="translate(31.28)" fill="#87623a"/>
+          </g>
+          <rect id="矩形_1490" data-name="矩形 1490" width="3.113" height="10.213" transform="translate(2.327)" fill="#87623a"/>
+          <rect id="矩形_1491" data-name="矩形 1491" width="3.113" height="10.213" transform="translate(32.716)" fill="#87623a"/>
+          <rect id="矩形_1492" data-name="矩形 1492" width="38.156" height="3.128" transform="translate(0 9.747)" fill="#d2a677"/>
+          <rect id="矩形_1493" data-name="矩形 1493" width="36.142" height="3.257" transform="translate(1.007 0.597)" fill="#d2a677"/>
+          <rect id="矩形_1494" data-name="矩形 1494" width="36.142" height="3.258" transform="translate(1.007 5.405)" fill="#d2a677"/>
+          <path id="路径_1977" data-name="路径 1977" d="M650.345,631.9a.511.511,0,1,1-.511.511A.51.51,0,0,1,650.345,631.9Z" transform="translate(-646.461 -625.377)" fill="#5e4224" fill-rule="evenodd"/>
+          <circle id="椭圆_20" data-name="椭圆 20" cx="0.511" cy="0.511" r="0.511" transform="translate(33.762 6.523)" fill="#5e4224"/>
+          <path id="路径_1978" data-name="路径 1978" d="M650.345,629.019a.51.51,0,1,1-.511.511A.51.51,0,0,1,650.345,629.019Z" transform="translate(-646.461 -627.304)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1979" data-name="路径 1979" d="M668.555,629.019a.51.51,0,1,1-.511.511A.51.51,0,0,1,668.555,629.019Z" transform="translate(-634.282 -627.304)" fill="#5e4224" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="组_1713" data-name="组 1713" transform="translate(1137.309 817.345)">
+        <path id="路径_1980" data-name="路径 1980" d="M731.655,640.309l34.357-.521-.109-7.165,2.912-4.174,17.658,17.662H737.457Z" transform="translate(-731.647 -627.685)" fill-rule="evenodd" opacity="0.5" fill="url(#linear-gradient-7)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="组_1712" data-name="组 1712">
+          <rect id="矩形_1495" data-name="矩形 1495" width="28.54" height="3.206" transform="translate(4.808 11.195)" fill="#5e4224"/>
+          <g id="组_1711" data-name="组 1711" transform="translate(1.835 10.213)">
+            <rect id="矩形_1496" data-name="矩形 1496" width="3.206" height="8.246" fill="#87623a"/>
+            <rect id="矩形_1497" data-name="矩形 1497" width="3.206" height="8.246" transform="translate(31.28)" fill="#87623a"/>
+          </g>
+          <rect id="矩形_1498" data-name="矩形 1498" width="3.113" height="10.213" transform="translate(2.327)" fill="#87623a"/>
+          <rect id="矩形_1499" data-name="矩形 1499" width="3.113" height="10.213" transform="translate(32.715)" fill="#87623a"/>
+          <rect id="矩形_1500" data-name="矩形 1500" width="38.155" height="3.128" transform="translate(0 9.747)" fill="#d2a677"/>
+          <rect id="矩形_1501" data-name="矩形 1501" width="36.142" height="3.257" transform="translate(1.007 0.597)" fill="#d2a677"/>
+          <rect id="矩形_1502" data-name="矩形 1502" width="36.142" height="3.258" transform="translate(1.007 5.405)" fill="#d2a677"/>
+          <circle id="椭圆_21" data-name="椭圆 21" cx="0.511" cy="0.511" r="0.511" transform="translate(3.373 6.523)" fill="#5e4224"/>
+          <path id="路径_1981" data-name="路径 1981" d="M752.392,631.9a.511.511,0,1,1-.511.511A.51.51,0,0,1,752.392,631.9Z" transform="translate(-718.119 -625.377)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1982" data-name="路径 1982" d="M734.182,629.019a.51.51,0,1,1-.511.511A.51.51,0,0,1,734.182,629.019Z" transform="translate(-730.298 -627.304)" fill="#5e4224" fill-rule="evenodd"/>
+          <path id="路径_1983" data-name="路径 1983" d="M752.392,629.019a.51.51,0,1,1-.511.511A.509.509,0,0,1,752.392,629.019Z" transform="translate(-718.119 -627.304)" fill="#5e4224" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="组_1722" data-name="组 1722" transform="translate(256.544 832.299)">
+        <g id="组_1718" data-name="组 1718">
+          <g id="组_1714" data-name="组 1714">
+            <rect id="矩形_1503" data-name="矩形 1503" width="23.741" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1504" data-name="矩形 1504" d="M2.542,0H13.716a2.541,2.541,0,0,1,2.541,2.541V16.633a2.54,2.54,0,0,1-2.54,2.54H2.541A2.541,2.541,0,0,1,0,16.632V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.742 0.317)" fill="#71ad28"/>
+            <path id="矩形_1505" data-name="矩形 1505" d="M.727,0H3.919a.726.726,0,0,1,.726.726V17.183a.726.726,0,0,1-.726.726H.725A.725.725,0,0,1,0,17.184V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1715" data-name="组 1715" transform="translate(24.516)">
+            <rect id="矩形_1506" data-name="矩形 1506" width="23.741" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1507" data-name="矩形 1507" d="M2.542,0H13.717a2.541,2.541,0,0,1,2.541,2.541V16.633a2.541,2.541,0,0,1-2.541,2.541H2.541A2.541,2.541,0,0,1,0,16.633V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.742 0.317)" fill="#71ad28"/>
+            <path id="矩形_1508" data-name="矩形 1508" d="M.727,0H3.919a.726.726,0,0,1,.726.726V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.549 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1716" data-name="组 1716" transform="translate(49.032)">
+            <path id="矩形_1509" data-name="矩形 1509" d="M3.1,0H20.645a3.1,3.1,0,0,1,3.1,3.1V16.712a3.1,3.1,0,0,1-3.1,3.1H3.095A3.095,3.095,0,0,1,0,16.713V3.1A3.1,3.1,0,0,1,3.1,0Z" fill="#5e8f21"/>
+            <path id="矩形_1510" data-name="矩形 1510" d="M2.542,0H13.717a2.541,2.541,0,0,1,2.541,2.541V16.633a2.54,2.54,0,0,1-2.54,2.54H2.541A2.541,2.541,0,0,1,0,16.632V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.741 0.317)" fill="#71ad28"/>
+            <path id="矩形_1511" data-name="矩形 1511" d="M.727,0H3.919a.726.726,0,0,1,.726.726V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1717" data-name="组 1717" transform="translate(73.677)">
+            <rect id="矩形_1512" data-name="矩形 1512" width="23.741" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1513" data-name="矩形 1513" d="M2.542,0H13.716a2.541,2.541,0,0,1,2.541,2.541V16.633a2.54,2.54,0,0,1-2.54,2.54H2.541A2.541,2.541,0,0,1,0,16.633V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.742 0.317)" fill="#71ad28"/>
+            <path id="矩形_1514" data-name="矩形 1514" d="M.727,0H3.919a.726.726,0,0,1,.726.726V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.549 0.949)" fill="#83c236"/>
+          </g>
+        </g>
+        <rect id="矩形_1515" data-name="矩形 1515" width="98.633" height="11.032" transform="translate(0 15.226)" fill="#dbdcd7"/>
+        <g id="组_1721" data-name="组 1721" transform="translate(1.086 15.813)">
+          <g id="组_1719" data-name="组 1719" transform="translate(0 0.002)">
+            <path id="路径_1984" data-name="路径 1984" d="M204.529,646.429v4.277h3.463a1.079,1.079,0,0,0,1.076-1.075v-2.543a1.06,1.06,0,0,0-.229-.659Z" transform="translate(-204.527 -646.429)" fill="#bdbdbd" fill-rule="evenodd"/>
+            <path id="矩形_1516" data-name="矩形 1516" d="M.644,0H9.428a.645.645,0,0,1,.645.645v3.4a.645.645,0,0,1-.645.645H.644A.644.644,0,0,1,0,4.05V.644A.644.644,0,0,1,.644,0Z" transform="translate(0 5.163)" fill="#bdbdbd"/>
+          </g>
+          <g id="组_1720" data-name="组 1720" transform="translate(85.924)">
+            <path id="路径_1985" data-name="路径 1985" d="M263.869,654.047v-4.276h-3.463a1.079,1.079,0,0,0-1.076,1.075v2.542a1.061,1.061,0,0,0,.227.659Z" transform="translate(-253.798 -644.192)" fill="#bdbdbd" fill-rule="evenodd"/>
+            <path id="矩形_1517" data-name="矩形 1517" d="M.644,0H9.428a.645.645,0,0,1,.645.645v3.4a.645.645,0,0,1-.645.645H.644A.644.644,0,0,1,0,4.051V.644A.644.644,0,0,1,.644,0Z" fill="#bdbdbd"/>
+          </g>
+        </g>
+      </g>
+      <g id="组_1731" data-name="组 1731" transform="translate(357.151 832.299)">
+        <g id="组_1727" data-name="组 1727">
+          <g id="组_1723" data-name="组 1723">
+            <rect id="矩形_1518" data-name="矩形 1518" width="23.741" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1519" data-name="矩形 1519" d="M2.542,0H13.716a2.541,2.541,0,0,1,2.541,2.541V16.633a2.54,2.54,0,0,1-2.54,2.54H2.541A2.541,2.541,0,0,1,0,16.632V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.742 0.317)" fill="#71ad28"/>
+            <path id="矩形_1520" data-name="矩形 1520" d="M.727,0H3.919a.726.726,0,0,1,.726.726V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1724" data-name="组 1724" transform="translate(24.516)">
+            <rect id="矩形_1521" data-name="矩形 1521" width="23.741" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1522" data-name="矩形 1522" d="M2.541,0H13.716a2.54,2.54,0,0,1,2.54,2.54V16.633a2.54,2.54,0,0,1-2.54,2.54H2.541A2.541,2.541,0,0,1,0,16.633V2.541A2.541,2.541,0,0,1,2.541,0Z" transform="translate(3.742 0.317)" fill="#71ad28"/>
+            <path id="矩形_1523" data-name="矩形 1523" d="M.727,0H3.918a.727.727,0,0,1,.727.727V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.549 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1725" data-name="组 1725" transform="translate(49.032)">
+            <path id="矩形_1524" data-name="矩形 1524" d="M3.1,0H20.645a3.1,3.1,0,0,1,3.1,3.1V16.712a3.1,3.1,0,0,1-3.1,3.1H3.095A3.095,3.095,0,0,1,0,16.713V3.1A3.1,3.1,0,0,1,3.1,0Z" fill="#5e8f21"/>
+            <path id="矩形_1525" data-name="矩形 1525" d="M2.542,0H13.717a2.541,2.541,0,0,1,2.541,2.541V16.633a2.54,2.54,0,0,1-2.54,2.54H2.541A2.541,2.541,0,0,1,0,16.632V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.741 0.317)" fill="#71ad28"/>
+            <path id="矩形_1526" data-name="矩形 1526" d="M.727,0H3.919a.726.726,0,0,1,.726.726V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1726" data-name="组 1726" transform="translate(73.677)">
+            <rect id="矩形_1527" data-name="矩形 1527" width="23.741" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1528" data-name="矩形 1528" d="M2.542,0H13.716a2.542,2.542,0,0,1,2.542,2.542V16.633a2.54,2.54,0,0,1-2.54,2.54H2.541A2.541,2.541,0,0,1,0,16.633V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.742 0.317)" fill="#71ad28"/>
+            <path id="矩形_1529" data-name="矩形 1529" d="M.727,0H3.919a.726.726,0,0,1,.726.726V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.549 0.949)" fill="#83c236"/>
+          </g>
+        </g>
+        <rect id="矩形_1530" data-name="矩形 1530" width="98.633" height="11.032" transform="translate(0 15.226)" fill="#dbdcd7"/>
+        <g id="组_1730" data-name="组 1730" transform="translate(1.086 15.813)">
+          <g id="组_1728" data-name="组 1728" transform="translate(0 0.002)">
+            <path id="路径_1986" data-name="路径 1986" d="M264.815,646.429v4.277h3.463a1.079,1.079,0,0,0,1.076-1.075v-2.543a1.06,1.06,0,0,0-.229-.659Z" transform="translate(-264.813 -646.429)" fill="#bdbdbd" fill-rule="evenodd"/>
+            <path id="矩形_1531" data-name="矩形 1531" d="M.644,0H9.427a.645.645,0,0,1,.645.645v3.4a.645.645,0,0,1-.645.645H.644A.644.644,0,0,1,0,4.05V.644A.644.644,0,0,1,.644,0Z" transform="translate(0 5.163)" fill="#bdbdbd"/>
+          </g>
+          <g id="组_1729" data-name="组 1729" transform="translate(85.924)">
+            <path id="路径_1987" data-name="路径 1987" d="M324.155,654.047v-4.276h-3.463a1.079,1.079,0,0,0-1.076,1.075v2.542a1.061,1.061,0,0,0,.227.659Z" transform="translate(-314.084 -644.192)" fill="#bdbdbd" fill-rule="evenodd"/>
+            <path id="矩形_1532" data-name="矩形 1532" d="M.644,0H9.428a.645.645,0,0,1,.645.645v3.4a.645.645,0,0,1-.645.645H.644A.644.644,0,0,1,0,4.051V.644A.644.644,0,0,1,.644,0Z" fill="#bdbdbd"/>
+          </g>
+        </g>
+      </g>
+      <g id="组_1740" data-name="组 1740" transform="translate(1007.243 832.299)">
+        <g id="组_1736" data-name="组 1736">
+          <g id="组_1732" data-name="组 1732">
+            <rect id="矩形_1533" data-name="矩形 1533" width="23.742" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1534" data-name="矩形 1534" d="M2.542,0H13.715a2.54,2.54,0,0,1,2.54,2.54V16.633a2.54,2.54,0,0,1-2.54,2.54H2.54A2.54,2.54,0,0,1,0,16.633V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.743 0.317)" fill="#71ad28"/>
+            <path id="矩形_1535" data-name="矩形 1535" d="M.727,0H3.92a.725.725,0,0,1,.725.725V17.184a.725.725,0,0,1-.725.725H.727A.727.727,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1733" data-name="组 1733" transform="translate(24.516)">
+            <rect id="矩形_1536" data-name="矩形 1536" width="23.74" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1537" data-name="矩形 1537" d="M2.54,0H13.716a2.542,2.542,0,0,1,2.542,2.542V16.633a2.54,2.54,0,0,1-2.54,2.54H2.54A2.54,2.54,0,0,1,0,16.633V2.54A2.54,2.54,0,0,1,2.54,0Z" transform="translate(3.741 0.317)" fill="#71ad28"/>
+            <path id="矩形_1538" data-name="矩形 1538" d="M.727,0H3.919a.727.727,0,0,1,.727.727V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.184V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1734" data-name="组 1734" transform="translate(49.031)">
+            <rect id="矩形_1539" data-name="矩形 1539" width="23.742" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1540" data-name="矩形 1540" d="M2.542,0H13.715a2.54,2.54,0,0,1,2.54,2.54V16.633a2.54,2.54,0,0,1-2.54,2.54H2.54A2.54,2.54,0,0,1,0,16.633V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.743 0.317)" fill="#71ad28"/>
+            <path id="矩形_1541" data-name="矩形 1541" d="M.727,0H3.918a.727.727,0,0,1,.727.727V17.184a.725.725,0,0,1-.725.725H.727A.727.727,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1735" data-name="组 1735" transform="translate(73.677)">
+            <rect id="矩形_1542" data-name="矩形 1542" width="23.74" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1543" data-name="矩形 1543" d="M2.542,0H13.716a2.542,2.542,0,0,1,2.542,2.542V16.633a2.54,2.54,0,0,1-2.54,2.54H2.542A2.542,2.542,0,0,1,0,16.632V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.741 0.317)" fill="#71ad28"/>
+            <path id="矩形_1544" data-name="矩形 1544" d="M.727,0H3.92a.725.725,0,0,1,.725.725V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.184V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+        </g>
+        <rect id="矩形_1545" data-name="矩形 1545" width="98.633" height="11.032" transform="translate(0 15.226)" fill="#dbdcd7"/>
+        <g id="组_1739" data-name="组 1739" transform="translate(1.087 15.813)">
+          <g id="组_1737" data-name="组 1737" transform="translate(0 0.002)">
+            <path id="路径_1988" data-name="路径 1988" d="M654.363,646.429v4.277h3.465a1.079,1.079,0,0,0,1.076-1.075v-2.543a1.068,1.068,0,0,0-.227-.659Z" transform="translate(-654.363 -646.429)" fill="#bdbdbd" fill-rule="evenodd"/>
+            <path id="矩形_1546" data-name="矩形 1546" d="M.644,0H9.429a.644.644,0,0,1,.644.644V4.049a.645.645,0,0,1-.645.645H.644A.644.644,0,0,1,0,4.05V.644A.644.644,0,0,1,.644,0Z" transform="translate(0.001 5.163)" fill="#bdbdbd"/>
+          </g>
+          <g id="组_1738" data-name="组 1738" transform="translate(85.923)">
+            <path id="路径_1989" data-name="路径 1989" d="M713.706,654.047v-4.276h-3.464a1.079,1.079,0,0,0-1.076,1.075v2.542a1.053,1.053,0,0,0,.229.659Z" transform="translate(-703.633 -644.192)" fill="#bdbdbd" fill-rule="evenodd"/>
+            <path id="矩形_1547" data-name="矩形 1547" d="M.644,0H9.428a.644.644,0,0,1,.644.644V4.049a.645.645,0,0,1-.645.645H.645A.645.645,0,0,1,0,4.049V.644A.644.644,0,0,1,.644,0Z" fill="#bdbdbd"/>
+          </g>
+        </g>
+      </g>
+      <g id="组_1749" data-name="组 1749" transform="translate(1107.851 832.299)">
+        <g id="组_1745" data-name="组 1745">
+          <g id="组_1741" data-name="组 1741">
+            <rect id="矩形_1548" data-name="矩形 1548" width="23.742" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <rect id="矩形_1549" data-name="矩形 1549" width="16.256" height="19.174" rx="2.54" transform="translate(3.743 0.317)" fill="#71ad28"/>
+            <path id="矩形_1550" data-name="矩形 1550" d="M.727,0H3.92a.725.725,0,0,1,.725.725V17.184a.725.725,0,0,1-.725.725H.727A.727.727,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1742" data-name="组 1742" transform="translate(24.517)">
+            <rect id="矩形_1551" data-name="矩形 1551" width="23.74" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1552" data-name="矩形 1552" d="M2.54,0H13.716a2.542,2.542,0,0,1,2.542,2.542V16.633a2.54,2.54,0,0,1-2.54,2.54H2.54A2.54,2.54,0,0,1,0,16.633V2.54A2.54,2.54,0,0,1,2.54,0Z" transform="translate(3.741 0.317)" fill="#71ad28"/>
+            <path id="矩形_1553" data-name="矩形 1553" d="M.727,0H3.919a.727.727,0,0,1,.727.727V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.184V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1743" data-name="组 1743" transform="translate(49.031)">
+            <rect id="矩形_1554" data-name="矩形 1554" width="23.742" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1555" data-name="矩形 1555" d="M2.542,0H13.715a2.54,2.54,0,0,1,2.54,2.54V16.633a2.54,2.54,0,0,1-2.54,2.54H2.54A2.54,2.54,0,0,1,0,16.633V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.743 0.317)" fill="#71ad28"/>
+            <path id="矩形_1556" data-name="矩形 1556" d="M.727,0H3.92a.725.725,0,0,1,.725.725V17.184a.725.725,0,0,1-.725.725H.727A.727.727,0,0,1,0,17.183V.727A.727.727,0,0,1,.727,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+          <g id="组_1744" data-name="组 1744" transform="translate(73.677)">
+            <rect id="矩形_1557" data-name="矩形 1557" width="23.74" height="19.808" rx="3.096" fill="#5e8f21"/>
+            <path id="矩形_1558" data-name="矩形 1558" d="M2.542,0H13.716a2.542,2.542,0,0,1,2.542,2.542V16.633a2.54,2.54,0,0,1-2.54,2.54H2.542A2.542,2.542,0,0,1,0,16.632V2.542A2.542,2.542,0,0,1,2.542,0Z" transform="translate(3.741 0.317)" fill="#71ad28"/>
+            <path id="矩形_1559" data-name="矩形 1559" d="M.726,0H3.919a.727.727,0,0,1,.727.727V17.184a.725.725,0,0,1-.725.725H.726A.726.726,0,0,1,0,17.184V.726A.726.726,0,0,1,.726,0Z" transform="translate(9.548 0.949)" fill="#83c236"/>
+          </g>
+        </g>
+        <rect id="矩形_1560" data-name="矩形 1560" width="98.633" height="11.032" transform="translate(0 15.226)" fill="#dbdcd7"/>
+        <g id="组_1748" data-name="组 1748" transform="translate(1.087 15.813)">
+          <g id="组_1746" data-name="组 1746" transform="translate(0 0.002)">
+            <path id="路径_1990" data-name="路径 1990" d="M714.649,646.429v4.277h3.464a1.079,1.079,0,0,0,1.077-1.075v-2.543a1.068,1.068,0,0,0-.227-.659Z" transform="translate(-714.649 -646.429)" fill="#bdbdbd" fill-rule="evenodd"/>
+            <path id="矩形_1561" data-name="矩形 1561" d="M.644,0H9.429a.644.644,0,0,1,.644.644V4.049a.645.645,0,0,1-.645.645H.644A.644.644,0,0,1,0,4.05V.644A.644.644,0,0,1,.644,0Z" transform="translate(0.001 5.163)" fill="#bdbdbd"/>
+          </g>
+          <g id="组_1747" data-name="组 1747" transform="translate(85.923)">
+            <path id="路径_1991" data-name="路径 1991" d="M773.992,654.047v-4.276h-3.464a1.079,1.079,0,0,0-1.076,1.075v2.542a1.052,1.052,0,0,0,.229.659Z" transform="translate(-763.919 -644.192)" fill="#bdbdbd" fill-rule="evenodd"/>
+            <path id="矩形_1562" data-name="矩形 1562" d="M.644,0H9.428a.644.644,0,0,1,.644.644V4.049a.645.645,0,0,1-.645.645H.645A.645.645,0,0,1,0,4.049V.644A.644.644,0,0,1,.644,0Z" fill="#bdbdbd"/>
+          </g>
+        </g>
+      </g>
+      <g id="组_1750" data-name="组 1750" transform="translate(370.48 543.781)">
+        <path id="路径_1992" data-name="路径 1992" d="M326.953,480.816c2.388-9.562,12.645-16.75,24.939-16.75s22.549,7.191,24.939,16.75A29.572,29.572,0,0,1,389.579,478c12.7,0,23.235,7.678,25.151,17.72,9.743,2.391,16.9,9.864,16.9,18.654v0c0,10.7-10.607,19.454-23.571,19.454H295.724c-12.965,0-23.574-8.756-23.574-19.454v0c0-8.79,7.159-16.263,16.9-18.654C290.966,485.676,301.5,478,314.2,478A29.586,29.586,0,0,1,326.953,480.816Z" transform="translate(-272.15 -464.066)" fill="#e0f5ff" fill-rule="evenodd"/>
+        <path id="路径_1993" data-name="路径 1993" d="M319.934,464.066c12.291,0,22.548,7.191,24.937,16.75A29.6,29.6,0,0,1,357.62,478c12.7,0,23.235,7.68,25.151,17.721,9.743,2.388,16.9,9.864,16.9,18.654v0c0,10.7-10.605,19.454-23.571,19.454H319.934Z" transform="translate(-240.191 -464.066)" fill="#cdecfc" fill-rule="evenodd"/>
+      </g>
+      <g id="组_1751" data-name="组 1751" transform="translate(740.003 526.856)">
+        <path id="路径_1994" data-name="路径 1994" d="M515.867,460.738c.971-3.89,5.145-6.814,10.145-6.814s9.17,2.924,10.141,6.814a12.042,12.042,0,0,1,5.187-1.146c5.168,0,9.451,3.122,10.23,7.208,3.964.973,6.876,4.012,6.876,7.588h0c0,4.352-4.314,7.912-9.587,7.912H503.163c-5.272,0-9.587-3.56-9.587-7.912h0c0-3.576,2.912-6.615,6.874-7.588.779-4.085,5.063-7.208,10.232-7.208A12.034,12.034,0,0,1,515.867,460.738Z" transform="translate(-493.576 -453.924)" fill="#e0f5ff" fill-rule="evenodd"/>
+        <path id="路径_1995" data-name="路径 1995" d="M513.012,453.924c5,0,9.17,2.927,10.141,6.814a12.042,12.042,0,0,1,5.187-1.146c5.168,0,9.451,3.122,10.23,7.208,3.964.973,6.876,4.012,6.876,7.588h0c0,4.352-4.314,7.912-9.587,7.912H513.012Z" transform="translate(-480.577 -453.924)" fill="#cdecfc" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

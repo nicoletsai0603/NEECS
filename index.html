@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<!-- saved from url=(0025)https://neecs.eri.com.tw/ -->
+<html lang="zh-hant">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>首頁 - 環境教育認證系統</title>
+    <link href="https://neecs.eri.com.tw/img/favicon.jpg" rel="shortcut icon">
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/jquery-ui.min2.css">
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/bootstrap.css">
+    <link rel="stylesheet" href="css/frontRWD.css">
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/mobile.css">
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/site.css">
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/dataTables.bootstrap4.css">
+    <!--響應式table-->
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/responsive.bootstrap4.min.css">
+    <!--響應式table-->
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/sweetalert2.min.css">
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/font-awesome.css">
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/MyStyle.css">
+    <link rel="stylesheet" href="./首頁 - 環境教育認證系統_files/front.css">
+
+
+
+    <script src="chrome-extension://jhffgcfmcckgmioipfnmbannkpncfipo/util.js"></script>
+    <script src="chrome-extension://jhffgcfmcckgmioipfnmbannkpncfipo/pagejs.js"></script>
+</head>
+
+<body>
+    <div class="accessibility-area">
+        <a href="https://neecs.eri.com.tw/#main__accesskey" title="跳到主要內容區塊" class="sr-only sr-only-focusable">跳到主要內容區塊</a>
+    </div>
+    <header>
+        <h1>
+            <a class="nav-link" href="https://neecs.eri.com.tw/">
+                <img src="./首頁 - 環境教育認證系統_files/logo2S.jpg" class="img-responsive" alt="環境教育認證系統">
+            </a>
+        </h1>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger" id="hamburger-1">
+                <span class="line"></span>
+                <span class="line"></span>
+                <span class="line"></span>
+            </div>
+        </button>
+    </header>
+    <nav class="navbar-expand-lg navbar-light">
+        <div id="navbarSupportedContent">
+            <div id="login_btn">
+                <div class="social">
+                    <a href="https://neecs.eri.com.tw/#U" id="U" name="U" accesskey="U" class="accesskey u" title="上方選單區導盲磚">:::</a>
+                    <a class="line2" title="Line" href="https://line.me/R/ti/p/KjOox0U09B">line </a>
+                    <a class="ig" href="https://www.instagram.com/epa.tw/" title="Instagram">ig</a>
+                    <a class="fb" href="https://www.epa.gov.tw/Page/5BE8739FFBB880CB" title="Facebook">fb</a>
+                    <a class="mail" href="https://epamail.epa.gov.tw/front/mailboxhome" title="mail">mail</a>
+                    <a class="en" href="https://neecs.eri.com.tw/Home/CertificationSystem" target="_blank" title="EN(另開視窗)">EN</a>
+                </div>
+                <div id="Login_nologin" class="btn_pic">
+                    <div class="search_wrap">
+                        <div class="search_border">
+                            <input name="ctl00$ctl12$uc_NavMain1$top_search_input_CN" type="text" id="top_search_input_CN" accesskey="S" class="text KeyWord" placeholder="請輸入關鍵字" title="請輸入關鍵字">
+                            <input type="submit" name="SearchBtn" value="搜尋" id="SearchBtn" class="btn SearchBtn" title="搜尋">
+                        </div>
+                    </div>
+
+
+                    <div class="vertical-center">
+                        <a href="https://neecs.eri.com.tw/HomeBack">後台</a>
+                        <a title="編輯使用者基本資料" href="https://neecs.eri.com.tw/Identity/Account/Manage">NEECS129 您好!</a>
+                    </div>
+                    <a class="btn btn-sm btn-outline-secondary" onclick="$(&#39;#FormLogout&#39;).submit()">系統登出</a>
+                    <form id="FormLogout" action="https://neecs.eri.com.tw/Identity/Account/Logout?returnUrl=%2F" method="post">
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HjahxQIEBlGg841dfKz64_T1qoPFSyXPS_8TKcqHaDJ8P2VUqZ4GgnYWwSPkQtTiGCu6Mzw_IKrqwDwXfSeJU7fPe9ChEt1d0nw-Ohmi6DUoEa4ky0oUFh6xXynkRCOwpFti_ll0K5j3buG_UykFvAPuUFwh2ij6OVkF8XoUMRdm2Sr4nSpJvH7aEEXuLhT6g"></form>
+
+
+                    <a class="btn btn-sm btn-outline-secondary" title="網站導覽" href="https://neecs.eri.com.tw/Home/SiteMap">網站導覽</a>
+                </div>
+                <div style="float:left">
+                    熱門關鍵字:
+                    <a href="https://neecs.eri.com.tw/#" onclick="gsc_set(&#39;環境教育認證&#39;)">環境教育認證</a>、
+                    <a href="https://neecs.eri.com.tw/#" onclick="gsc_set(&#39;環境教育設施場所&#39;)">環境教育設施場所</a>、
+                    <a href="https://neecs.eri.com.tw/#" onclick="gsc_set(&#39;認證流程&#39;)">認證流程</a>
+                </div>
+            </div>
+            <div class="blue">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/">首頁<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/Home/ApplyType">
+                            我要認證
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/Home/ExtensionApplyType">展延作業</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/Home/ClassInfo">我要上課</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/EPTI_F/EPTI_C-2-3.aspx?Type=C">
+                            個人應試資料查詢
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="https://neecs.eri.com.tw/#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">認證資訊</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/Home/LecturerQry">環境教育認證人員查詢</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/Home/AgencyQry">環境教育認證機構查詢</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/Home/PlaceQry">環境教育設施場所查詢</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/Home/ActivitySysMessageIndex">文宣媒材</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/Home/TalentPool">
+                            環境教育人才庫
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/Home/DLZone">下載專區</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/Home/FaqZone">Q&amp;A</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/Home/CertificationSystem">English</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container width1500 p-0 mt-4">
+
+        <noscript>您的瀏覽器不支援JavaScript，請更換支援 JavaScript 的瀏覽器。</noscript>
+        <main role="main" class="pb-3">
+            <a href="https://neecs.eri.com.tw/#" title="中間區域" id="ace_m" accesskey="C">:::</a>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-top:-1.5rem;">
+                <ol class="carousel-indicators">
+                    <li tabindex="0" data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li tabindex="0" data-target="#carouselExampleIndicators" data-slide-to="1" class=""></li>
+                    <li tabindex="0" data-target="#carouselExampleIndicators" data-slide-to="2" class=""></li>
+                    <li tabindex="0" data-target="#carouselExampleIndicators" data-slide-to="3" class=""></li>
+                    <li tabindex="0" data-target="#carouselExampleIndicators" data-slide-to="4" class=""></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <a href="https://neecs.eri.com.tw/Home/PlaceQry" title="環境教育設施場所"><img class="d-block w-100" src="./首頁 - 環境教育認證系統_files/1560408625441.jpg" alt="一"></a>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="https://eecs.epa.gov.tw/frontRWD/document/Binder1.pdf" title="環境教育教學路線" target="_blank"><img class="d-block w-100" src="./首頁 - 環境教育認證系統_files/1560933007758.jpg" alt="二"></a>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="https://neecs.eri.com.tw/Home/NewsView?Pid=139" title="改變環境的行動力" target="_self"><img class="d-block w-100" src="./首頁 - 環境教育認證系統_files/banner1018c.jpg" alt="三"></a>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="https://neecs.eri.com.tw/Home/NewsView?Pid=170" title="臺灣環境教育" target="_self"><img class="d-block w-100" src="./首頁 - 環境教育認證系統_files/1100323111112.jpg" alt="四"></a>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="https://neecs.eri.com.tw/Home/NewsView?Pid=175" title="環境教育人才庫" target="_self"><img class="d-block w-100" src="./首頁 - 環境教育認證系統_files/master.png" alt="五"></a>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="https://neecs.eri.com.tw/#" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="https://neecs.eri.com.tw/#" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+            <div class="row">
+                <div class="leftcontent col-xl-9">
+                    <div id="MainScreen">
+                        <!-- 訊息選單 -->
+                        <div id="ContentPlaceHolder1_sys_message" class="slideText row">
+                        </div>
+
+                        <ul id="ul1" class="nav nav-tabs">
+                            <li id="li1" class="active active1" onclick="switch_news(&#39;news&#39;);return false;" style="padding-left: 0px;">
+                                <a href="https://neecs.eri.com.tw/#" title="最新消息"><img id="ImgLi1" src="./首頁 - 環境教育認證系統_files/news1.jpg" alt="最新消息"></a>
+                            </li>
+                        </ul>
+                        <div id="news_div" class="col-12">
+                            <table class="table info table-striped" style="table-layout: auto">
+                                <tbody>
+                                    <tr style="background-color:#fdde77">
+                                        <th scope="row">2021/5/20</th>
+                                        <td>
+                                            <div class="sticky">
+                                                <i class="fa fa-arrow-up"></i> 置頂
+                                            </div>
+                                            環境教育人才庫上線 環保綠生活推廣歡迎查詢利用<a id="1155" href="https://neecs.eri.com.tw/Home/NewsView?Pid=1155" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2022/2/10</th>
+                                        <td>
+                                            至環訓所測試人才庫<a id="1157" href="https://neecs.eri.com.tw/Home/NewsView?Pid=1157" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2021/9/30</th>
+                                        <td>
+                                            123<a id="1156" href="https://neecs.eri.com.tw/Home/NewsView?Pid=1156" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2019/9/26</th>
+                                        <td>
+                                            【環境教育人員展延時數來囉!】2019年11月1...<a id="145" href="https://neecs.eri.com.tw/Home/NewsView?Pid=145" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2019/9/17</th>
+                                        <td>
+                                            109年度補(捐)助環境教育機構辦理環境教育人員...<a id="142" href="https://neecs.eri.com.tw/Home/NewsView?Pid=142" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2019/9/5</th>
+                                        <td>
+                                            【109年度補（捐）助環境教育設施場所Call ...<a id="141" href="https://neecs.eri.com.tw/Home/NewsView?Pid=141" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2020/1/6</th>
+                                        <td>
+                                            環境教育設施場所補(捐)助計畫 績優單位成果<a id="139" href="https://neecs.eri.com.tw/Home/NewsView?Pid=139" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2018/9/6</th>
+                                        <td>
+                                            環保集點愛地球 GREEN ON<a id="103" href="https://neecs.eri.com.tw/Home/NewsView?Pid=103" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2018/8/16</th>
+                                        <td>
+                                            環境教育人員識別證線上套印服務已開啟<a id="96" href="https://neecs.eri.com.tw/Home/NewsView?Pid=96" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2018/8/1</th>
+                                        <td>
+                                            【公告】因應資訊安全規範，密碼有效期限為180天...<a id="82" href="https://neecs.eri.com.tw/Home/NewsView?Pid=82" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2012/8/8</th>
+                                        <td>
+                                            EPA環保頻道開播!<a id="9" href="https://neecs.eri.com.tw/Home/NewsView?Pid=9" title="(詳細內容)">(詳細內容)</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <a style="float:right;" class="btn btn-sm btn-outline-secondary" href="https://neecs.eri.com.tw/Home/News?mode=%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF" title="更多訊息">More</a>&nbsp;&nbsp;
+                        </div>
+                        <div id="certifymsg_div" style="display: none;">
+                            <table class="table">
+                                <tbody>
+                                </tbody>
+                            </table>
+                            <a style="float:right; " class="btn btn-sm btn-outline-secondary" href="https://neecs.eri.com.tw/Home/News?mode=%E8%AA%8D%E8%AD%89%E6%B6%88%E6%81%AF" title="更多訊息 ">More</a>&nbsp;&nbsp;
+                        </div>
+                    </div>
+                    <div class="education">
+                        <ul class="tab J-nav-tab">
+                            <li>
+                                <a class="on" href="https://neecs.eri.com.tw/#tabs-1">
+                                    <div class="sidebar-content-title-sm">
+                                        <span class="title-text text-normal-link">環境教育人才庫</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://neecs.eri.com.tw/#tabs-2">
+                                    <div class="sidebar-content-title-sm">
+                                        <span class="title-text text-normal-link">徵選專區</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://neecs.eri.com.tw/#tabs-3">
+                                    <div class="sidebar-content-title-sm">
+                                        <span class="title-text text-normal-link">下載專區</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://neecs.eri.com.tw/#tabs-4">
+                                    <div class="sidebar-content-title-sm">
+                                        <span class="title-text text-normal-link">Q&amp;A</span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                        <div>
+                            <!-- 環境教育人才庫 -->
+                            <div class="code-downbox" id="tabs-1" style="display:block;">
+                                <div class="person">
+                                    <div class="peo"><img src="./首頁 - 環境教育認證系統_files/peo.svg" alt="環境教育人才庫"></div>
+                                    <div class="peotxt">
+                                        <div class="name_block">
+                                            <span class="name">黃佳盛</span>
+                                            <span class="address">臺南市，國立北門高級農工職業學校造園科/教師,兼任助理教授</span>
+                                        </div>
+                                        <ul class="professinal">
+                                            <li>
+                                                學校及社會環境教育、氣候變遷、自然保育、... </li>
+                                            <li style="width:27em">
+                                                永續綠環境規劃 環境生態保育 臺灣動植物... </li>
+                                        </ul>
+                                    </div>
+                                    <a class="more200" href="https://neecs.eri.com.tw/Home/HumanItem?Id=57">了解更多</a>
+                                </div>
+                                <div class="person">
+                                    <div class="peo"><img src="./首頁 - 環境教育認證系統_files/peo.svg" alt="環境教育人才庫"></div>
+                                    <div class="peotxt">
+                                        <div class="name_block">
+                                            <span class="name">盧志明</span>
+                                            <span class="address">彰化縣，中華電信工會彰化分會/理事長</span>
+                                        </div>
+                                        <ul class="professinal">
+                                            <li>
+                                                環保綠生活、學校及社會環境教育、氣候變遷... </li>
+                                            <li style="width:27em">
+                                                1.綠色建築面面觀 2.節能與減碳 3.... </li>
+                                        </ul>
+                                    </div>
+                                    <a class="more200" href="https://neecs.eri.com.tw/Home/HumanItem?Id=17">了解更多</a>
+                                </div>
+                                <div class="person">
+                                    <div class="peo"><img src="./首頁 - 環境教育認證系統_files/peo.svg" alt="環境教育人才庫"></div>
+                                    <div class="peotxt">
+                                        <div class="name_block">
+                                            <span class="name">金敏</span>
+                                            <span class="address">新北市，臺灣大學生物資源農學院附設實驗農場/推廣講師</span>
+                                        </div>
+                                        <ul class="professinal">
+                                            <li>
+                                                學校及社會環境教育、自然保育、環保綠生活... </li>
+                                            <li style="width:27em">
+                                                環境教育探索與建立生態永續發展理念 植物生... </li>
+                                        </ul>
+                                    </div>
+                                    <a class="more200" href="https://neecs.eri.com.tw/Home/HumanItem?Id=77">了解更多</a>
+                                </div>
+                                <!-- 1人 -->
+                                <!--<div class="person">
+                        <div class="peo"><img src="img/peo.svg" alt="環境教育人才庫"></div>
+                        <div class="peotxt">
+                            <div class="name_block">
+                                <span class="name">王小明</span>
+                                <span class="address">台北市，xx國小任教</span>
+                            </div>
+                            <ul class="professinal">
+                                <li>氣候變遷、自然保育、環保綠生活</li>
+                                <li>
+                                    <ol>
+                                        <li>自然生態觀察</li>
+                                        <li>地球科學導覽</li>
+                                    </ol>
+                                </li>
+                            </ul>
+                        </div>
+                        <a class="more200" href="#">了解更多</a>
+                    </div>-->
+                                <!-- 2人 -->
+                                <!--<div class="person">
+                        <div class="peo"><img src="img/peo.svg" alt="環境教育人才庫"></div>
+                        <div class="peotxt">
+                            <div class="name_block">
+                                <span class="name">王小明</span>
+                                <span class="address">台北市，xx國小任教</span>
+                            </div>
+                            <ul class="professinal">
+                                <li>氣候變遷、自然保育、環保綠生活</li>
+                                <li>
+                                    <ol>
+                                        <li>自然生態觀察</li>
+                                        <li>地球科學導覽</li>
+                                    </ol>
+                                </li>
+                            </ul>
+                        </div>
+                        <a class="more200 " href="#">了解更多</a>
+                    </div>-->
+                                <!-- 3人 -->
+                                <!--<div class="person">
+                        <div class="peo"><img src="img/peo.svg" alt="環境教育人才庫"></div>
+                        <div class="peotxt">
+                            <div class="name_block">
+                                <span class="name">王小明</span>
+                                <span class="address">台北市，xx國小任教</span>
+                            </div>
+                            <ul class="professinal">
+                                <li>氣候變遷、自然保育、環保綠生活</li>
+                                <li>
+                                    <ol>
+                                        <li>自然生態觀察</li>
+                                        <li>地球科學導覽</li>
+                                    </ol>
+                                </li>
+                            </ul>
+                        </div>
+                        <a class="more200" href="#">了解更多</a>
+                    </div>-->
+                            </div>
+                            <!-- 徵選專區 -->
+                            <div class="code-downbox" id="tabs-2" style="display:none;">
+                                <div class="Calltitle"> 標題：111年度徵選計畫</div>
+                                <ul>
+                                    <li><b>壹、 活動目的</b><br> 從綠生活開始，用行動改變社會。眾綠聚人，環保署邀您加入綠生活環境教育行動，並公開教學專長資訊於環境教育人才庫，提供社會各界查詢運用，為臺灣這塊土地深耕環教、共創永續！
+                                    </li>
+                                    <li>
+                                        <b>貳、 辦理單位</b><br>主辦單位：行政院環境保護署環境保護人員訓練所<br> 執行單位：環境友善種子有限公司
+                                    </li>
+                                    <li><b>參、 徵選對象</b><br> 徵召 60名環保政策教學推廣之種子講師，歡迎具有環境教育人員認證資格，且實際從事環境教育教學推廣 2 年以上經驗者報名參加。</li>
+                                </ul><br><br>
+                                <a class="more200 more2002" href="https://neecs.eri.com.tw/Home/SolicitPlan">了解更多</a>
+                            </div>
+                            <div class="code-downbox" id="tabs-3" style="display:none;">
+                                <ul>
+                                    <li><a href="https://neecs.eri.com.tw/_updata/_downloadfile/2022/7c9bc3e2-faf7-4e48-8053-b71cf7f29a3b.odt" target="_blank" title="環境教育人員認證英文證明申請表(ODT檔)">環境教育人員認證英文證明申請表(ODT檔)</a></li>
+                                    <li><a href="https://neecs.eri.com.tw/_updata/_downloadfile/2022/91a9048a-e377-424a-9571-5b7475bb3918.odt" target="_blank" title="環境教育機構認證英文證明申請表(ODT檔)">環境教育機構認證英文證明申請表(ODT檔)</a></li>
+                                    <li><a href="https://neecs.eri.com.tw/_updata/_downloadfile/2022/31b254a6-2beb-425a-a18c-e4f6b85f310c.odt" target="_blank" title="環境教育設施場所認證英文證明申請表(ODT檔)">環境教育設施場所認證英文證明申請表(ODT檔)</a></li>
+                                    <li><a href="https://www.epa.gov.tw/training/FBAE60FA8E5424EA" target="_blank" title="環境教育人員認證展延申請書及附表">環境教育人員認證展延申請書及附表</a></li>
+                                    <li><a href="https://www.epa.gov.tw/training/38776ECE9C2C4B70" target="_blank" title="環境教育機構認證展延申請書及附表">環境教育機構認證展延申請書及附表</a></li>
+                                    <li><a href="https://neecs.eri.com.tw/_updata/_downloadfile/2019/3/171d097a07a44cc9ae2d039694f36e76.odt" target="_blank" title="環境教育機構成果報告書格式規範(ODT檔)">環境教育機構成果報告書格式規範(ODT檔)</a></li>
+                                    <li><a href="https://neecs.eri.com.tw/_updata/_downloadfile/2019/3/3d0acb263a594cabbf2bce201b22ad9c.odt" target="_blank" title="環境教育設施場所成果報告書格式規範(ODT檔)">環境教育設施場所成果報告書格式規範(ODT檔)</a></li>
+                                    <li><a href="https://www.epa.gov.tw/training/498E25712B2B19A9" target="_blank" title="環境教育人員認證展延研習開課申請書及附表">環境教育人員認證展延研習開課申請書及附表</a></li>
+                                </ul>
+                                <a class="more2001" href="https://neecs.eri.com.tw/Home/DLZone">了解更多</a>
+                            </div>
+                            <div class="code-downbox" id="tabs-4" style="display:none;">
+                                <div class="accordion QA" id="accordionExample">
+                                    <div class="card">
+                                        <div class="card-header" id="heading1">
+                                            <h2 class="mb-0">
+                                                <button class="btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                            <span class="qu">Q1</span>
+                                            <p>如何以「學歷」申請環境教育人員認證？</p>
+                                        </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="an">A1</span>
+                                                <p>
+                                                    符合下列情形之一者，得以「學歷」申請環境教育人員認證： 1、公立或立案之私立大學、獨立學院或專科學校，或經教育部承認之國外大學、獨立學院或專科學校畢業，並修畢環境相關領域課程24個學分以上，其中包含3個核心科目6個學分以上者(環境教育、環境倫理、環境教育教材教法，得以參加核發機關或環境教育機構所舉辦合計30小時以上研習時數代替)，得申請環境教育行政人員認證。 2、前款24個學分包含申請之專業領域18個學分以上者，得申請環境教育教學人員認證。
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="heading2">
+                                            <h2 class="mb-0">
+                                                <button class="btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+                                            <span class="qu">Q2</span>
+                                            <p>123</p>
+                                        </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="an">A2</span>
+                                                <p>
+                                                    123
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="heading3">
+                                            <h2 class="mb-0">
+                                                <button class="btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
+                                            <span class="qu">Q3</span>
+                                            <p>1-1=?</p>
+                                        </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="an">A3</span>
+                                                <p>
+                                                    2
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="heading4">
+                                            <h2 class="mb-0">
+                                                <button class="btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
+                                            <span class="qu">Q4</span>
+                                            <p>測試是否成功</p>
+                                        </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="an">A4</span>
+                                                <p>
+                                                    否
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="heading5">
+                                            <h2 class="mb-0">
+                                                <button class="btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
+                                            <span class="qu">Q5</span>
+                                            <p>申請環境教育人員之認證所需申請書，可於何處取得?</p>
+                                        </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="an">A5</span>
+                                                <p>
+                                                    請至行政院環境保護署環境保護人員訓練所(https://www.epa.gov.tw/training/E9C1709670FE80D9)下載申請書表，依申請書說明填妥並檢送相關文件以掛號投遞，郵寄收件地址為：32024桃園市中壢區民族路3段260號5樓，行政院環境保護署環境保護人員訓練所收。
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="heading6">
+                                            <h2 class="mb-0">
+                                                <button class="btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
+                                            <span class="qu">Q6</span>
+                                            <p>申請環境教育機構之認證所需申請書，可於何處取得?</p>
+                                        </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="an">A6</span>
+                                                <p>
+                                                    請至行政院環境保護署環境保護人員訓練所(https://www.epa.gov.tw/training/6D0730C093C083B6)下載申請書表，依申請書說明填妥並檢送相關文件以掛號投遞，郵寄收件地址為：32024桃園市中壢區民族路3段260號5樓，行政院環境保護署環境保護人員訓練所收。
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="heading7">
+                                            <h2 class="mb-0">
+                                                <button class="btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="true" aria-controls="collapse7">
+                                            <span class="qu">Q7</span>
+                                            <p>如何修改人員認證資訊內「認證資訊公開」資料？</p>
+                                        </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="an">A7</span>
+                                                <p>
+                                                    人員認證資料修改(非聯絡資料)，請至「下載專區 &gt; 1.認證資料異動申請表」下載並填妥「環境教育人員認證申請資料異動聲明書」後傳真至環訓所(03-4020773、03-4020775)，待審核後將由專人協助修改。
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="heading8">
+                                            <h2 class="mb-0">
+                                                <button class="btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="true" aria-controls="collapse8">
+                                            <span class="qu">Q8</span>
+                                            <p>環境教育人員認證期限為5年；期限到期後能夠再申請嗎？需具備哪些申請資格？</p>
+                                        </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="an">A8</span>
+                                                <p>
+                                                    依據環境教育人員認證及管理辦法第15條規範，於人員認證期限到期前3~6個月可提出認證展延申請，並參考法規內容，選擇符合的展延資格提出認證展延申請。
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a class="more2001" href="https://neecs.eri.com.tw/Home/FaqZone">了解更多</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="rightbanner col-xl-3">
+                    <a class="want_to_authenticate " title="我要認證 " href="https://neecs.eri.com.tw/Home/ApplyType">
+                        <img src="./首頁 - 環境教育認證系統_files/right_banner1.jpg" alt=""> <span><p> 我要認證</p></span>
+                    </a>
+                    <a class="want_to_authenticate " href="https://neecs.eri.com.tw/Home/ExtensionApplyType" title="展延作業 ">
+                        <img src="./首頁 - 環境教育認證系統_files/right_banner2.jpg" alt=""> <span><p> 展延作業</p></span>
+                    </a>
+                    <a class="want_to_authenticate " href="https://neecs.eri.com.tw/Home/ClassInfo" title="我要上課 ">
+                        <img src="./首頁 - 環境教育認證系統_files/right_banner3.jpg" alt=""> <span><p> 我要上課</p></span>
+                    </a>
+                    <a class="want_to_authenticate " href="https://neecs.eri.com.tw/Home/LecturerQry" title="認證資訊 ">
+                        <img src="./首頁 - 環境教育認證系統_files/right_banner4.jpg" alt=""> <span><p> 認證資訊</p></span>
+                    </a>
+                    <a class="want_to_authenticate " href="https://neecs.eri.com.tw/Home/TalentPool" title="環境教育人才庫 ">
+                        <img src="./首頁 - 環境教育認證系統_files/right_banner5.jpg" alt=""> <span><p> 環境教育人才庫</p></span>
+                    </a>
+                    <a class="want_to_authenticate " href="https://neecs.eri.com.tw/Home/ActivitySysMessageIndex" title="文宣媒材 ">
+                        <img src="./首頁 - 環境教育認證系統_files/right_banner6.jpg" alt=""> <span><p> 文宣媒材</p></span>
+                    </a>
+                    <a class="want_to_authenticate " href="https://neecs.eri.com.tw/Home/LawZone" title="相關法規 ">
+                        <img src="./首頁 - 環境教育認證系統_files/right_banner7.jpg" alt=""> <span><p> 相關法規</p></span>
+                    </a>
+                </div>
+            </div>
+        </main>
+    </div>
+    <footer>
+        <a href="https://neecs.eri.com.tw/#B" name="B" title="下方區域" accesskey="B">:::</a>
+        <div class="text-center m-auto">
+            <div class="text-center p-2">
+                <a class="info" href="https://www.epa.gov.tw/Page/70E67DE2079DF931" target="_blank">網頁政策及宣告</a>
+                <a class="info" data-toggle="modal" data-target="#exampleModalCenter">聯絡我們</a>
+                <a class="info" href="https://epamail.epa.gov.tw/Front/MailBoxHome" target="_blank">意見信箱</a>
+                <br>
+                <div class="text-white mt-2">
+                    客服信箱：eecs@eri.com.tw<br> 客服電話一：0972-472902
+                    <br> 客服電話二：0972-480370
+                    <br> 地址：320217桃園市中壢區民族路三段260號5樓
+                    <br> 系統更新日期：2022/5/25 版權所有：行政院環境保護署<br> 建議解析度 1024x768 以上觀看<br> &nbsp;訪客人次： <span id="WebCounterTotal ">274423</span><br>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="./首頁 - 環境教育認證系統_files/jquery.min.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/jquery-ui.min.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/popper.min.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/bootstrap.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/site.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/jquery.dataTables.min.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/dataTables.bootstrap4.min.js.下載"></script>
+    <!--響應式table-->
+    <script src="./首頁 - 環境教育認證系統_files/dataTables.responsive.min.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/responsive.bootstrap4.min.js.下載"></script>
+    <!--響應式table-->
+    <script src="./首頁 - 環境教育認證系統_files/sweetalert2.min.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/MyJS.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/vue.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/main.js.下載"></script>
+    <script src="./首頁 - 環境教育認證系統_files/tableToExcel.js.下載"></script>
+
+    <script>
+        window.history.replaceState(null, null, window.location.href);
+        $(function() {
+            $("#SearchBtn").click(function() {
+                var input = $("#top_search_input_CN").val();
+                window.location.href = `/Home/SearchGE?searchInput=${input}`;
+            })
+        })
+
+        function gsc_set(s) {
+            window.location.href = `/Home/SearchGE?searchInput=${s}`;
+        };
+    </script>
+
+
+
+    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">聯絡我們</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+                </div>
+                <div class="modal-body">
+                    <b>
+                    <a href="https://neecs.eri.com.tw/Home/FaqZone" id="A6" title="Q&amp;A常見問題" style="color: Blue">
+                        <u>相關常見問題可先參考Q&amp;A資訊</u>
+                    </a>
+                </b>
+                    <br>
+                    <br> 認證審查諮詢電話：
+                    <br>
+                    <b>
+                    03-4020-789轉<br>
+                    人員545<br>
+                    機構607<br>
+                    設施場所304、301、313
+                </b><br>
+                    <br> 系統操作諮詢電話：
+                    <br>
+                    <b>02-6630-9988轉107</b><br><b>03-4020789轉623</b><br><br> 上午09:00~11:50
+                    <br> 下午13:30~18:00
+                    <br> Email：
+                    <a href="mailto:neecs@eri.com.tw" title="Email">
+                    neecs@eri.com.tw
+                </a><br>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

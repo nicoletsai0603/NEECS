@@ -1,0 +1,55 @@
+﻿/* frontRWD.css */
+
+.width1500 {
+    max-width: 90% !important;
+    /*改 */
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+    position: relative;
+}
+
+.rightbanner a {
+    width: 100%;
+    /*改 */
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.carousel {
+    width: 100%;
+    /*改 */
+    margin: auto;
+    overflow: hidden;
+}
+
+
+/* css/front.css*/
+
+.navbar-nav li {
+    /*改 */
+    padding: 0 15px;
+}
+
+#ContentPlaceHolder1_pn2_result {
+    border: 2px solid rgba(49, 133, 156, 1);
+    border-radius: 10px;
+    margin: 20px 0;
+    /*改 */
+    width: 100%;
+    padding: 2px;
+}
+
+.navbar-expand-lg .navbar-nav {
+    /*刪 */
+    /* max-width: 1190px; */
+    display: flex;
+    /*刪 */
+    /* justify-content: space-between; */
+}
+
+
+/* index.html */
+
+<div class="leftcontent col-xl-9"><div class="rightbanner col-xl-3">

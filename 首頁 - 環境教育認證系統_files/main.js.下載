@@ -1,0 +1,42 @@
+$
+
+function switch_news(x) {
+    $("#news_link").attr("class", "news" + ((x == 'news') ? "_link" : ""));
+    $("#system_link").attr("class", "system" + ((x == 'system') ? "_link" : ""));
+    $("#certifymsg_link").attr("class", "certifymsg" + ((x == 'certifymsg') ? "_link" : ""));
+
+    $("#li1").removeClass();
+    $("#li2").removeClass();
+    if (x == 'news') {
+        $("#li1").addClass("active active1");
+        $("#li2").addClass("nonactive1");
+        $("#ImgLi1").attr("src", "img/news1.jpg");
+        $("#ImgLi2").attr("src", "img/certs0.jpg");
+    } else {
+        $("#li2").addClass("active active1");
+        $("#li1").addClass("nonactive1");
+        $("#ImgLi1").attr("src", "img/news0.jpg");
+        $("#ImgLi2").attr("src", "img/certs1.jpg");
+    }
+
+    $("#news_div").hide('slow');
+    $("#system_div").hide('slow');
+    $("#certifymsg_div").hide('slow');
+
+    if (x == "system") $("#system_div").show('slow');
+    if (x == "news") $("#news_div").show('slow');
+    if (x == "certifymsg") $("#certifymsg_div").show('slow');
+}
+
+//tab 切换
+$(".J-nav-tab").each(function() {
+    var tthis = $(this)
+    $(this).find("a").click(function() {
+        var $this = $(this);
+        var $obj = $this.attr("href");
+        tthis.find("a").removeClass("on")
+        $this.addClass("on");
+        $($obj).show().siblings().hide()
+        return false;
+    })
+})

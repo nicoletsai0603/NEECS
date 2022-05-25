@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<!-- saved from url=(0049)https://neecs.eri.com.tw/AuthLecturerBack/CaseQry -->
+<html lang="zh-hant">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>人員案件查詢 - 環境教育認證系統</title>
+    <link href="https://neecs.eri.com.tw/img/favicon.jpg" rel="shortcut icon">
+    <link rel="stylesheet" href="js/jquery-ui.min2.css">
+    <link rel="stylesheet" href="js/bootstrap.css">
+    <link rel="stylesheet" href="css/frontRWD.css">
+    <link rel="stylesheet" href="js/mobile.css">
+    <link rel="stylesheet" href="js/site.css">
+    <link rel="stylesheet" href="js/dataTables.bootstrap4.css">
+    <!--響應式table-->
+    <link rel="stylesheet" href="js/responsive.bootstrap4.min.css">
+    <!--響應式table-->
+    <link rel="stylesheet" href="js/sweetalert2.min.css">
+    <link rel="stylesheet" href="js/font-awesome.css">
+    <link rel="stylesheet" href="js/MyStyle.css">
+    <link rel="stylesheet" href="css/front.css">
+
+
+
+</head>
+
+<body>
+    <div class="accessibility-area">
+        <a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#main__accesskey" title="跳到主要內容區塊" class="sr-only sr-only-focusable">跳到主要內容區塊</a>
+    </div>
+    <header>
+        <h1>
+            <a class="nav-link" href="https://neecs.eri.com.tw/">
+                <img src="js/logo2S.jpg" class="img-responsive" alt="環境教育認證系統">
+            </a>
+        </h1>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger" id="hamburger-1">
+                <span class="line"></span>
+                <span class="line"></span>
+                <span class="line"></span>
+            </div>
+        </button>
+    </header>
+    <nav class="navbar-expand-lg navbar-light">
+        <div id="navbarSupportedContent">
+            <div id="login_btn">
+                <div class="social">
+                    <a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#U" id="U" name="U" accesskey="U" class="accesskey u" title="上方選單區導盲磚">:::</a>
+                    <a class="line2" title="Line" href="https://line.me/R/ti/p/KjOox0U09B">line </a>
+                    <a class="ig" href="https://www.instagram.com/epa.tw/" title="Instagram">ig</a>
+                    <a class="fb" href="https://www.epa.gov.tw/Page/5BE8739FFBB880CB" title="Facebook">fb</a>
+                    <a class="mail" href="https://epamail.epa.gov.tw/front/mailboxhome" title="mail">mail</a>
+                    <a class="en" href="https://neecs.eri.com.tw/Home/CertificationSystem" target="_blank" title="EN(另開視窗)">EN</a>
+                </div>
+                <div id="Login_nologin" class="btn_pic">
+
+                    <div class="vertical-center">
+                        <a href="https://neecs.eri.com.tw/">前台</a>
+                        <a title="編輯使用者基本資料" href="https://neecs.eri.com.tw/Identity/Account/Manage">NEECS129 您好!</a>
+                    </div>
+                    <a class="btn btn-sm btn-outline-secondary" onclick="$(&#39;#FormLogout&#39;).submit()">系統登出</a>
+                    <form id="FormLogout" class="form-inline" action="https://neecs.eri.com.tw/Identity/Account/Logout?returnUrl=%2F" method="post">
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HjahxQIEBlGg841dfKz64-vTcwD8sni5mYgu81VDC1Ee979nwODmyVsa7t0dLKR1UH2OeK8JrqQfLuwwI94_XhXzxiaytoHKbTEYE5OePlKVeonMClD7vUz0FiUTKRI8h7hOlcNYPisZDszUvl05WUpnT4eI-t1JgIOd_A4EYqVhhPaU5QBPRic-JiKzel-Ag"></form>
+
+                </div>
+            </div>
+            <div class="blue">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://neecs.eri.com.tw/HomeBack">首頁<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                人員認證
+                            </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseAccept">
+                                        人員認證審查
+                                    </a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AuthExtensionBack/CaseAccept">
+                                        人員展延審查
+                                    </a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AuthReBack/CaseAccept">
+                                        人員再認證審查
+                                    </a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AuthLecturerBack/DomainClassIndex">
+                                        專業領域課程查詢
+                                    </a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                機構認證
+                            </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/CaseAccept">
+                                        機構認證審查
+                                    </a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/ExtensionCaseAccept">
+                                        機構展延審查
+                                    </a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                場所認證
+                            </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/CaseAccept">
+                                        設施場所認證審查
+                                    </a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/ExtensionCaseAccept">
+                                        設施場所展延審查
+                                    </a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                綜合查詢
+                            </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry">人員案件查詢</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/CaseQry">機構案件查詢</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/CaseQry">場所案件查詢</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AuthLecturerBack/LicenseManage">人員證書查詢</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/AgencyIssueIndex">機構證書查詢</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/PlaceIssueIndex">場所證書查詢</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="https://bootstrapthemes.co/" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                系統功能
+                            </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink ">
+                            <li>
+                                <a class="dropdown-item dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#">
+                                            帳號權限管理
+                                        </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/Identity/Account/Manage/MemberList">帳號清單</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/Identity/Account/Manage/RoleIndex">角色管理</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#">
+                                        系統維護
+                                    </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/FaqIndex">Q&amp;A管理</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/SysMesIndex">訊息管理</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/DownloadFileIndex">下載專區檔案管理</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/ActivitySysMessageIndex">活動照片及影片管理</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/BankPayIndex">銀行繳費建檔管理</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                人才庫＆文宣媒材管理
+                            </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="will-change: transform;">
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/HumanManage">帳號管理</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/HumanMod">資料異動審核</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/MediaManage">文宣媒材管理</a>
+                            <a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/EEEvaluationIndex">縣市環境教育考核</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="https://bootstrapthemes.co/" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                管理事項
+                            </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink ">
+                            <li><a class="dropdown-item" href="https://neecs.eri.com.tw/ExtensionCourseBack/LearnExtensionManage">展延開課管理</a></li>
+                            <li>
+                                <a class="dropdown-item" href="https://neecs.eri.com.tw/HomeBack/EETSTran">開班評量功能</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item dropdown-toggle active-dropdown" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#">
+                                            機構變更資料管理
+                                        </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/ChangeReportIndex?caseMode=2">基本資料變更</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/ChangeReportIndex?caseMode=3">師資、課程變更</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#">
+                                            機構成果管理
+                                        </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/AgclassFileManage">審核成果報告書</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#">
+                                            設施場所資料變更管理
+                                        </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/ChangeReportIndex?caseMode=0">基本資料變更</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/ChangeReportIndex?caseMode=1">課程方案變更</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#">
+                                            設施場所成果管理
+                                        </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/ActivityRecordIndex">開辦活動成果填報查詢</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/ActivityMonthPersonManage">每季活動人數管理</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/ActivityFileManage">審核成果報告書</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#">
+                                            訪查管理
+                                        </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/VisitManagementAgIndex">機構訪查單位管理</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/VisitManagementPlIndex">場所訪查單位管理</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item dropdown-toggle" href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#">
+                                            評鑑管理
+                                        </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/AgencyBack/EvaluationManagementAgIndex">機構評鑑單位管理</a></li>
+                                    <li><a class="dropdown-item" href="https://neecs.eri.com.tw/PlaceBack/EvaluationManagementPlIndex">場所評鑑單位管理</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container width1500 p-0 mt-4">
+        <noscript>您的瀏覽器不支援JavaScript，請更換支援 JavaScript 的瀏覽器。</noscript>
+        <main role="main" class="pb-3">
+            <a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" title="中間區域" id="ace_m" accesskey="C">:::</a>
+
+            <div class="location">
+                <a href="https://neecs.eri.com.tw/HomeBack">首頁</a> &nbsp;&gt;&nbsp; 人員案件查詢
+            </div>
+            <h2 class="title">
+                <span>人員案件查詢</span>
+                <hr>
+            </h2>
+
+            <div id="app" class="card">
+                <div class="card-body">
+                    <form id="queryForm" action="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry" method="post" novalidate="novalidate">
+                        <div class="form-group row"><label for="QryVM_SerialNumber" class="col-form-label col-md-2">申請編號</label>
+                            <div class="col-md-4"><input type="text" id="QryVM_SerialNumber" name="QryVM.SerialNumber" value="" class="form-control mw-300px display_inline"></div> <label for="QryVM_AuthLecturerCode" class="col-form-label col-md-2">申請案號</label>
+                            <div class="col-md-4"><input type="text" id="QryVM_AuthLecturerCode" name="QryVM.AuthLecturerCode" value="" class="form-control mw-300px display_inline"></div>
+                        </div>
+                        <div class="form-group row"><label for="QryVM_UName" class="col-form-label col-md-2">申請者姓名</label>
+                            <div class="col-md-4"><input type="text" id="QryVM_UName" name="QryVM.UName" value="" class="form-control mw-300px display_inline"></div> <label for="QryVM_Idno" class="col-form-label col-md-2">身分證字號</label>
+                            <div class="col-md-4"><input type="text" id="QryVM_Idno" name="QryVM.Idno" value="" class="form-control mw-300px display_inline"></div>
+                        </div>
+                        <div class="form-group row"><label for="QryVM_LicenseNo" class="col-form-label col-md-2">證書編號</label>
+                            <div class="col-md-10"><input type="text" id="QryVM_LicenseNo" name="QryVM.LicenseNo" value="" class="form-control mw-300px display_inline"></div>
+                        </div>
+                        <div class="form-group row"><label class="col-form-label col-md-2">認證類型</label>
+                            <div class="col-md-10"><input type="radio" id="ApplyType_0" name="QryVM.ApplyType" value="全部"> <label for="ApplyType_0" class="display_inline">全部</label> <input type="radio" id="ApplyType_1" name="QryVM.ApplyType" value="認證"> <label for="ApplyType_1"
+                                    class="display_inline">認證</label> <input type="radio" id="ApplyType_2" name="QryVM.ApplyType" value="展延"> <label for="ApplyType_2" class="display_inline">展延</label> <input type="radio" id="ApplyType_3" name="QryVM.ApplyType"
+                                    value="再認證"> <label for="ApplyType_3" class="display_inline">再認證</label></div>
+                            <!---->
+                            <!---->
+                            <!---->
+                        </div>
+                        <div class="form-group row"><label for="QryVM_EffectiveStartDt" class="col-form-label col-md-2">證書有效日期</label>
+                            <div class="col-md-10"><input type="date" id="QryVM_EffectiveStartDt" name="QryVM.EffectiveStartDt" value="" class="form-control mw-200px display_inline">~
+                                <input type="date" id="QryVM_EffectiveEndDt" name="QryVM.EffectiveEndDt" value="" class="form-control mw-200px display_inline"> <input type="checkbox" value="True" data-val="true" data-val-required="The IsOmitDate field is required."
+                                    id="QryVM_IsOmitDate" name="QryVM.IsOmitDate"> <label for="QryVM_IsOmitDate" class="display_inline">忽略日期區間</label></div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="offset-md-2"><input type="checkbox" value="True" data-val="true" data-val-required="The IsLastDataByData field is required." id="QryVM_IsLastDataByData" name="QryVM.IsLastDataByData"> <label for="QryVM_IsLastDataByData" class="display_inline">顯示相同身分案件的最新一筆認證資料</label></div>
+                        </div>
+                        <div class="form-group"><input type="button" value="查詢" onclick="Search()" class="btn btn-primary"> <input type="text" id="selected" name="selected" value="" style="display: none;"> <input type="button" value="查詢結果下載" onclick="Download()" class="btn btn-primary"></div>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HjahxQIEBlGg841dfKz64-vTcwD8sni5mYgu81VDC1Ee979nwODmyVsa7t0dLKR1UH2OeK8JrqQfLuwwI94_XhXzxiaytoHKbTEYE5OePlKVeonMClD7vUz0FiUTKRI8h7hOlcNYPisZDszUvl05WUpnT4eI-t1JgIOd_A4EYqVhhPaU5QBPRic-JiKzel-Ag">
+                        <input name="QryVM.IsOmitDate" type="hidden" value="false"><input name="QryVM.IsLastDataByData" type="hidden" value="false"></form>
+                </div>
+            </div>
+            <form id="app" action="https://neecs.eri.com.tw/AuthLecturerBack/Print" method="post">
+                <div class="text-tip ml-3">總共 14599 筆資料</div>
+
+                <div id="Qry_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6"></div>
+                        <div class="col-sm-12 col-md-6"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <table class="table table-striped table-bordered table-sm text-break dt-responsive dataTable no-footer dtr-inline" width="100%" id="Qry" role="grid" style="width: 100%;">
+                                <thead>
+                                    <tr role="row">
+                                        <th class="sorting_asc" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-sort="ascending" aria-label="序號: 降冪排列">序號</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="受理日期: 升冪排列">受理日期</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="編號: 升冪排列">編號</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="案號: 升冪排列">案號</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="姓名: 升冪排列">姓名</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="身分證字號: 升冪排列">身分證字號</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="申請認證方式: 升冪排列">申請認證方式</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="適用規定: 升冪排列">適用規定</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="工作項目: 升冪排列">工作項目</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="申請狀態: 升冪排列">申請狀態</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="認證類型: 升冪排列">認證類型</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="專業領域: 升冪排列">專業領域</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="案件狀態: 升冪排列">案件狀態</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="狀態日期: 升冪排列">狀態日期</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="證書編號: 升冪排列">證書編號</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="有效日期: 升冪排列">有效日期</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="紀錄查詢: 升冪排列">紀錄查詢</th>
+                                        <th class="sorting" tabindex="0" aria-controls="Qry" rowspan="1" colspan="1" style="width: 29.2px;" aria-label="全選: 升冪排列"><label for="checkAll">全選</label><input type="checkbox" id="checkAll"></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr role="row" class="odd">
+                                        <td class="dtr-control sorting_1" tabindex="0">1</td>
+                                        <td>2022/5/25</td>
+                                        <td>-</td>
+                                        <td>EP11111536</td>
+                                        <td>沉浸又</td>
+                                        <td>A133707015</td>
+                                        <td>學歷</td>
+                                        <td>第4條 第2款</td>
+                                        <td>行政、教學</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>學校及社會環境教育</td>
+                                        <td>電子建檔</td>
+                                        <td>2022/5/25</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=1a191461-2c84-48b8-8968-3f2e08c07d04">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="1a191461-2c84-48b8-8968-3f2e08c07d04"></td>
+                                    </tr>
+                                    <tr role="row" class="even">
+                                        <td class="dtr-control sorting_1" tabindex="0">2</td>
+                                        <td>2022/5/25</td>
+                                        <td>-</td>
+                                        <td>EP31111535</td>
+                                        <td>沉浸又</td>
+                                        <td>A138199219</td>
+                                        <td>專長</td>
+                                        <td>第6條 第1款</td>
+                                        <td>行政</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>學校及社會環境教育</td>
+                                        <td>電子建檔</td>
+                                        <td>2022/5/25</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=15c188e5-32c1-42cf-b530-fb1d11a40a56">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="15c188e5-32c1-42cf-b530-fb1d11a40a56"></td>
+                                    </tr>
+                                    <tr role="row" class="odd">
+                                        <td class="dtr-control sorting_1" tabindex="0">3</td>
+                                        <td>2022/5/24</td>
+                                        <td>2-1997</td>
+                                        <td>EP21111534</td>
+                                        <td>沉浸又</td>
+                                        <td>A134029725</td>
+                                        <td>經歷</td>
+                                        <td>第5條 第2款</td>
+                                        <td>行政、教學</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>學校及社會環境教育</td>
+                                        <td>程序審查申請補正</td>
+                                        <td>2022/5/24</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=d66eef2f-eed5-46be-a95a-cb40d255c0bb">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="d66eef2f-eed5-46be-a95a-cb40d255c0bb"></td>
+                                    </tr>
+                                    <tr role="row" class="even">
+                                        <td class="dtr-control sorting_1" tabindex="0">4</td>
+                                        <td>2022/5/20</td>
+                                        <td>-</td>
+                                        <td>EP11111533</td>
+                                        <td>星巴克</td>
+                                        <td>A136595428</td>
+                                        <td>學歷</td>
+                                        <td>第4條 第1款</td>
+                                        <td>行政</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>-</td>
+                                        <td>電子建檔中</td>
+                                        <td>2022/5/20</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=21b2a4b7-4460-4441-9cb1-7e6bab63239a">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="21b2a4b7-4460-4441-9cb1-7e6bab63239a"></td>
+                                    </tr>
+                                    <tr role="row" class="odd">
+                                        <td class="dtr-control sorting_1" tabindex="0">5</td>
+                                        <td>2022/5/18</td>
+                                        <td>1-6984</td>
+                                        <td>EP11111532</td>
+                                        <td>沉浸又</td>
+                                        <td>A117436397</td>
+                                        <td>學歷</td>
+                                        <td>第4條 第2款</td>
+                                        <td>行政、教學</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>氣候變遷</td>
+                                        <td>審查小組會議中</td>
+                                        <td>2022/5/18</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=38bb86a2-6a66-4582-b3e2-f6e480a2f85b">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="38bb86a2-6a66-4582-b3e2-f6e480a2f85b"></td>
+                                    </tr>
+                                    <tr role="row" class="even">
+                                        <td class="dtr-control sorting_1" tabindex="0">6</td>
+                                        <td>2022/5/10</td>
+                                        <td>-</td>
+                                        <td>EP31110534</td>
+                                        <td>沉浸又</td>
+                                        <td>A108800914</td>
+                                        <td>專長</td>
+                                        <td>第6條 第1款</td>
+                                        <td>教學</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>學校及社會環境教育</td>
+                                        <td>電子建檔中</td>
+                                        <td>2022/5/10</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=bcecb348-1843-410e-b39d-81defd55aaf4">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="bcecb348-1843-410e-b39d-81defd55aaf4"></td>
+                                    </tr>
+                                    <tr role="row" class="odd">
+                                        <td class="dtr-control sorting_1" tabindex="0">7</td>
+                                        <td>2022/5/9</td>
+                                        <td>-</td>
+                                        <td>EP31110533</td>
+                                        <td>沉浸又</td>
+                                        <td>A161091460</td>
+                                        <td>專長</td>
+                                        <td>第6條 第1款</td>
+                                        <td>教學</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>學校及社會環境教育</td>
+                                        <td>電子建檔中</td>
+                                        <td>2022/5/9</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=9879f215-80fc-468e-8b02-6b9f80b82cb3">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="9879f215-80fc-468e-8b02-6b9f80b82cb3"></td>
+                                    </tr>
+                                    <tr role="row" class="even">
+                                        <td class="dtr-control sorting_1" tabindex="0">8</td>
+                                        <td>2022/5/9</td>
+                                        <td>-</td>
+                                        <td>EP21110532</td>
+                                        <td>沉浸又</td>
+                                        <td>A135373651</td>
+                                        <td>經歷</td>
+                                        <td>第5條 第3款</td>
+                                        <td>行政、教學</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>學校及社會環境教育、公害防治</td>
+                                        <td>電子建檔中</td>
+                                        <td>2022/5/9</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=e9d65acc-474b-41ec-9d03-2ab4a7faff59">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="e9d65acc-474b-41ec-9d03-2ab4a7faff59"></td>
+                                    </tr>
+                                    <tr role="row" class="odd">
+                                        <td class="dtr-control sorting_1" tabindex="0">9</td>
+                                        <td>2022/5/4</td>
+                                        <td>1-6983</td>
+                                        <td>EP11119532</td>
+                                        <td>沉浸又</td>
+                                        <td>A125560115</td>
+                                        <td>學歷</td>
+                                        <td>第4條 第2款</td>
+                                        <td>行政、教學</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>學校及社會環境教育</td>
+                                        <td>大會審查通過認證</td>
+                                        <td>2022/5/4</td>
+                                        <td>(111)EP105001</td>
+                                        <td>2022/5/4~<br>2027/5/3</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=626b31df-fed6-4aaf-af35-3611d730aa16">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="626b31df-fed6-4aaf-af35-3611d730aa16"></td>
+                                    </tr>
+                                    <tr role="row" class="even">
+                                        <td class="dtr-control sorting_1" tabindex="0">10</td>
+                                        <td>2022/5/4</td>
+                                        <td>-</td>
+                                        <td>EP31119531</td>
+                                        <td>測試專長</td>
+                                        <td>A131179951</td>
+                                        <td>專長</td>
+                                        <td>第6條 第1款</td>
+                                        <td>教學</td>
+                                        <td>新申請</td>
+                                        <td>認證</td>
+                                        <td>學校及社會環境教育</td>
+                                        <td>電子建檔中</td>
+                                        <td>2022/5/4</td>
+                                        <td>-</td>
+                                        <td>-</td>
+                                        <td><a class="btn btn-primary btn-sm mb-1" href="https://neecs.eri.com.tw/AuthLecturer/Edit?id=b8e6ff96-86a9-4638-9fa2-9889a2a6b336">檢視</a></td>
+                                        <td><input type="checkbox" name="ckb_item" class="ckb_item" value="b8e6ff96-86a9-4638-9fa2-9889a2a6b336"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div id="Qry_processing" class="dataTables_processing card" style="display: none;">處理中...</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-5"></div>
+                        <div class="col-sm-12 col-md-7">
+                            <div class="dataTables_paginate paging_simple_numbers" id="Qry_paginate">
+                                <ul class="pagination">
+                                    <li class="paginate_button page-item previous disabled" id="Qry_previous"><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="0" tabindex="0" class="page-link">上一頁</a></li>
+                                    <li class="paginate_button page-item active"><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="1" tabindex="0" class="page-link">1</a></li>
+                                    <li class="paginate_button page-item "><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="2" tabindex="0" class="page-link">2</a></li>
+                                    <li class="paginate_button page-item "><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="3" tabindex="0" class="page-link">3</a></li>
+                                    <li class="paginate_button page-item "><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="4" tabindex="0" class="page-link">4</a></li>
+                                    <li class="paginate_button page-item "><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="5" tabindex="0" class="page-link">5</a></li>
+                                    <li class="paginate_button page-item disabled" id="Qry_ellipsis"><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="6" tabindex="0" class="page-link">…</a></li>
+                                    <li class="paginate_button page-item "><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="7" tabindex="0" class="page-link">1460</a></li>
+                                    <li class="paginate_button page-item next" id="Qry_next"><a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" aria-controls="Qry" data-dt-idx="8" tabindex="0" class="page-link">下一頁</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HjahxQIEBlGg841dfKz64-vTcwD8sni5mYgu81VDC1Ee979nwODmyVsa7t0dLKR1UH2OeK8JrqQfLuwwI94_XhXzxiaytoHKbTEYE5OePlKVeonMClD7vUz0FiUTKRI8h7hOlcNYPisZDszUvl05WUpnT4eI-t1JgIOd_A4EYqVhhPaU5QBPRic-JiKzel-Ag"></form>
+
+
+        </main>
+    </div>
+    <footer>
+        <a href="https://neecs.eri.com.tw/AuthLecturerBack/CaseQry#" title="下方區域" accesskey="B">:::</a>
+        <div class="text-center m-auto">
+            <div class="text-center p-2">
+                <a class="info" href="https://www.epa.gov.tw/Page/70E67DE2079DF931" target="_blank">網頁政策及宣告</a>
+                <a class="info" href="https://eecs.epa.gov.tw/frontRWD/DefaultRWD.aspx#" target="_blank">聯絡我們</a>
+                <a class="info" href="https://epamail.epa.gov.tw/Front/MailBoxHome" target="_blank">意見信箱</a>
+                <br>
+                <div class="text-white mt-2">
+                    客服信箱：eecs@eri.com.tw<br> 客服電話一：0972-472902
+                    <br> 客服電話二：0972-480370
+                    <br> 地址：320217桃園市中壢區民族路三段260號5樓
+                    <br> 系統更新日期：2022/5/25 版權所有：行政院環境保護署<br> 建議解析度 1024x768 以上觀看<br> &nbsp;訪客人次： <span id="WebCounterTotal ">274423</span><br>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="js/jquery.min.js.下載"></script>
+    <script src="js/jquery-ui.min.js.下載"></script>
+    <script src="js/popper.min.js.下載"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/site.js.下載"></script>
+    <script src="js/jquery.dataTables.min.js.下footer載"></script>
+    <script src="js/dataTables.bootstrap4.min.js.下載"></script>
+    <!--響應式table-->
+    <script src="js/dataTables.responsive.min.js.下載"></script>
+    <script src="js/responsive.bootstrap4.min.js.下載"></script>
+    <!--響應式table-->
+    <script src="js/sweetalert2.min.js.下載"></script>
+    <script src="js/MyJS.js"></script>
+    <script src="js/vue.js.下載"></script>
+    <script src="js/main.js.下載"></script>
+    <script src="js/tableToExcel.js.下載"></script>
+    <script src="js/jquery.validate.js.下載"></script>
+    <script src="js/jquery.validate.unobtrusive.js.下載"></script>
+
+    <script>
+        window.history.replaceState(null, null, window.location.href);
+    </script>
+
+</body>
+
+</html>

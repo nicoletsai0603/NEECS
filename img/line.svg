@@ -1,0 +1,9 @@
+<svg id="_7-Line" data-name="7-Line" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <circle id="椭圆_1" data-name="椭圆 1" cx="12.5" cy="12.5" r="12.5" transform="translate(0)" fill="#7db33d"/>
+  <g id="组_1" data-name="组 1" transform="translate(5 9.167)">
+    <path id="路径_7" data-name="路径 7" d="M34.984,18.482a.5.5,0,1,0,0-.995h-1.99V15.995h1.99a.5.5,0,1,0,0-.995H32.5a.5.5,0,0,0-.5.5v4.974a.5.5,0,0,0,.5.5h2.487a.5.5,0,1,0,0-.995h-1.99V18.482Z" transform="translate(-20.56 -15)" fill="#fff"/>
+    <path id="路径_8" data-name="路径 8" d="M11.984,20.969H9.5a.5.5,0,0,1-.5-.5V15.5a.5.5,0,1,1,.995,0v4.477h1.99a.5.5,0,1,1,0,.995Z" transform="translate(-9 -15)" fill="#fff"/>
+    <path id="路径_9" data-name="路径 9" d="M18.5,20.969a.5.5,0,0,1-.5-.5V15.5a.5.5,0,1,1,.995,0v4.974A.5.5,0,0,1,18.5,20.969Z" transform="translate(-13.523 -15)" fill="#fff"/>
+    <path id="路径_10" data-name="路径 10" d="M25.482,20.969a.5.5,0,0,1-.426-.241l-2.061-3.435v3.178a.5.5,0,1,1-.995,0V15.5a.5.5,0,0,1,.924-.256l2.061,3.435V15.5a.5.5,0,1,1,.995,0v4.974a.5.5,0,0,1-.365.48A.505.505,0,0,1,25.482,20.969Z" transform="translate(-15.534 -15)" fill="#fff"/>
+  </g>
+</svg>
