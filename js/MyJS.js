@@ -1,5 +1,4 @@
-﻿
-//自訂義alert，來源sweetalert
+﻿//自訂義alert，來源sweetalert
 function CustAlert(IsOK, title, html, url, IsDialogMode) {
     Swal.fire({
         icon: IsOK.toString().toUpperCase() == 'TRUE' ? 'success' : 'error',
@@ -7,15 +6,14 @@ function CustAlert(IsOK, title, html, url, IsDialogMode) {
         html: html,
         confirmButtonText: '確定',
         allowOutsideClick: false
-    }).then(function (result) {
+    }).then(function(result) {
         if (result.value) {
             if (url) {
                 //若為彈跳視窗模式，則關閉彈跳視窗，並且導頁至指定頁面
                 if (IsDialogMode.toString().toUpperCase() == 'TRUE') {
                     parent.$("#myModal").modal('hide');
                     parent.location.href = url.replace('&amp;', '&');
-                }
-                else {
+                } else {
                     location.href = url.replace('&amp;', '&');
                 }
             }
@@ -46,11 +44,11 @@ function ControlModify(IsOk) {
     }
 }
 
-$(document).ready(function () {
-    $('.dropdown-menu a.dropdown-toggle').on('click', function (e) {
+$(document).ready(function() {
+    $('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
         var $el = $(this);
         $el.toggleClass('active-dropdown');
-        var $parent = $(this).offsetParent(".dropdown-menu");
+        var $parent = $(this).offsetParent(".dropdown-menu"); //offsetParent() 方法返回第一个定位的祖先元素
         if (!$(this).next().hasClass('show')) {
             $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
         }
@@ -59,7 +57,7 @@ $(document).ready(function () {
 
         $(this).parent("li").toggleClass('show');
 
-        $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function (e) {
+        $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
             $('.dropdown-menu .show').removeClass("show");
             $el.removeClass('active-dropdown');
         });
@@ -466,58 +464,42 @@ function ChangeZipCode(elem) {
     const nameList = Object.values(AutoAddrData).map(item => item.city);
     var city = $(elem).val().substr(0, 6);
     if (jQuery.inArray(city, nameList) !== -1) {
-        $.each(AutoAddrData, function (index, val) {
+        $.each(AutoAddrData, function(index, val) {
             if (val.city == city) {
                 $(elem).next().next().val(val.zip);
             }
         });
-    }
-    else if ($(elem).val().substr(0, 3) == "新竹市") {
+    } else if ($(elem).val().substr(0, 3) == "新竹市") {
         $(elem).next().next().val(300);
-    }
-    else if ($(elem).val().substr(0, 3) == "嘉義市") {
+    } else if ($(elem).val().substr(0, 3) == "嘉義市") {
         $(elem).next().next().val(600);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺中市中區") {
+    } else if ($(elem).val().substr(0, 5) == "臺中市中區") {
         $(elem).next().next().val(400);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺中市東區") {
+    } else if ($(elem).val().substr(0, 5) == "臺中市東區") {
         $(elem).next().next().val(401);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺中市南區") {
+    } else if ($(elem).val().substr(0, 5) == "臺中市南區") {
         $(elem).next().next().val(402);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺中市西區") {
+    } else if ($(elem).val().substr(0, 5) == "臺中市西區") {
         $(elem).next().next().val(403);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺中市北區") {
+    } else if ($(elem).val().substr(0, 5) == "臺中市北區") {
         $(elem).next().next().val(404);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺南市東區") {
+    } else if ($(elem).val().substr(0, 5) == "臺南市東區") {
         $(elem).next().next().val(701);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺南市南區") {
+    } else if ($(elem).val().substr(0, 5) == "臺南市南區") {
         $(elem).next().next().val(702);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺南市西區") {
+    } else if ($(elem).val().substr(0, 5) == "臺南市西區") {
         $(elem).next().next().val(703);
-    }
-    else if ($(elem).val().substr(0, 5) == "臺南市北區") {
+    } else if ($(elem).val().substr(0, 5) == "臺南市北區") {
         $(elem).next().next().val(704);
-    }
-    else if ($(elem).val().substr(0, 7) == "嘉義縣阿里山鄉") {
+    } else if ($(elem).val().substr(0, 7) == "嘉義縣阿里山鄉") {
         $(elem).next().next().val(605);
-    }
-    else if ($(elem).val().substr(0, 7) == "高雄市那瑪夏區") {
+    } else if ($(elem).val().substr(0, 7) == "高雄市那瑪夏區") {
         $(elem).next().next().val(849);
-    }
-    else if ($(elem).val().substr(0, 7) == "屏東縣三地門鄉") {
+    } else if ($(elem).val().substr(0, 7) == "屏東縣三地門鄉") {
         $(elem).next().next().val(901);
-    }
-    else if ($(elem).val().substr(0, 7) == "臺東縣太麻里鄉") {
+    } else if ($(elem).val().substr(0, 7) == "臺東縣太麻里鄉") {
         $(elem).next().next().val(963);
-    }
-    else {
+    } else {
         $(elem).next().next().val("");
     }
 }

@@ -3829,3 +3829,8 @@ h2.title:before {
     padding-left: 32px;
     margin-right: 10px;
 }
+
+.width70p {
+    width: 70%;
+    margin: auto;
+}

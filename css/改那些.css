@@ -49,7 +49,12 @@
     /* justify-content: space-between; */
 }
 
+.width70p {
+    width: 70%;
+    margin: auto;
+}
+
 
 /* index.html */
 
-<div class="leftcontent col-xl-9"><div class="rightbanner col-xl-3">
+<div class="row width70p"><div class="leftcontent col-xl-9"><div class="rightbanner col-xl-3">
